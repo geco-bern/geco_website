@@ -94,9 +94,9 @@
     
     <item>
       <title>Bachelor thesis - Ecosystem water balance and subsurface hydrology</title>
-      <link>https://geco-group.org/joinus/ecosystem_waterbalance/</link>
+      <link>https://geco-group.org/joinus_old/ecosystem_waterbalance/</link>
       <pubDate>Wed, 21 Feb 2024 08:24:51 +0100</pubDate>
-      <guid>https://geco-group.org/joinus/ecosystem_waterbalance/</guid>
+      <guid>https://geco-group.org/joinus_old/ecosystem_waterbalance/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Prof. Benjamin Stocker&lt;/p&gt;
 &lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Exchange fluxes of water vapour between ecosystems and the atmosphere are commonly measured using eddy-covariance technique. This gives information about how much water is transpired by plants and evaporated from soil and plant surfaces. Such fluxes are measured across a hundreds of sites globally, data is available and regularly used in our group, and interesting patterns emerge. For example, some sites appear to evaporate a large fraction of annual precipitation. Some even more than annual precipitation. This raises important questions: Is this a data artefact? Or are there topographic and hydrological patterns that can explain differences between sites?&lt;/p&gt;
@@ -119,9 +119,9 @@
     
     <item>
       <title>Master and Bachelor theses - Topographic controls on vegetation patterns</title>
-      <link>https://geco-group.org/joinus/topo_veg/</link>
+      <link>https://geco-group.org/joinus_old/topo_veg/</link>
       <pubDate>Wed, 21 Feb 2024 08:19:24 +0100</pubDate>
-      <guid>https://geco-group.org/joinus/topo_veg/</guid>
+      <guid>https://geco-group.org/joinus_old/topo_veg/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Dr. Koen Hufkens and Prof. Benjamin Stocker&lt;/p&gt;
 &lt;p&gt;We call on students to determine the importance of topographic and soil factors on natural vegetative landscape components (forest cover fraction, vegetation height, woody fraction).&lt;/p&gt;
 &lt;p&gt;
@@ -155,6 +155,24 @@
 &lt;p&gt;&lt;em&gt;Above: Images from Fan et al., 2019 &lt;a href=&#34;https://doi.org/10.1029/2018WR023903&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2018WR023903&lt;/a&gt;, (a) (&lt;a href=&#34;https://en.wikipedia.org/wiki/Desert_riparian;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/Desert_riparian;&lt;/a&gt; (b) GoogleEarth; (c) photo by Andrew Plumptre/WCS, &lt;a href=&#34;https://news.mongabay.com/2014/11/mapping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://news.mongabay.com/2014/11/mapping&lt;/a&gt;‐mistake‐leaves‐wildlife‐at‐risk/; (d) &lt;a href=&#34;http://wikimapia.org/8582923/Pantanal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://wikimapia.org/8582923/Pantanal&lt;/a&gt;‐Mato‐Grossense‐NationalPark&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Topographic features induce strong differences in the local micro-climate due to varying degrees of water availability (drainage) and insolation. Although these patterns are intuitive and readily visible in the landscape they are not considered in vegetation modelling due to scale issues. As a first step in improving vegetation modelling a deeper understanding of these patterns is required.&lt;/p&gt;
 &lt;p&gt;We invite students to model remote sensing based metrics of vegetation responses (e.g. vegetation greenness) in relation to different topographic predictors. There will be a strong focus on both the scientific component as well as the implementation, for which students will be required to use the Microsoft Planetary Computer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master thesis - Hyperspectral imaging of vegetation</title>
+      <link>https://geco-group.org/joinus/hyperspec/</link>
+      <pubDate>Wed, 21 Feb 2024 08:19:24 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/hyperspec/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; Hyperspectral imaging of vegetation has the potential to identify plant stress, including water stress. Drone-based hyperspectral imaging thus enables the assessment of plant stress across the landscape. At this scale, plant water stress is not evenly distributed and potentially relates to gradients in topography and vegetation-groundwater connectivity. For instance, downslope positions retain more groundwater compared to upslope positions, while steeper slopes accelerate surface run-off and subsurface flow, reducing soil moisture retention. Consequently, groundwater tables and depths are often defined as subdued replicas of the overlying topography.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim:&lt;/strong&gt; The aim of this thesis is to perform a pilot campaign for a one-time assessment of the spectral property of the surface reflectance in a forest near Bern, relating patterns to species identity and their position in the landscape.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; Drone-based hyperspectral images and LiDAR data processing and analysis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic understanding of remote sensing.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools is a prerequisite.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Dr. Yousra El-Mejjaouy and Prof. Benjamin Stocker&lt;/p&gt;
 </description>
     </item>
     
