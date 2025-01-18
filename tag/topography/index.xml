@@ -53,23 +53,5 @@
 </description>
     </item>
     
-    <item>
-      <title>Master thesis - Hyperspectral imaging of vegetation</title>
-      <link>https://geco-group.org/joinus/hyperspec/</link>
-      <pubDate>Wed, 21 Feb 2024 08:19:24 +0100</pubDate>
-      <guid>https://geco-group.org/joinus/hyperspec/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; Hyperspectral imaging of vegetation has the potential to identify plant stress, including water stress. Drone-based hyperspectral imaging thus enables the assessment of plant stress across the landscape. At this scale, plant water stress is not evenly distributed and potentially relates to gradients in topography and vegetation-groundwater connectivity. For instance, downslope positions retain more groundwater compared to upslope positions, while steeper slopes accelerate surface run-off and subsurface flow, reducing soil moisture retention. Consequently, groundwater tables and depths are often defined as subdued replicas of the overlying topography.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Aim:&lt;/strong&gt; The aim of this thesis is to perform a pilot campaign for a one-time assessment of the spectral property of the surface reflectance in a forest near Bern, relating patterns to species identity and their position in the landscape.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; Drone-based hyperspectral images and LiDAR data processing and analysis.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Basic understanding of remote sensing.&lt;/li&gt;
-&lt;li&gt;Experience working with R or other data science tools is a prerequisite.&lt;/li&gt;
-&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Dr. Yousra El-Mejjaouy and Prof. Benjamin Stocker&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

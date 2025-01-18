@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Join us | Geocomputation and Earth Observation</title>
+    <title>Join us - Open positions and thesis topics | Geocomputation and Earth Observation</title>
     <link>https://geco-group.org/joinus/</link>
       <atom:link href="https://geco-group.org/joinus/index.xml" rel="self" type="application/rss+xml" />
-    <description>Join us</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2024 08:36:01 +0100</lastBuildDate>
+    <description>Join us - Open positions and thesis topics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jan 2025 08:36:01 +0100</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
-      <title>Join us</title>
+      <title>Join us - Open positions and thesis topics</title>
       <link>https://geco-group.org/joinus/</link>
     </image>
+    
+    <item>
+      <title>Master thesis - Hyperspectral imaging of vegetation</title>
+      <link>https://geco-group.org/joinus/hyperspec/</link>
+      <pubDate>Thu, 16 Jan 2025 08:36:01 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/hyperspec/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; Drone-based yperspectral imaging of vegetation has the potential to identify plant water stress across the landscape. It is hypothesised that at this scale, effects by limited moisture availability in the rooting zone are not evenly distributed and potentially relate to topographic gradients and vegetation-groundwater connectivity.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim:&lt;/strong&gt; The aim of this thesis is to perform a pilot campaign for a one-time assessment of the spectral property of the surface reflectance in a forest near Bern, relating patterns to species identity and their position in the landscape.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; Drone-based hyperspectral images and LiDAR data processing and analysis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic understanding of remote sensing.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools is a prerequisite.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Dr. Yousra El-Mejjaouy and Prof. Benjamin Stocker&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Postdoc - Next Generation Bern Earth System Model</title>
@@ -213,24 +231,6 @@ All applications received before 14th January 2025 will be reviewed, and further
 &lt;li&gt;Hufkens,  K., Friedl, M.A., Keenan, T.F., Sonnentag, O., Bailey, A., O&amp;rsquo;Keefe, J. and Richardson, A.D. (2012). Ecological impacts of a widespread frost event following early spring leaf-out. Glob Change Biol, 18: 2365-2377.&lt;/li&gt;
 &lt;li&gt;Piao, S, Liu, Q, Chen, A, et al. (2019). Plant phenology and global climate change: Current progresses and challenges. Glob Change Biol. 25: 1922– 1940.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Master thesis - Hyperspectral imaging of vegetation</title>
-      <link>https://geco-group.org/joinus/hyperspec/</link>
-      <pubDate>Wed, 21 Feb 2024 08:19:24 +0100</pubDate>
-      <guid>https://geco-group.org/joinus/hyperspec/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; Hyperspectral imaging of vegetation has the potential to identify plant stress, including water stress. Drone-based hyperspectral imaging thus enables the assessment of plant stress across the landscape. At this scale, plant water stress is not evenly distributed and potentially relates to gradients in topography and vegetation-groundwater connectivity. For instance, downslope positions retain more groundwater compared to upslope positions, while steeper slopes accelerate surface run-off and subsurface flow, reducing soil moisture retention. Consequently, groundwater tables and depths are often defined as subdued replicas of the overlying topography.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Aim:&lt;/strong&gt; The aim of this thesis is to perform a pilot campaign for a one-time assessment of the spectral property of the surface reflectance in a forest near Bern, relating patterns to species identity and their position in the landscape.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; Drone-based hyperspectral images and LiDAR data processing and analysis.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Basic understanding of remote sensing.&lt;/li&gt;
-&lt;li&gt;Experience working with R or other data science tools is a prerequisite.&lt;/li&gt;
-&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Dr. Yousra El-Mejjaouy and Prof. Benjamin Stocker&lt;/p&gt;
 </description>
     </item>
     
