@@ -7,7 +7,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/laura-marques/</loc>
-    <lastmod>2024-02-21T08:38:39+01:00</lastmod>
+    <lastmod>2025-01-30T11:57:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/yunpeng-luo/</loc>
@@ -23,15 +23,31 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/authors/</loc>
-    <lastmod>2025-01-16T15:23:58+01:00</lastmod>
+    <lastmod>2025-01-30T11:57:12+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/benjamin-stocker/</loc>
+    <lastmod>2025-01-30T11:57:12+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/project/stl/</loc>
+    <lastmod>2025-01-30T11:57:12+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/</loc>
+    <lastmod>2025-01-30T11:57:12+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/project/</loc>
+    <lastmod>2025-01-30T11:57:12+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/project/pheno/</loc>
+    <lastmod>2025-01-30T11:57:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/drone/</loc>
     <lastmod>2025-01-16T08:36:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/</loc>
-    <lastmod>2025-01-16T15:23:58+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/hyperspectral/</loc>
@@ -60,10 +76,6 @@
   </url><url>
     <loc>https://geco-group.org/author/yousra-el-mejjaouy/</loc>
     <lastmod>2025-01-16T08:36:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/benjamin-stocker/</loc>
-    <lastmod>2024-12-11T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/earth-system-dynamics/</loc>
@@ -455,10 +467,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/nils-tinner/</loc>
-    <lastmod>2024-02-19T13:50:03+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/project/</loc>
     <lastmod>2024-02-19T13:50:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2052,10 +2060,6 @@
   </url><url>
     <loc>https://geco-group.org/project/diego/</loc>
     <lastmod>2021-09-25T11:57:26+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/project/pheno/</loc>
-    <lastmod>2021-09-25T11:57:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/project/jaideep/</loc>
