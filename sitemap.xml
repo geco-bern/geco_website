@@ -26,7 +26,7 @@
     <lastmod>2025-02-10T08:38:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/joinus/gpp_iav/</loc>
+    <loc>https://geco-group.org/joinus_old/gpp_iav/</loc>
     <lastmod>2025-02-10T08:38:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -42,7 +42,7 @@
     <lastmod>2025-02-10T08:38:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/joinus/</loc>
+    <loc>https://geco-group.org/joinus_old/</loc>
     <lastmod>2025-02-10T08:38:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -99,6 +99,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/hyperspectral/</loc>
+    <lastmod>2025-01-16T08:36:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/joinus/</loc>
     <lastmod>2025-01-16T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -450,10 +454,6 @@
     <lastmod>2025-01-16T15:23:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/joinus_old/</loc>
-    <lastmod>2024-04-05T08:57:24+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/tag/lemontree/</loc>
     <lastmod>2024-04-05T08:57:24+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -530,7 +530,7 @@
     <lastmod>2024-02-21T08:38:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/joinus/global_biomee/</loc>
+    <loc>https://geco-group.org/joinus_old/global_biomee/</loc>
     <lastmod>2024-02-21T08:38:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
