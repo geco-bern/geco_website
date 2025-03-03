@@ -3,7 +3,7 @@
 
 title: "Machine learning for GPP"
 summary: "Building powerful models for spatial upscaling."
-authors: []
+authors: ["Samantha Biegel","Benjamin Stocker"]
 tags: []
 categories: []
 date: 2021-09-25T11:56:58+02:00
@@ -40,22 +40,13 @@ url_video: ""
 slides: ""
 ---
 
-This research emerges from a semester project for the Data Science Lab at ETH Zürich, a course of the Computer Science study programme. I supervised students Alexandru Meterez, Piersilvio de Bartolomeis, and Zixin Shelley Shu, all MSc students in Computer Scince at ETHZ. The results are currently written up as a manuscript.
+Machine learning (ML) models are widely used to predict gross primary production (GPP) from ecosystem flux measurements, yet most ignore key temporal dependencies such as thermal acclimation, soil moisture stress, and cold acclimation. These factors influence photosynthesis over time, but many ML models treat GPP observations as independent, potentially limiting their accuracy and generalizability. While process-based models incorporate known physiological mechanisms, they often struggle with flexibility. This project compares a mechanistic photosynthesis model (P-model), a standard ML model (MLP), and a recurrent neural network (LSTM) to assess how well they capture temporal patterns and generalize across ecosystems.
+ 
+Our results (see figure below) show that both ML models outperform the process-based approach. The LSTM effectively captures seasonal dependencies and generalizes well to moist, seasonal sites. However, errors increase under extreme drought, particularly in evergreen forests where water stress effects are harder to detect. The LSTM performs better than the MLP in arid regions, suggesting that temporal memory enhances GPP predictions in water-limited conditions. However, performance remained highly variable in arid regions.
 
-## Motivation
+![](mlflx.png) 
+ 
+As climate change intensifies water stress, improving GPP models is increasingly important. Our findings highlight the potential of recurrent neural networks for capturing long-term environmental influences but also reveal challenges in arid regions.
+ 
+Results of this study will be presented at EGU 2025: Session: AS3.44 – Understanding feedbacks between greenhouse gas exchange processes and climate variability using in situ observations, remote sensing, and machine learning
 
-Ecosystem-atmosphere exchange fluxes of water vapour and CO2 are continuously measured at several hundred of sites, distributed across the globe. The oldest running sites have been recording data since over twenty years. Thanks to the international FLUXNET initiative, these time series data are made openly accessible from over hundred sites and provided in a standardized format and complemented with measurements of several meteorological variables, plus soil temperature and moisture, measured in parallel. These data provide an opportunity for understanding ecosystem fluxes and how they are affected by environmental covariates. The challenge is to build models that are sufficiently generalisable in space. That is, temporally resolved relationships learned from one subset of sites should be used effectively to predict time series, given environmental covariates, at new sites (spatial upscaling). 
-
-This is a challenge as previous research has shown that relatively powerful site-specific models can be trained, but predictions to new sites have been found wanting. This may be due to site-specific characteristics (e.g. vegetation type) that have thus far not been satisfactorily encoded in models. In other words, factors that would typically be regarded as random factors in mixed effects modelling, continue to undermine effective learning in machine learning models.
-
-## Approach
-
-We found that deep neural networks that learn temporal dependencies in the data (Long-Short Term Memory, LSTM) are well-suited for this prediction task. 
-
-
-## Preliminary results
-
-Our results indicate that spatially generalisable LSTM models outperform our mechanistic model (the P-model) in predicting GPP. 
-
-![](/img/mlflx.png) 
-*Benchmarking of the LSTM versus a "physical model" - the P-model. This shows the coefficient of determination for out-of-sample predictions at individual sites. Points above the 1:1 line (dashed) indicate that the LSTM outperforms the physical model.*

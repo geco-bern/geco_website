@@ -3,7 +3,7 @@
 
 title: "Greenness of Swiss Forests"
 summary: "Anomaly detection of the “greenness” of forests in Switzerland."
-authors: ["Samantha Biegel","Benjamin Stocker","Koen Hufkens","Nils Tinner"]
+authors: ["Samantha Biegel","Benjamin Stocker"]
 tags: []
 categories: []
 date: 2024-02-19T13:50:03+02:00
@@ -40,6 +40,10 @@ url_video: ""
 slides: ""
 ---
 
-We will develop an anomaly detection of the “greenness” of forests in Switzerland. Greenness is monitored by satellites and reflects the impacts of climate extremes (droughts, frost, storm, etc.). Detecting where and when climate extremes lead to vegetation stress and anomalous leaf senescence (browning) is challenging. Earth observation data captures these effects, but extracting information from the large and noisy data is challenging. However, the sheer volume of the data, combined with complementary geodata, enables novel machine learning-based methods to be applied for the task. This project explores new solutions and find answers for an important task - mapping and quantifying impacts by climate extremes.  
+Recent extreme droughts have caused significant damage to forests across Switzerland and neighbouring regions. Identifying where and when climate extremes impact forest health is crucial for understanding their severity and developing early-warning systems. Remote sensing offers a valuable tool for detecting vegetation stress, as drought-induced tree mortality and premature defoliation appear as negative anomalies (browning) in vegetation indices such as NDVI. However, reliably identifying these anomalies in large, noisy Earth Observation (EO) datasets remains a major challenge. Additionally, distinguishing drought-related browning from other disturbances like late frost, deforestation, or storms requires additional advancements.
 
-This project is funded as a *Swiss Data Science Center-University of Bern Pilot Project* and is supported by Dr. Michele Volpi (SDSC) and David Brüggemann (SDSC).
+![](dimpeo.png) 
+ 
+This project focuses on developing robust anomaly detection methods for high-resolution (20 m) Sentinel-2 EO time series data to map and quantify browning impacts on Swiss forests. We have developed two complementary approaches for detecting NDVI anomalies: a neural network-based method and a quantile random forest model. Both methods estimate a normal NDVI range by accounting for seasonal, spatial, and environmental variability, allowing us to flag pixels with significant deviations. One of the approaches has been deployed in a web application to provide a user-friendly interface for visualising detected anomalies across Switzerland.
+ 
+Next steps include clustering detected anomalies into events and identifying their environmental drivers. We will continue to update our web application with advances in anomaly detection and monitoring. Our aim is to inform forecasting and early-warning systems as well as forest management strategies.
