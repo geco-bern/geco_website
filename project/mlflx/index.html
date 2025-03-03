@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: February 19, 2025 --><html lang="en-us" >
+<!-- Last Published: March 3, 2025 --><html lang="en-us" >
 
 
 <head>
@@ -366,7 +366,7 @@
   
   "author": {
     "@type": "Person",
-    "name": "Koen Hufkens"
+    "name": "Samantha Biegel"
   },
   
   "publisher": {
@@ -910,6 +910,17 @@
 
   
   
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      <a href="/author/samantha-biegel/">Samantha Biegel</a></span>, <span class="author-highlighted">
+      <a href="/author/benjamin-stocker/">Benjamin Stocker</a></span>
+  </div>
+  
+  
 
   
   <span class="article-date">
@@ -956,14 +967,8 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>This research emerges from a semester project for the Data Science Lab at ETH Zürich, a course of the Computer Science study programme. I supervised students Alexandru Meterez, Piersilvio de Bartolomeis, and Zixin Shelley Shu, all MSc students in Computer Scince at ETHZ. The results are currently written up as a manuscript.</p>
-<h2 id="motivation">Motivation</h2>
-<p>Ecosystem-atmosphere exchange fluxes of water vapour and CO2 are continuously measured at several hundred of sites, distributed across the globe. The oldest running sites have been recording data since over twenty years. Thanks to the international FLUXNET initiative, these time series data are made openly accessible from over hundred sites and provided in a standardized format and complemented with measurements of several meteorological variables, plus soil temperature and moisture, measured in parallel. These data provide an opportunity for understanding ecosystem fluxes and how they are affected by environmental covariates. The challenge is to build models that are sufficiently generalisable in space. That is, temporally resolved relationships learned from one subset of sites should be used effectively to predict time series, given environmental covariates, at new sites (spatial upscaling).</p>
-<p>This is a challenge as previous research has shown that relatively powerful site-specific models can be trained, but predictions to new sites have been found wanting. This may be due to site-specific characteristics (e.g. vegetation type) that have thus far not been satisfactorily encoded in models. In other words, factors that would typically be regarded as random factors in mixed effects modelling, continue to undermine effective learning in machine learning models.</p>
-<h2 id="approach">Approach</h2>
-<p>We found that deep neural networks that learn temporal dependencies in the data (Long-Short Term Memory, LSTM) are well-suited for this prediction task.</p>
-<h2 id="preliminary-results">Preliminary results</h2>
-<p>Our results indicate that spatially generalisable LSTM models outperform our mechanistic model (the P-model) in predicting GPP.</p>
+      <p>Machine learning (ML) models are widely used to predict gross primary production (GPP) from ecosystem flux measurements, yet most ignore key temporal dependencies such as thermal acclimation, soil moisture stress, and cold acclimation. These factors influence photosynthesis over time, but many ML models treat GPP observations as independent, potentially limiting their accuracy and generalizability. While process-based models incorporate known physiological mechanisms, they often struggle with flexibility. This project compares a mechanistic photosynthesis model (P-model), a standard ML model (MLP), and a recurrent neural network (LSTM) to assess how well they capture temporal patterns and generalize across ecosystems.</p>
+<p>Our results (see figure below) show that both ML models outperform the process-based approach. The LSTM effectively captures seasonal dependencies and generalizes well to moist, seasonal sites. However, errors increase under extreme drought, particularly in evergreen forests where water stress effects are harder to detect. The LSTM performs better than the MLP in arid regions, suggesting that temporal memory enhances GPP predictions in water-limited conditions. However, performance remained highly variable in arid regions.</p>
 <p>
 
 
@@ -982,10 +987,18 @@
 
 <figure  >
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="/img/mlflx.png" alt="" loading="lazy" data-zoomable /></div>
+    <div class="w-100" ><img alt="" srcset="
+               /media/mlflx_hu86522dede40294bb942d126d0d60a145_182244_5d0d24d273fab457473db1fe17fa7126.webp 400w,
+               /media/mlflx_hu86522dede40294bb942d126d0d60a145_182244_d3af32c49f5e5edcda6e7437aec01115.webp 760w,
+               /media/mlflx_hu86522dede40294bb942d126d0d60a145_182244_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/media/mlflx_hu86522dede40294bb942d126d0d60a145_182244_5d0d24d273fab457473db1fe17fa7126.webp"
+               width="760"
+               height="566"
+               loading="lazy" data-zoomable /></div>
   </div></figure>
-
-<em>Benchmarking of the LSTM versus a &ldquo;physical model&rdquo; - the P-model. This shows the coefficient of determination for out-of-sample predictions at individual sites. Points above the 1:1 line (dashed) indicate that the LSTM outperforms the physical model.</em></p>
+</p>
+<p>As climate change intensifies water stress, improving GPP models is increasingly important. Our findings highlight the potential of recurrent neural networks for capturing long-term environmental influences but also reveal challenges in arid regions.</p>
+<p>Results of this study will be presented at EGU 2025: Session: AS3.44 – Understanding feedbacks between greenhouse gas exchange processes and climate variability using in situ observations, remote sensing, and machine learning</p>
 
     </div>
 
@@ -1119,6 +1132,7 @@
 
   
   
+    
 
 
 
@@ -1130,12 +1144,12 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/author/koen-hufkens/"><img class="avatar mr-3 avatar-circle" src="/author/koen-hufkens/avatar_huf35ada2787cfa57665e57b84210ffc9c_31472_270x270_fill_q75_lanczos_center.jpg" alt="Koen Hufkens"></a>
+      <a href="/author/samantha-biegel/"><img class="avatar mr-3 avatar-circle" src="/author/samantha-biegel/avatar_hud12ecade8210500a550d1a6b9368262f_25568_270x270_fill_q75_lanczos_center.jpg" alt="Samantha Biegel"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/author/koen-hufkens/">Koen Hufkens</a></h5>
-      <h6 class="card-subtitle">Senior Scientist</h6>
+      <h5 class="card-title"><a href="/author/samantha-biegel/">Samantha Biegel</a></h5>
+      <h6 class="card-subtitle">PhD Student, co-hosted ETH AI-Center</h6>
       
       <ul class="network-icon" aria-hidden="true">
   
@@ -1149,7 +1163,7 @@
     
     
     <li>
-      <a href="mailto:koen.hufkens@giub.unibe.ch" >
+      <a href="mailto:samantha.biegel@inf.ethz.ch" >
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -1166,8 +1180,8 @@
       
     
     <li>
-      <a href="https://twitter.com/koen_hufkens" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
+      <a href="https://github.com/SamanthaBiegel" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
       </a>
     </li>
   
@@ -1181,7 +1195,114 @@
       
     
     <li>
-      <a href="https://scholar.google.com/citations?user=3ZD7sagAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+      <a href="https://www.https://www.researchgate.net/profile/Samantha-Biegel" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/benjamin-stocker/"><img class="avatar mr-3 avatar-circle" src="/author/benjamin-stocker/avatar_hub22ab3715787c0675119095230c99362_4135958_270x270_fill_q75_lanczos_center.jpg" alt="Benjamin Stocker"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/benjamin-stocker/">Benjamin Stocker</a></h5>
+      <h6 class="card-subtitle">Group leader, Prof.</h6>
+      <p class="card-text">Heliocentrist human being.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/geco-bern" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0003-2697-9096" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Benjamin_Stocker" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.es/citations?user=TX7egiYAAAAJ&amp;hl=en" target="_blank" rel="noopener">
         <i class="ai ai-google-scholar"></i>
       </a>
     </li>
@@ -1198,8 +1319,25 @@
       
     
     <li>
-      <a href="https://github.com/bluegreen-labs" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
+      <a href="https://twitter.com/SteniBocker" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.youtube.com/@geco-group" target="_blank" rel="noopener">
+        <i class="fab fa-youtube"></i>
       </a>
     </li>
   
@@ -1209,6 +1347,7 @@
   </div>
 
 
+  
 
 
 

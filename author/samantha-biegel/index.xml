@@ -17,8 +17,77 @@
       <link>https://geco-group.org/project/greenness_chforests/</link>
       <pubDate>Mon, 19 Feb 2024 13:50:03 +0200</pubDate>
       <guid>https://geco-group.org/project/greenness_chforests/</guid>
-      <description>&lt;p&gt;We will develop an anomaly detection of the “greenness” of forests in Switzerland. Greenness is monitored by satellites and reflects the impacts of climate extremes (droughts, frost, storm, etc.). Detecting where and when climate extremes lead to vegetation stress and anomalous leaf senescence (browning) is challenging. Earth observation data captures these effects, but extracting information from the large and noisy data is challenging. However, the sheer volume of the data, combined with complementary geodata, enables novel machine learning-based methods to be applied for the task. This project explores new solutions and find answers for an important task - mapping and quantifying impacts by climate extremes.&lt;/p&gt;
-&lt;p&gt;This project is funded as a &lt;em&gt;Swiss Data Science Center-University of Bern Pilot Project&lt;/em&gt; and is supported by Dr. Michele Volpi (SDSC) and David Brüggemann (SDSC).&lt;/p&gt;
+      <description>&lt;p&gt;Recent extreme droughts have caused significant damage to forests across Switzerland and neighbouring regions. Identifying where and when climate extremes impact forest health is crucial for understanding their severity and developing early-warning systems. Remote sensing offers a valuable tool for detecting vegetation stress, as drought-induced tree mortality and premature defoliation appear as negative anomalies (browning) in vegetation indices such as NDVI. However, reliably identifying these anomalies in large, noisy Earth Observation (EO) datasets remains a major challenge. Additionally, distinguishing drought-related browning from other disturbances like late frost, deforestation, or storms requires additional advancements.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/dimpeo_hu0ec28758adc0aa72adfb3f3c8e134989_7811718_bb529b14b314cb66f07f039a1a0ace03.webp 400w,
+               /media/dimpeo_hu0ec28758adc0aa72adfb3f3c8e134989_7811718_8d5a097a50d98d76e257fc19df93ce4d.webp 760w,
+               /media/dimpeo_hu0ec28758adc0aa72adfb3f3c8e134989_7811718_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/dimpeo_hu0ec28758adc0aa72adfb3f3c8e134989_7811718_bb529b14b314cb66f07f039a1a0ace03.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;510&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;This project focuses on developing robust anomaly detection methods for high-resolution (20 m) Sentinel-2 EO time series data to map and quantify browning impacts on Swiss forests. We have developed two complementary approaches for detecting NDVI anomalies: a neural network-based method and a quantile random forest model. Both methods estimate a normal NDVI range by accounting for seasonal, spatial, and environmental variability, allowing us to flag pixels with significant deviations. One of the approaches has been deployed in a web application to provide a user-friendly interface for visualising detected anomalies across Switzerland.&lt;/p&gt;
+&lt;p&gt;Next steps include clustering detected anomalies into events and identifying their environmental drivers. We will continue to update our web application with advances in anomaly detection and monitoring. Our aim is to inform forecasting and early-warning systems as well as forest management strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine learning for GPP</title>
+      <link>https://geco-group.org/project/mlflx/</link>
+      <pubDate>Sat, 25 Sep 2021 11:56:58 +0200</pubDate>
+      <guid>https://geco-group.org/project/mlflx/</guid>
+      <description>&lt;p&gt;Machine learning (ML) models are widely used to predict gross primary production (GPP) from ecosystem flux measurements, yet most ignore key temporal dependencies such as thermal acclimation, soil moisture stress, and cold acclimation. These factors influence photosynthesis over time, but many ML models treat GPP observations as independent, potentially limiting their accuracy and generalizability. While process-based models incorporate known physiological mechanisms, they often struggle with flexibility. This project compares a mechanistic photosynthesis model (P-model), a standard ML model (MLP), and a recurrent neural network (LSTM) to assess how well they capture temporal patterns and generalize across ecosystems.&lt;/p&gt;
+&lt;p&gt;Our results (see figure below) show that both ML models outperform the process-based approach. The LSTM effectively captures seasonal dependencies and generalizes well to moist, seasonal sites. However, errors increase under extreme drought, particularly in evergreen forests where water stress effects are harder to detect. The LSTM performs better than the MLP in arid regions, suggesting that temporal memory enhances GPP predictions in water-limited conditions. However, performance remained highly variable in arid regions.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /media/mlflx_hu86522dede40294bb942d126d0d60a145_182244_5d0d24d273fab457473db1fe17fa7126.webp 400w,
+               /media/mlflx_hu86522dede40294bb942d126d0d60a145_182244_d3af32c49f5e5edcda6e7437aec01115.webp 760w,
+               /media/mlflx_hu86522dede40294bb942d126d0d60a145_182244_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/mlflx_hu86522dede40294bb942d126d0d60a145_182244_5d0d24d273fab457473db1fe17fa7126.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;566&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;As climate change intensifies water stress, improving GPP models is increasingly important. Our findings highlight the potential of recurrent neural networks for capturing long-term environmental influences but also reveal challenges in arid regions.&lt;/p&gt;
+&lt;p&gt;Results of this study will be presented at EGU 2025: Session: AS3.44 – Understanding feedbacks between greenhouse gas exchange processes and climate variability using in situ observations, remote sensing, and machine learning&lt;/p&gt;
 </description>
     </item>
     
