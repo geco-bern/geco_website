@@ -38,7 +38,7 @@ email: laura.marques@giub.unibe.ch
 superuser: true
 highlight_name: true
 user_groups:
-- Researchers
+- Alumni
 ---
 
 My research focuses on evaluating the impacts of global change on forest ecosystems. I am currently investigating changes in forest dynamics due to increasing carbon assimilation and growth rates. My approach includes the use of vegetation modelling combined with long-term forest inventory data and dendrochronological methods.
