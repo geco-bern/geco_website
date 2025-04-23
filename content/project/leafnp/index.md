@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Global leaf N and P"
+title: "Controls on leaf N and P"
 summary: "Identifying global controls and spatial upscaling"
-authors: []
+authors: [Benjamin Stocker]
 tags: []
 categories: []
-date: 2021-09-25T13:50:03+02:00
+date: 2025-04-22T13:50:03+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,12 +40,14 @@ url_video: ""
 slides: ""
 ---
 
-This research is led by Dr. Di Tian, former postdoc in my group for Computational Ecosystem Science, ETH Zurich, now at Beijing Forestry University.
+### **(How) do environmental factors and species affiliation influence nitrogen (N) and phosphorus (P) concentrations in plant leaves?**
 
-We want to understand what drives leaf nitrogen and phosphorous contents and their variations across the globe. To investigate this, we use a large dataset of plant-level observations by [Tian et al. (2019)](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2812), and complement it with environmental covariates. In constrast to earlier reports, we find that our environmental covariates explain about half of the variations observed in the data - an astonishingly high portion for an ecological dataset where covariates were not actually measured in the field but extracted from other global datasets.
+A widespread assumption is that the nutrient concentration of leaves is mainly determined by species affiliation - a concept known as the “biogeochemical niche hypothesis”. This hypothesis assumes that each plant species occupies a fixed biogeochemical niche with specific N:P ratios. Our study (Tian et al., 2024) challenges this assumption by analyzing the influence of environmental factors on leaf nutrient composition using various statistical and machine learning-based models.
+ 
+![Random Forest vs. Linear Mixed Effects model](leafp_lmm_rf.png "Proportion of explained variation (*R*<sup>2</sup>) of environmental factors (Environment) and species identity, estimated with different model types (LMM: Linear Mixed Effects Models, RF: Random Forest).") 
 
-Here is our preliminary result for a global leaf N map (gN/m2):
+About half of the total variation in leaf N and P and in the N:P ratio occurs within species, while environmental variables explain 29 % of the variation in leaf N, 31 % in leaf P and 22 % in the N:P ratio. Nitrogen deposition, atmospheric CO<sub>2</sub> concentrations and the temperature of the coldest month are particularly significant. Random forest models identified environmental factors as significant drivers of within-species variation, while linear mixed effects models largely failed to detect these effects. Many species show a high plasticity in their leaf nutrient composition along environmental gradients, indicating a flexible adaptation to different environmental conditions. The results of the study suggest that environmental factors play as important a role as phylogenetic affiliation in determining leaf nutrient composition. We also show that previous interpretations of the data were based on limited statistical methods. This challenges the previous assumption of a fixed biogeochemical niche and emphasizes the importance of phenotypic plasticity of plants.
 
-![](/img/leafn.png)
+#### Reference
 
-More on this to come very soon... 
+Tian, D., Yan, Z., Schmid, B., Kattge, J., Fang, J., and Stocker, B. D.: Environmental versus phylogenetic controls on leaf nitrogen and phosphorous concentrations in vascular plants, *Nature Communications*, 15, 5346, https://doi.org/10.1038/s41467-024-49665-4, 2024.
