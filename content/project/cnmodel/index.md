@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Theory and data of carbon-nitrogen cycle interactions"
-summary: "Identifying global controls and spatial upscaling"
+summary: "A stock-take of current modelling capabilities and a way forward with eco-evolutionary optimality theory."
 authors: [Benjamin Stocker]
 tags: []
 categories: []

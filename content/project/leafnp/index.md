@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Controls on leaf N and P"
-summary: "Identifying global controls and spatial upscaling"
+summary: "Quantifying the relative importance of environmental factors and species identity. Or: machine learning discovers more."
 authors: [Benjamin Stocker]
 tags: []
 categories: []
