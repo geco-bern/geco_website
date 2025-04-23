@@ -5,12 +5,166 @@
     <link>https://geco-group.org/post/</link>
       <atom:link href="https://geco-group.org/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 15:22:44 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Apr 2025 13:37:08 +0200</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>Blog</title>
       <link>https://geco-group.org/post/</link>
     </image>
+    
+    <item>
+      <title>Highlights of 2024</title>
+      <link>https://geco-group.org/post/report2024/</link>
+      <pubDate>Wed, 23 Apr 2025 13:37:08 +0200</pubDate>
+      <guid>https://geco-group.org/post/report2024/</guid>
+      <description>&lt;p&gt;Here are some highlights of our research and collaborations in 2024.&lt;/p&gt;
+&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
+&lt;h3 id=&#34;how-does-nitrogen-influence-the-global-carbon-cycle&#34;&gt;&lt;em&gt;How does nitrogen influence the global carbon cycle?&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;Nitrogen is an essential nutrient for plants and is used both in photosynthesis enzymes and for building cell structures. Therefore, plant availability of nitrogen plays an important role in the global carbon cycle and its change under global warming and an increase in atmospheric CO&lt;sub&gt;2&lt;/sub&gt;. For example, the question is whether and to what extent nitrogen availability limits the CO&lt;sub&gt;2&lt;/sub&gt; fertilization of plant growth. Global models simulate these relationships and therefore require a solid understanding of relevant processes. In our review study (Stocker et al., 2024), we show (i) that these models simulate strongly divergent global carbon balances in recent decades (Fig. 1), (ii) that these divergences are related to different representations of carbon-nitrogen cycle interactions, and (iii) that theoretical foundations from evolutionary ecology enable more robust models that explain essential patterns from empirical analyses and experiments.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-temporal-change-in-the-global-c-sink-over-the-years-1959-2020-from-model-simulations-and-observations-obs-models-are-divided-into-model-types-that-simulate-carbon-and-nitrogen-interactions-cn-and-models-that-only-simulate-the-carbon-cycle-c-model-names-are-given-in-the-legend-this-figure-shows-that-cn-models-diverge-strongly-in-their-simulation-of-the-land-carbon-sink-while-c-models-are-relatively-consistent-with-each-other-but-systematically-overestimate-the-sink-figure-from-stocker-et-al-2024&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;TRENDY C sink&#34; srcset=&#34;
+               /media/sink_trend_trendy_hu169a0d21c952d5d5f48878c75c78ebec_143408_f61e97168fdb5c4d518b9e53d7f7c3d7.webp 400w,
+               /media/sink_trend_trendy_hu169a0d21c952d5d5f48878c75c78ebec_143408_3ff34f758fc47da85a978f99011a489d.webp 760w,
+               /media/sink_trend_trendy_hu169a0d21c952d5d5f48878c75c78ebec_143408_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/sink_trend_trendy_hu169a0d21c952d5d5f48878c75c78ebec_143408_f61e97168fdb5c4d518b9e53d7f7c3d7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;590&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Temporal change in the global C sink over the years 1959-2020 from model simulations and observations (Obs.). Models are divided into model types that simulate carbon and nitrogen interactions (CN) and models that only simulate the carbon cycle (C). Model names are given in the legend. This figure shows that CN models diverge strongly in their simulation of the land carbon sink, while C models are relatively consistent with each other, but systematically overestimate the sink. Figure from Stocker et al. (2024).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In another study (Stocker &amp;amp; Prentice, 2024), we show how these theoretical foundations can be implemented in a dynamic model of terrestrial carbon and nitrogen dynamics. The foundation of the model is (i) the acclimatization of photosynthesis to the abiotic environment (climate, CO&lt;sub&gt;2&lt;/sub&gt;) and its implication for nitrogen demand, and (ii) the allocation of assimilated carbon for growth in aboveground biomass (stem, leaves) versus root growth. The model representation of allocation is based on the functional balance approach, which is dynamically simulated in the model as a function of nitrogen, light, and CO&lt;sub&gt;2&lt;/sub&gt; availability. With these relatively simple basic assumptions, we can predict both the seasonal plant growth dynamics and the CO&lt;sub&gt;2&lt;/sub&gt; and nitrogen balance of the ecosystem (Fig. 2), as well as the response of plants to experimentally manipulated CO&lt;sub&gt;2&lt;/sub&gt; concentration and nitrogen fertilization. Thus, we provide a demonstration of how the core of global vegetation models can be formulated to more reliably simulate global changes in the carbon cycle and thus in the Earth system.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;N sinks&#34; srcset=&#34;
+               /media/n_sinks_sources_hu5bbe5ba41921232431f4f9ec0d9c9f6d_118531_3ea58ba7cfcd9fd73e2cb313cc19f92f.webp 400w,
+               /media/n_sinks_sources_hu5bbe5ba41921232431f4f9ec0d9c9f6d_118531_74d4401e834323fa540956d3828fea47.webp 760w,
+               /media/n_sinks_sources_hu5bbe5ba41921232431f4f9ec0d9c9f6d_118531_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/n_sinks_sources_hu5bbe5ba41921232431f4f9ec0d9c9f6d_118531_3ea58ba7cfcd9fd73e2cb313cc19f92f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;256&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-modeled-seasonal-plant-growth-dynamics-and-the-c-and-nitrogen-n-balance-of-an-ecosystem-figure-from-stocker--prentice-2024&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;C sinks&#34; srcset=&#34;
+               /media/c_sinks_sources_hu99f830e2f24d10e77b169d1820397bff_138753_800ea3fb2c1baee5b3c6b64b404f6399.webp 400w,
+               /media/c_sinks_sources_hu99f830e2f24d10e77b169d1820397bff_138753_b33bb73c8a5101fe9dc722334dc4c01a.webp 760w,
+               /media/c_sinks_sources_hu99f830e2f24d10e77b169d1820397bff_138753_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/c_sinks_sources_hu99f830e2f24d10e77b169d1820397bff_138753_800ea3fb2c1baee5b3c6b64b404f6399.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;249&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Modeled seasonal plant growth dynamics and the C and nitrogen (N) balance of an ecosystem. Figure from Stocker &amp;amp; Prentice (2024).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;p&gt;Stocker, B. D., Dong, N., Perkowski, E. A., Schneider, P. D., Xu, H., de Boer, H. J., Rebel, K. T., Smith, N. G., Van Sundert, K., Wang, H., Jones, S. E., Prentice, I. C., and Harrison, S. P.: Empirical evidence and theoretical understanding of ecosystem carbon and nitrogen cycle interactions, &lt;em&gt;New Phytologist&lt;/em&gt;, n/a, &lt;a href=&#34;https://doi.org/10.1111/nph.20178&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1111/nph.20178&lt;/a&gt;, n.d.&lt;/p&gt;
+&lt;p&gt;Stocker, B. D. and Prentice, I. C.: CN-model: A dynamic model for the coupled carbon and nitrogen cycles in terrestrial ecosystems, &lt;em&gt;biorxiv&lt;/em&gt;, &lt;a href=&#34;https://doi.org/10.1101/2024.04.25.591063&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1101/2024.04.25.591063&lt;/a&gt;, 28 April 2024. [pre-print]&lt;/p&gt;
+&lt;h3 id=&#34;how-do-environmental-factors-and-species-affiliation-influence-nitrogen-n-and-phosphorus-p-concentrations-in-plant-leaves&#34;&gt;&lt;strong&gt;(How) do environmental factors and species affiliation influence nitrogen (N) and phosphorus (P) concentrations in plant leaves?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;A widespread assumption is that the nutrient concentration of leaves is mainly determined by species affiliation - a concept known as the “biogeochemical niche hypothesis”. This hypothesis assumes that each plant species occupies a fixed biogeochemical niche with specific N:P ratios. Our study (Tian et al., 2024) challenges this assumption by analyzing the influence of environmental factors on leaf nutrient composition using various statistical and machine learning-based models.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-proportion-of-explained-variation-r2-of-environmental-factors-environment-and-species-identity-estimated-with-different-model-types-lmm-linear-mixed-effects-models-rf-random-forest&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Random Forest vs. Linear Mixed Effects model&#34; srcset=&#34;
+               /media/leafp_lmm_rf_hu66b3cef420732c8db6cc4734d682f897_23016_12b39f46f601efb5e441dee396e324a4.webp 400w,
+               /media/leafp_lmm_rf_hu66b3cef420732c8db6cc4734d682f897_23016_82881663e997992007323a3fcf3cf621.webp 760w,
+               /media/leafp_lmm_rf_hu66b3cef420732c8db6cc4734d682f897_23016_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/leafp_lmm_rf_hu66b3cef420732c8db6cc4734d682f897_23016_12b39f46f601efb5e441dee396e324a4.webp&#34;
+               width=&#34;691&#34;
+               height=&#34;387&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Proportion of explained variation (&lt;em&gt;R&lt;/em&gt;&lt;sup&gt;2&lt;/sup&gt;) of environmental factors (Environment) and species identity, estimated with different model types (LMM: Linear Mixed Effects Models, RF: Random Forest).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;About half of the total variation in leaf N and P and in the N:P ratio occurs within species, while environmental variables explain 29 % of the variation in leaf N, 31 % in leaf P and 22 % in the N:P ratio. Nitrogen deposition, atmospheric CO&lt;sub&gt;2&lt;/sub&gt; concentrations and the temperature of the coldest month are particularly significant. Random forest models identified environmental factors as significant drivers of within-species variation, while linear mixed effects models largely failed to detect these effects. Many species show a high plasticity in their leaf nutrient composition along environmental gradients, indicating a flexible adaptation to different environmental conditions. The results of the study suggest that environmental factors play as important a role as phylogenetic affiliation in determining leaf nutrient composition. We also show that previous interpretations of the data were based on limited statistical methods. This challenges the previous assumption of a fixed biogeochemical niche and emphasizes the importance of phenotypic plasticity of plants.&lt;/p&gt;
+&lt;h4 id=&#34;reference&#34;&gt;Reference&lt;/h4&gt;
+&lt;p&gt;Tian, D., Yan, Z., Schmid, B., Kattge, J., Fang, J., and Stocker, B. D.: Environmental versus phylogenetic controls on leaf nitrogen and phosphorous concentrations in vascular plants, &lt;em&gt;Nature Communications&lt;/em&gt;, 15, 5346, &lt;a href=&#34;https://doi.org/10.1038/s41467-024-49665-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s41467-024-49665-4&lt;/a&gt;, 2024.&lt;/p&gt;
+&lt;h2 id=&#34;networking-and-collaboration&#34;&gt;Networking and collaboration&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Pilot project with Swiss Data Science Center to detect anomalies in satellite data of forests in Switzerland. Visualization of anomalies published: &lt;a href=&#34;https://ndvi-anomalies.dsl.unibe.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ndvi-anomalies.dsl.unibe.ch/&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Collaboration with Prof. O. Romppainen-Martius (GIUB) in the HYD-RESPONSES project on behalf of the Swiss Federal Office for the Environment.&lt;/li&gt;
+&lt;li&gt;Collaboration with Prof. M. Raissig (Biology, Uni. Bern) in project funded by Oeschger Centre for Climate Change Research&lt;/li&gt;
+&lt;li&gt;Collaboration with various partners (led by Prof. S. Harrison, Uni. Reading, UK) in project (LEMONTREE) funded by Schmidt Futures Virtual Earth System Research Institute&lt;/li&gt;
+&lt;li&gt;Collaboration on white paper “How to unfold the full potential of AI to mitigate climate change impact on Swiss society and economy” with various partners under the leadership of the Swiss Academy of Engineering Sciences. Publication: Holzner et al. (2024), see &amp;lsquo;Further publications&amp;rsquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;further-publications&#34;&gt;Further publications&lt;/h2&gt;
+&lt;p&gt;Bachofen, C., Tumber-Dávila, S. J., Mackay, D. S., McDowell, N. G., Carminati, A., Klein, T., Stocker, B. D., Mencuccini, M., and Grossiord, C.: Tree water uptake patterns across the globe, &lt;em&gt;New Phytologist&lt;/em&gt;, 242, 1891–1910, &lt;a href=&#34;https://doi.org/10.1111/nph.19762&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1111/nph.19762&lt;/a&gt;, 2024.&lt;/p&gt;
+&lt;p&gt;Holzner, C., Jennifer Susan Adams, Christos Altantzis, Tom Beucler, Julia Bingler, Samuel Brown, Thomas Brunschwiler, Chiara Colesanti-Senni, Frank de Morsier, Márcio dos Reis Martins, Andreas M. Fischer, Stefan Frei, Remo M. Frey, Alisa Freyre, Gregory Giuliani, Marvin Höge, Apolonio Huerta, Vincent Humphrey, Stefan Keller, Romeo Kienzler, Erwan Koch, Jonathan Koh, Agnieszka Kosinska, Sven Kotlarski, Manuel Kugler, Gerrit Kuhlmann, Markus Leippold, Reik Leiterer, David Leutwyler, Olivia Martius, Adrien Michel, Veruska Muccione, Michal Muszynski, Urs Neu, Diana-Denisa Rodila, Claudia Röösli, Andreas Scheidegger, Tobias Schimanski, Konrad Schindler, Christian Spindler, Tanja Stanelle, Benjamin Stocker, Devis Tuia, Saeid Ashraf Vaghefi, Jan Dirk Wegner, Jonas Weiss, Matthew Whellens, Mira Wolf-Bauwens, Hendrik Wulf, Biagio Zaffora, and Marius Zumwald: How to use the power of AI to reduce the impact of climate change on Switzerland, Swiss Academy of Engineering Sciences SATW, Zurich, 2024.&lt;/p&gt;
+&lt;p&gt;Liu, J., Ryu, Y., Luo, X., Dechant, B., Stocker, B. D., Keenan, T. F., Gentine, P., Li, X., Li, B., Harrison, S. P., and Prentice, I. C.: Evidence for widespread thermal acclimation of canopy photosynthesis, &lt;em&gt;Nature Plants&lt;/em&gt;, 1–9, &lt;a href=&#34;https://doi.org/10.1038/s41477-024-01846-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s41477-024-01846-1&lt;/a&gt;, 2024.&lt;/p&gt;
+&lt;p&gt;Sophia, G., Caldararu, S., Stocker, B. D., and Zaehle, S.: Leaf habit drives leaf nutrient resorption globally alongside nutrient availability and climate, &lt;em&gt;Biogeosciences&lt;/em&gt;, 21, 4169–4193, &lt;a href=&#34;https://doi.org/10.5194/bg-21-4169-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/bg-21-4169-2024&lt;/a&gt;, 2024.&lt;/p&gt;
+&lt;p&gt;Zhang-Zheng, H., Deng, X., Aguirre-Gutiérrez, J., Stocker, B. D., Thomson, E., Ding, R., Adu-Bredu, S., Duah-Gyamfi, A., Gvozdevaite, A., Moore, S., Oliveras Menor, I., Prentice, I. C., and Malhi, Y.: Why models underestimate West African tropical forest primary productivity, &lt;em&gt;Nature Communications&lt;/em&gt;, 15, 9574, &lt;a href=&#34;https://doi.org/10.1038/s41467-024-53949-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s41467-024-53949-0&lt;/a&gt;, 2024.&lt;/p&gt;
+&lt;p&gt;Kladny, K.-R., Milanta, M., Mraz, O., Hufkens, K., and Stocker, B. D.: Enhanced prediction of vegetation responses to extreme drought using deep learning and Earth observation data, &lt;em&gt;Ecological Informatics&lt;/em&gt;, 80, 102474, &lt;a href=&#34;https://doi.org/10.1016/j.ecoinf.2024.102474&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.ecoinf.2024.102474&lt;/a&gt;, 2024.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Make geospatial data with a time dimension into a tidy format</title>

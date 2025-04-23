@@ -23,22 +23,42 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/authors/</loc>
-    <lastmod>2025-02-10T08:38:39+01:00</lastmod>
+    <lastmod>2025-04-23T13:50:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/benjamin-stocker/</loc>
+    <lastmod>2025-04-23T13:50:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/</loc>
+    <lastmod>2025-04-23T13:50:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/project/</loc>
+    <lastmod>2025-04-23T13:50:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/project/cnmodel/</loc>
+    <lastmod>2025-04-23T13:50:03+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/post/</loc>
+    <lastmod>2025-04-23T13:37:08+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/post/report2024/</loc>
+    <lastmod>2025-04-23T13:37:08+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/project/leafnp/</loc>
+    <lastmod>2025-04-22T13:50:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/joinus_old/gpp_iav/</loc>
     <lastmod>2025-02-10T08:38:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/author/benjamin-stocker/</loc>
-    <lastmod>2025-02-10T08:38:39+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/tag/bsc/</loc>
-    <lastmod>2025-02-10T08:38:39+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/</loc>
     <lastmod>2025-02-10T08:38:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -59,10 +79,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/project/lastmillennium_drought/</loc>
-    <lastmod>2025-02-06T11:57:12+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/project/</loc>
     <lastmod>2025-02-06T11:57:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -996,10 +1012,6 @@
   </url><url>
     <loc>https://geco-group.org/author/y.-zhang/</loc>
     <lastmod>2023-11-30T07:35:02+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/post/</loc>
-    <lastmod>2023-10-27T15:22:44+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/code/</loc>
@@ -2320,10 +2332,6 @@
   </url><url>
     <loc>https://geco-group.org/publication/keenan-21-nat/</loc>
     <lastmod>2022-09-17T14:25:45+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/project/leafnp/</loc>
-    <lastmod>2021-09-25T13:50:03+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/project/martina/</loc>

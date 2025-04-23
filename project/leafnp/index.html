@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: April 14, 2025 --><html lang="en-us" >
+<!-- Last Published: April 23, 2025 --><html lang="en-us" >
 
 
 <head>
@@ -319,17 +319,17 @@
 <meta property="twitter:image" content="https://geco-group.org/project/leafnp/featured.png" />
 <meta property="og:site_name" content="Geocomputation and Earth Observation" />
 <meta property="og:url" content="https://geco-group.org/project/leafnp/" />
-<meta property="og:title" content="Global leaf N and P | Geocomputation and Earth Observation" />
+<meta property="og:title" content="Controls on leaf N and P | Geocomputation and Earth Observation" />
 <meta property="og:description" content="Identifying global controls and spatial upscaling" /><meta property="og:image" content="https://geco-group.org/project/leafnp/featured.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2021-09-25T13:50:03&#43;02:00"
+      content="2025-04-22T13:50:03&#43;02:00"
     />
   
   
-    <meta property="article:modified_time" content="2021-09-25T13:50:03&#43;02:00">
+    <meta property="article:modified_time" content="2025-04-22T13:50:03&#43;02:00">
   
 
 
@@ -355,18 +355,18 @@
     "@type": "WebPage",
     "@id": "https://geco-group.org/project/leafnp/"
   },
-  "headline": "Global leaf N and P",
+  "headline": "Controls on leaf N and P",
   
   "image": [
     "https://geco-group.org/project/leafnp/featured.png"
   ],
   
-  "datePublished": "2021-09-25T13:50:03+02:00",
-  "dateModified": "2021-09-25T13:50:03+02:00",
+  "datePublished": "2025-04-22T13:50:03+02:00",
+  "dateModified": "2025-04-22T13:50:03+02:00",
   
   "author": {
     "@type": "Person",
-    "name": "Koen Hufkens"
+    "name": "Benjamin Stocker"
   },
   
   "publisher": {
@@ -399,7 +399,7 @@
 
 
   
-  <title>Global leaf N and P | Geocomputation and Earth Observation</title>
+  <title>Controls on leaf N and P | Geocomputation and Earth Observation</title>
 
   
   
@@ -899,7 +899,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Global leaf N and P</h1>
+  <h1>Controls on leaf N and P</h1>
 
   
 
@@ -910,6 +910,16 @@
 
   
   
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      <a href="/author/benjamin-stocker/">Benjamin Stocker</a></span>
+  </div>
+  
+  
 
   
   <span class="article-date">
@@ -917,7 +927,7 @@
     
       
     
-    Sep 25, 2021
+    Apr 22, 2025
   </span>
   
 
@@ -944,9 +954,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 228px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 666px; max-height: 546px;">
   <div style="position: relative">
-    <img src="/project/leafnp/featured_hub9bf13c73ed656a9d8a7d55727f4735d_183059_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="228" alt="" class="featured-image">
+    <img src="/project/leafnp/featured_hu0c68fa19e43bf4fa9584d55131cc0523_171491_720x2500_fit_q75_h2_lanczos_3.webp" width="666" height="546" alt="" class="featured-image">
     
   </div>
 </div>
@@ -956,9 +966,8 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>This research is led by Dr. Di Tian, former postdoc in my group for Computational Ecosystem Science, ETH Zurich, now at Beijing Forestry University.</p>
-<p>We want to understand what drives leaf nitrogen and phosphorous contents and their variations across the globe. To investigate this, we use a large dataset of plant-level observations by <a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2812" target="_blank" rel="noopener">Tian et al. (2019)</a>, and complement it with environmental covariates. In constrast to earlier reports, we find that our environmental covariates explain about half of the variations observed in the data - an astonishingly high portion for an ecological dataset where covariates were not actually measured in the field but extracted from other global datasets.</p>
-<p>Here is our preliminary result for a global leaf N map (gN/m2):</p>
+      <h3 id="how-do-environmental-factors-and-species-affiliation-influence-nitrogen-n-and-phosphorus-p-concentrations-in-plant-leaves"><strong>(How) do environmental factors and species affiliation influence nitrogen (N) and phosphorus (P) concentrations in plant leaves?</strong></h3>
+<p>A widespread assumption is that the nutrient concentration of leaves is mainly determined by species affiliation - a concept known as the “biogeochemical niche hypothesis”. This hypothesis assumes that each plant species occupies a fixed biogeochemical niche with specific N:P ratios. Our study (Tian et al., 2024) challenges this assumption by analyzing the influence of environmental factors on leaf nutrient composition using various statistical and machine learning-based models.</p>
 <p>
 
 
@@ -975,12 +984,23 @@
 
 
 
-<figure  >
+<figure  id="figure-proportion-of-explained-variation-r2-of-environmental-factors-environment-and-species-identity-estimated-with-different-model-types-lmm-linear-mixed-effects-models-rf-random-forest">
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="/img/leafn.png" alt="" loading="lazy" data-zoomable /></div>
-  </div></figure>
+    <div class="w-100" ><img alt="Random Forest vs. Linear Mixed Effects model" srcset="
+               /media/leafp_lmm_rf_hu66b3cef420732c8db6cc4734d682f897_23016_12b39f46f601efb5e441dee396e324a4.webp 400w,
+               /media/leafp_lmm_rf_hu66b3cef420732c8db6cc4734d682f897_23016_82881663e997992007323a3fcf3cf621.webp 760w,
+               /media/leafp_lmm_rf_hu66b3cef420732c8db6cc4734d682f897_23016_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/media/leafp_lmm_rf_hu66b3cef420732c8db6cc4734d682f897_23016_12b39f46f601efb5e441dee396e324a4.webp"
+               width="691"
+               height="387"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Proportion of explained variation (<em>R</em><sup>2</sup>) of environmental factors (Environment) and species identity, estimated with different model types (LMM: Linear Mixed Effects Models, RF: Random Forest).
+    </figcaption></figure>
 </p>
-<p>More on this to come very soon&hellip;</p>
+<p>About half of the total variation in leaf N and P and in the N:P ratio occurs within species, while environmental variables explain 29 % of the variation in leaf N, 31 % in leaf P and 22 % in the N:P ratio. Nitrogen deposition, atmospheric CO<sub>2</sub> concentrations and the temperature of the coldest month are particularly significant. Random forest models identified environmental factors as significant drivers of within-species variation, while linear mixed effects models largely failed to detect these effects. Many species show a high plasticity in their leaf nutrient composition along environmental gradients, indicating a flexible adaptation to different environmental conditions. The results of the study suggest that environmental factors play as important a role as phylogenetic affiliation in determining leaf nutrient composition. We also show that previous interpretations of the data were based on limited statistical methods. This challenges the previous assumption of a fixed biogeochemical niche and emphasizes the importance of phenotypic plasticity of plants.</p>
+<h4 id="reference">Reference</h4>
+<p>Tian, D., Yan, Z., Schmid, B., Kattge, J., Fang, J., and Stocker, B. D.: Environmental versus phylogenetic controls on leaf nitrogen and phosphorous concentrations in vascular plants, <em>Nature Communications</em>, 15, 5346, <a href="https://doi.org/10.1038/s41467-024-49665-4" target="_blank" rel="noopener">https://doi.org/10.1038/s41467-024-49665-4</a>, 2024.</p>
 
     </div>
 
@@ -1007,7 +1027,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgeco-group.org%2Fproject%2Fleafnp%2F&amp;text=Global&#43;leaf&#43;N&#43;and&#43;P" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgeco-group.org%2Fproject%2Fleafnp%2F&amp;text=Controls&#43;on&#43;leaf&#43;N&#43;and&#43;P" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1024,7 +1044,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fgeco-group.org%2Fproject%2Fleafnp%2F&amp;t=Global&#43;leaf&#43;N&#43;and&#43;P" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fgeco-group.org%2Fproject%2Fleafnp%2F&amp;t=Controls&#43;on&#43;leaf&#43;N&#43;and&#43;P" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1043,7 +1063,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Global%20leaf%20N%20and%20P&amp;body=https%3A%2F%2Fgeco-group.org%2Fproject%2Fleafnp%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Controls%20on%20leaf%20N%20and%20P&amp;body=https%3A%2F%2Fgeco-group.org%2Fproject%2Fleafnp%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1060,7 +1080,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fgeco-group.org%2Fproject%2Fleafnp%2F&amp;title=Global&#43;leaf&#43;N&#43;and&#43;P" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fgeco-group.org%2Fproject%2Fleafnp%2F&amp;title=Controls&#43;on&#43;leaf&#43;N&#43;and&#43;P" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1077,7 +1097,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Global&#43;leaf&#43;N&#43;and&#43;P%20https%3A%2F%2Fgeco-group.org%2Fproject%2Fleafnp%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Controls&#43;on&#43;leaf&#43;N&#43;and&#43;P%20https%3A%2F%2Fgeco-group.org%2Fproject%2Fleafnp%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1094,7 +1114,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fgeco-group.org%2Fproject%2Fleafnp%2F&amp;title=Global&#43;leaf&#43;N&#43;and&#43;P" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fgeco-group.org%2Fproject%2Fleafnp%2F&amp;title=Controls&#43;on&#43;leaf&#43;N&#43;and&#43;P" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1114,6 +1134,7 @@
 
   
   
+    
 
 
 
@@ -1125,13 +1146,13 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/author/koen-hufkens/"><img class="avatar mr-3 avatar-circle" src="/author/koen-hufkens/avatar_huf35ada2787cfa57665e57b84210ffc9c_31472_270x270_fill_q75_lanczos_center.jpg" alt="Koen Hufkens"></a>
+      <a href="/author/benjamin-stocker/"><img class="avatar mr-3 avatar-circle" src="/author/benjamin-stocker/avatar_hub22ab3715787c0675119095230c99362_4135958_270x270_fill_q75_lanczos_center.jpg" alt="Benjamin Stocker"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/author/koen-hufkens/">Koen Hufkens</a></h5>
-      <h6 class="card-subtitle">Senior Scientist</h6>
-      
+      <h5 class="card-title"><a href="/author/benjamin-stocker/">Benjamin Stocker</a></h5>
+      <h6 class="card-subtitle">Group leader, Prof.</h6>
+      <p class="card-text">Heliocentrist human being.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
@@ -1143,8 +1164,10 @@
     
     
     
+      
+    
     <li>
-      <a href="mailto:koen.hufkens@giub.unibe.ch" >
+      <a href="/contact" >
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -1161,8 +1184,8 @@
       
     
     <li>
-      <a href="https://twitter.com/koen_hufkens" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
+      <a href="https://github.com/geco-bern" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
       </a>
     </li>
   
@@ -1176,7 +1199,37 @@
       
     
     <li>
-      <a href="https://scholar.google.com/citations?user=3ZD7sagAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+      <a href="https://orcid.org/0000-0003-2697-9096" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Benjamin_Stocker" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.es/citations?user=TX7egiYAAAAJ&amp;hl=en" target="_blank" rel="noopener">
         <i class="ai ai-google-scholar"></i>
       </a>
     </li>
@@ -1193,8 +1246,25 @@
       
     
     <li>
-      <a href="https://github.com/bluegreen-labs" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
+      <a href="https://twitter.com/SteniBocker" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.youtube.com/@geco-group" target="_blank" rel="noopener">
+        <i class="fab fa-youtube"></i>
       </a>
     </li>
   
@@ -1204,6 +1274,7 @@
   </div>
 
 
+  
 
 
 
