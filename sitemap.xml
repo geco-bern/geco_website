@@ -23,7 +23,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/authors/</loc>
-    <lastmod>2025-04-23T13:50:03+02:00</lastmod>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/benjamin-stocker/</loc>
@@ -31,7 +31,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/</loc>
-    <lastmod>2025-04-23T13:50:03+02:00</lastmod>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/project/</loc>
@@ -71,7 +71,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tags/</loc>
-    <lastmod>2025-02-10T08:38:39+01:00</lastmod>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/vegetation-models/</loc>
@@ -139,15 +139,31 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/publication-type/2/</loc>
-    <lastmod>2025-01-31T10:57:39+01:00</lastmod>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/arthur-gessler/</loc>
-    <lastmod>2025-01-31T10:57:39+01:00</lastmod>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/benjamin-d.-stocker/</loc>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/climate-change/</loc>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/dirk-nikolaus-karger/</loc>
     <lastmod>2025-01-31T10:57:39+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/earth-system-models/</loc>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/eco-evolutionary-optimality-theory/</loc>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/francesca-pellicciotti/</loc>
@@ -158,6 +174,14 @@
     <lastmod>2025-01-31T10:57:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://geco-group.org/publication/schneider-25-james/</loc>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/global-warming/</loc>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://geco-group.org/author/liangzhi-chen/</loc>
     <lastmod>2025-01-31T10:57:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -166,24 +190,44 @@
     <lastmod>2025-01-31T10:57:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://geco-group.org/tag/p-model/</loc>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://geco-group.org/author/pascal-buri/</loc>
     <lastmod>2025-01-31T10:57:39+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/pascal-d.-schneider/</loc>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/philipp-brun/</loc>
     <lastmod>2025-01-31T10:57:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://geco-group.org/tag/photosynthesis/</loc>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://geco-group.org/publication_types/</loc>
-    <lastmod>2025-01-31T10:57:39+01:00</lastmod>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/publication/</loc>
-    <lastmod>2025-01-31T10:57:39+01:00</lastmod>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/simone-fatichi/</loc>
     <lastmod>2025-01-31T10:57:39+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/thermal-acclimation/</loc>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/topt/</loc>
+    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/earth-system-dynamics/</loc>
@@ -220,10 +264,6 @@
   </url><url>
     <loc>https://geco-group.org/author/akwasi-duah-gyamfi/</loc>
     <lastmod>2025-01-16T15:23:56+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/benjamin-d.-stocker/</loc>
-    <lastmod>2025-01-31T10:57:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/benjamin-dechant/</loc>
@@ -282,10 +322,6 @@
     <lastmod>2025-01-31T10:57:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/tag/photosynthesis/</loc>
-    <lastmod>2025-01-16T15:23:56+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/author/pierre-gentine/</loc>
     <lastmod>2025-01-31T10:57:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -307,10 +343,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/stephen-adu-bredu/</loc>
-    <lastmod>2025-01-16T15:23:56+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/thermal-acclimation/</loc>
     <lastmod>2025-01-16T15:23:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -830,10 +862,6 @@
     <lastmod>2025-01-31T10:57:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/author/pascal-d.-schneider/</loc>
-    <lastmod>2025-01-16T15:23:56+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/tag/plant-functional-type/</loc>
     <lastmod>2025-01-16T15:23:58+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1274,10 +1302,6 @@
     <lastmod>2023-02-21T09:09:34+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/tag/p-model/</loc>
-    <lastmod>2023-02-21T09:09:34+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/joinus_old/global_et/</loc>
     <lastmod>2023-02-21T08:40:38+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1452,10 +1476,6 @@
   </url><url>
     <loc>https://geco-group.org/author/cesar-terrer/</loc>
     <lastmod>2023-01-13T11:26:13+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/climate-change/</loc>
-    <lastmod>2023-11-26T22:06:06+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/cristina-aponte/</loc>
