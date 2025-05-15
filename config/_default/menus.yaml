@@ -57,6 +57,10 @@ main:
     url: https://geco-bern.github.io/ml4ec_workshop/
     parent: tutorials
     weight: 46
+  - name: Sub-grid scale modelling of global peatlands
+    url: https://geco-bern.github.io/dyptop_tutorial/
+    parent: tutorials
+    weight: 47
   - name: Blog
     url: post
     weight: 50
