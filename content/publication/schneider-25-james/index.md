@@ -18,7 +18,7 @@ tags:
 - photosynthesis
 - thermal acclimation
 - Topt
-categories: []
+categories: [highlight]
 date: '2025-01-01'
 lastmod: 2025-05-09T14:11:47+02:00
 featured: false
@@ -44,21 +44,21 @@ publication_types:
 abstract: 'Thermal acclimation of photosynthesis, the physiological adjustment to
   temperature over weeks, may help plants mitigate adverse impacts of global warming,
   but is often under-represented in Earth System Models (ESMs). We evaluated a plant
-  functional type (PFT)-agnostic, optimality-based model of C3 p̌hantommathrmC_3 photosynthesis
+  functional type (PFT)-agnostic, optimality-based model of C3ds photosynthesis
   with a global data set of leaf gas exchange measurements. We investigated how three
-  key photosynthesis traits vary along a gradient of growing-season temperatures Tgrowth
-  łeft(T_textgrowthright): optimal photosynthesis temperature Topt łeft(T_textoptright),
-  net photosynthesis rate at Topt ȟantomT_textopt Aopt łeft(A_textoptright), and the
-  width of the temperature response curve Tspan łeft(T_textspanright). We analyzed
+  key photosynthesis traits vary along a gradient of growing-season temperatures T<sub>growth</sub>: 
+  optimal photosynthesis temperature T<sub>opt</sub> ,
+  net photosynthesis rate at T<sub>opt</sub> A<sub>opt</sub>, and the
+  width of the temperature response curve T<sub>span</sub> . We analyzed
   how each trait is influenced by three acclimation processes: acclimation of photosynthetic
   capacities (carboxylation, electron transport, and respiration), their enzymatic
   responses, and stomatal sensitivity to vapor pressure deficit. The inclusion of
   all three acclimation processes was essential for reproducing observed patterns:
-  a linear increase in Topt vǎntomT_textopt with Tgrowth vpňtomT_textgrowth, and no
-  correlations of Aopt vphťomA_textopt and Tspan vphaǒmT_textspan with Tgrowth vphanm̌T_textgrowth.
+  a linear increase in T<sub>opt</sub> with T<sub>growth</sub>, and no
+  correlations of A<sub>opt</sub> and T<sub>span</sub> with T<sub>growth</sub>.
   Acclimation of enzymatic responses and stomatal sensitivity was crucial for accurately
-  predicting Topt vphanťT_textopt and Tspan vphantǒT_textspan. Acclimation of the
-  photosynthetic capacities was necessary to avoid a bias in Aopt vphantom̌A_textopt
+  predicting T<sub>opt</sub> and T<sub>span</sub>. Acclimation of the
+  photosynthetic capacities was necessary to avoid a bias in A<sub>opt</sub>
   that can arise when relying on static, PFT-specific parameters. Comparing a model
   with all and a model without any acclimation processes showed that thermal acclimation
   buffers the response of photosynthesis to warming substantially, leading to smaller

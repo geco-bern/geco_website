@@ -14,7 +14,7 @@ authors:
 - Benjamin D. Stocker
 tags:
 - Element cycles
-categories: [highlight]
+categories: []
 date: '2024-06-01'
 lastmod: 2025-01-16T15:23:57+01:00
 featured: false

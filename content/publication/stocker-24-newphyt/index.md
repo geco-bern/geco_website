@@ -30,7 +30,7 @@ tags:
 categories: [highlight]
 date: '2024-01-01'
 lastmod: 2025-01-16T15:23:56+01:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -55,16 +55,16 @@ abstract: Summary Interactions between carbon (C) and nitrogen (N) cycles in ter
   leading to divergent simulations of past land C balance trends. This underscores
   the need to reassess our understanding of ecosystem processes, given recent theoretical
   advancements and empirical data. We review current knowledge, emphasising evidence
-  from experiments and trait data compilations for vegetation responses to CO2 and
+  from experiments and trait data compilations for vegetation responses to CO<sub>2</sub> and
   N input, alongside theoretical and ecological principles for modelling. N fertilisation
   increases leaf N content but inconsistently enhances leaf-level photosynthetic capacity.
   Whole-plant responses include increased leaf area and biomass, with reduced root
-  allocation and increased aboveground biomass. Elevated atmospheric CO2 also boosts
+  allocation and increased aboveground biomass. Elevated atmospheric CO<sub>2</sub> also boosts
   leaf area and biomass but intensifies belowground allocation, depleting soil N and
   likely reducing N losses. Global leaf traits data confirm these findings, indicating
   that soil N availability influences leaf N content more than photosynthetic capacity.
   A demonstration model based on the functional balance hypothesis accurately predicts
-  responses to N and CO2 fertilisation on tissue allocation, growth and biomass, offering
+  responses to N and CO<sub>2</sub> fertilisation on tissue allocation, growth and biomass, offering
   a path to reduce uncertainty in global C cycle projections.
 publication: '*New Phytologist*'
 doi: https://doi.org/10.1111/nph.20178
