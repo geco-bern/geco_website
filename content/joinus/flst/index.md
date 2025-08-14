@@ -77,7 +77,7 @@ projects: []
 
 **Requirements:**
 
-- Basic understanding of remote sensing. 
+- Introductory course on statistical or machine learning-based modelling.
 - Experience working with R or other data science tools is a prerequisite.
 - The student writes the thesis in English.
 
