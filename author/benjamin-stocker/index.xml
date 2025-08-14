@@ -5,12 +5,30 @@
     <link>https://geco-group.org/author/benjamin-stocker/</link>
       <atom:link href="https://geco-group.org/author/benjamin-stocker/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Stocker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Apr 2025 13:50:03 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Aug 2025 08:36:01 +0100</lastBuildDate>
     <image>
       <url>https://geco-group.org/author/benjamin-stocker/avatar_hub22ab3715787c0675119095230c99362_4135958_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Benjamin Stocker</title>
       <link>https://geco-group.org/author/benjamin-stocker/</link>
     </image>
+    
+    <item>
+      <title>Master thesis - Detecting water stress via land surface temperatures</title>
+      <link>https://geco-group.org/joinus/flst/</link>
+      <pubDate>Thu, 14 Aug 2025 08:36:01 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/flst/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; Land surface temperatures (LST) can be sensed from space. They reflect climatic conditions at the land surface (air temperature, radiation), and surface properties. The clue is that they also reflect to what extent water vapour fluxes cool surfaces and that plants have a strong influence on them. Hence, the activity of plants and the degree to which they are water limited have an imprit on remotely sensed LST. The challenge is to disentangle this signal from (big) satellite data. If a solution is found, it will yield a novel approach for interpreting high resolution LST data for informing our understanding of vegetation water stress across space.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim:&lt;/strong&gt; Developing a quantitative method for measuring the degree of vegetation water limitation effects on LST, thereby deriving a spatial picture of water limitation across the landscape during droughts.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; This project will develop a machine learning-based method that estimates a potential (&amp;ldquo;moist&amp;rdquo;) LST, using &lt;a href=&#34;https://ecostress.jpl.nasa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECOSTRESS&lt;/a&gt; LST data, paired with climate variables and a set of time-invariant layers that characterise land surface properties. Comparison of &amp;ldquo;moist&amp;rdquo; vs. actual LST should yield quantitative insight into the degree of water limitation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic understanding of remote sensing.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools is a prerequisite.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Prof. Benjamin Stocker&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Theory and data of carbon-nitrogen cycle interactions</title>
@@ -347,9 +365,9 @@
     
     <item>
       <title>Postdoc - Next Generation Bern Earth System Model</title>
-      <link>https://geco-group.org/joinus/postdoc_bern3dlpx/</link>
+      <link>https://geco-group.org/joinus_old/postdoc_bern3dlpx/</link>
       <pubDate>Wed, 11 Dec 2024 08:36:01 +0100</pubDate>
-      <guid>https://geco-group.org/joinus/postdoc_bern3dlpx/</guid>
+      <guid>https://geco-group.org/joinus_old/postdoc_bern3dlpx/</guid>
       <description>&lt;p&gt;The University of Bern is seeking a highly motivated postdoctoral researcher for a two-year position in Earth System Modeling with a focus on land vegetation dynamics, jointly hosted by the Climate and Environmental Physics division at the Institute of Physics and the Institute of Geography and affiliated with the Oeschger Centre for Climate Change Research.&lt;/p&gt;
 &lt;p&gt;This exciting opportunity focuses on the coupling and development of the Earth System Model of Intermediate Complexity Bern3D and the Dynamic Global Vegetation Model LPX-Bern. The successful candidate will play a crucial role in advancing the models and our understanding of Earth system processes and their interactions.&lt;/p&gt;
 &lt;h2 id=&#34;tasks&#34;&gt;Tasks&lt;/h2&gt;
@@ -502,6 +520,33 @@ All applications received before 14th January 2025 will be reviewed, and further
 &lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bachelor or Master thesis - Indentifying frost events and impacts in ecosystem flux measurements</title>
+      <link>https://geco-group.org/joinus/frost_gpp/</link>
+      <pubDate>Wed, 21 Feb 2024 08:24:51 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/frost_gpp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Prof. Benjamin Stocker, &lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Laura Marqués, Dr. Yann Vitasse (WSL Birmensdorf)&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Climate warming is driving an advance of leaf unfolding in trees, promoting longer growing seasons. However, the advance of the start-of-the-season (SOS) can induce &lt;em&gt;false springs&lt;/em&gt;, i.e., a stretch of unexpectedly warmer temperatures in late winter/early spring followed by sudden freezing events. These frost events after the SOS can affect the structure and function of terrestrial ecosystems and have important environmental and economic consequences. Still, there is little consensus on how frost events change under global warming and the implications. Therefore, it is relevant to understand the occurrence of frost events once the growing season has started and how they change among regions in temperate and boreal forests.&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;The goal of this project is to identify when the frost events happen after the SOS and quantify their impact on carbon fluxes. The student will characterize the SOS using phenological measurements and ecosystem-level photosynthesis (gross primary production, GPP). Daily minimum temperatures will be used to calculate the number of frost events. The project design includes combining ground observations, eddy covariance flux measurements, remote sensing data and global climate datasets.&lt;/p&gt;
+&lt;p&gt;If addressed as a MSc topic, there is a possiblity for a publication as a thesis outcome.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The student is motivated to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;literature&#34;&gt;Literature&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chamberlain,  C.J., Cook, B.I., Morales-Castilla, I. and Wolkovich, E.M. (2021).  Climate change reshapes the drivers of false spring risk across European trees. New Phytol, 229: 323-334.&lt;/li&gt;
+&lt;li&gt;Liu,  Q., Piao, S., Janssens, I.A. et al. (2018). Extension of the growing season increases vegetation exposure to frost. Nat Commun 9, 426 .&lt;/li&gt;
+&lt;li&gt;Hufkens,  K., Friedl, M.A., Keenan, T.F., Sonnentag, O., Bailey, A., O&amp;rsquo;Keefe, J. and Richardson, A.D. (2012). Ecological impacts of a widespread frost event following early spring leaf-out. Glob Change Biol, 18: 2365-2377.&lt;/li&gt;
+&lt;li&gt;Piao, S, Liu, Q, Chen, A, et al. (2019). Plant phenology and global climate change: Current progresses and challenges. Glob Change Biol. 25: 1922– 1940.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

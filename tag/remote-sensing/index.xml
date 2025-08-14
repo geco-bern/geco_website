@@ -5,12 +5,30 @@
     <link>https://geco-group.org/tag/remote-sensing/</link>
       <atom:link href="https://geco-group.org/tag/remote-sensing/index.xml" rel="self" type="application/rss+xml" />
     <description>remote sensing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jan 2025 08:36:01 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Aug 2025 08:36:01 +0100</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>remote sensing</title>
       <link>https://geco-group.org/tag/remote-sensing/</link>
     </image>
+    
+    <item>
+      <title>Master thesis - Detecting water stress via land surface temperatures</title>
+      <link>https://geco-group.org/joinus/flst/</link>
+      <pubDate>Thu, 14 Aug 2025 08:36:01 +0100</pubDate>
+      <guid>https://geco-group.org/joinus/flst/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; Land surface temperatures (LST) can be sensed from space. They reflect climatic conditions at the land surface (air temperature, radiation), and surface properties. The clue is that they also reflect to what extent water vapour fluxes cool surfaces and that plants have a strong influence on them. Hence, the activity of plants and the degree to which they are water limited have an imprit on remotely sensed LST. The challenge is to disentangle this signal from (big) satellite data. If a solution is found, it will yield a novel approach for interpreting high resolution LST data for informing our understanding of vegetation water stress across space.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim:&lt;/strong&gt; Developing a quantitative method for measuring the degree of vegetation water limitation effects on LST, thereby deriving a spatial picture of water limitation across the landscape during droughts.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; This project will develop a machine learning-based method that estimates a potential (&amp;ldquo;moist&amp;rdquo;) LST, using &lt;a href=&#34;https://ecostress.jpl.nasa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECOSTRESS&lt;/a&gt; LST data, paired with climate variables and a set of time-invariant layers that characterise land surface properties. Comparison of &amp;ldquo;moist&amp;rdquo; vs. actual LST should yield quantitative insight into the degree of water limitation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic understanding of remote sensing.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools is a prerequisite.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Prof. Benjamin Stocker&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Master thesis - Hyperspectral imaging of vegetation</title>
