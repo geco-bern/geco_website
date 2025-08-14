@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT event date).
 publishDate: 2023-02-21T08:24:51+01:00
 
-authors: [Laura Marqués]
+authors: [Benjamin Stocker]
 tags: [Extreme event impacts, GPP, FLUXNET, BSc, MSc]
 
 # Is this a featured event? (true/false)
