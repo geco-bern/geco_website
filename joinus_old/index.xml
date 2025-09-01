@@ -65,6 +65,28 @@ All applications received before 14th January 2025 will be reviewed, and further
     </item>
     
     <item>
+      <title>Master thesis - Sink vs. source control on tree growth</title>
+      <link>https://geco-group.org/joinus_old/sinksource/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/joinus_old/sinksource/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;&lt;strong&gt;Main supervision:&lt;/strong&gt; Prof. Dr. Benjamin Stocker
+&lt;strong&gt;Co-supervision:&lt;/strong&gt; Dr. Antoine Cabon, WSL Birmensdorf&lt;/p&gt;
+&lt;p&gt;Forests currently represent a large carbon sink, offsetting a quarter of human CO2 emissions each year, bur large uncertainty remains on the future strength of this sink. Namely, vegetation models assume that tree growth is essentially limited by photosynthesis, but recent evidence suggests that currently unaccounted for biophysical limitations to tree growth by low temperatures and water stress can substantially decouple tree growth from photosynthesis. The degree to which biophysical limitations might slow down forest carbon storage is still unclear but has potentially critical implications for climate projections.&lt;/p&gt;
+&lt;p&gt;The objective of this project is to implement biophysical limitations to tree growth in an established mechanistic vegetation model in order to quantify the effect of these new controls on forest primary production. This will require (1) designing the integration of fine scale biophysical equations with carbon-based tree growth schemes of the vegetation model, (2) evaluating model performance against annual and decadal observations of historical tree growth and forest production across Europe and (3) simulate forest production using current and new tree growth schemes to evaluate the impact of biophysical limitations on forest production under different climate scenarios.&lt;/p&gt;
+&lt;p&gt;This thesis is a great starting point for mechanistic ecosystem modelling and working with large datasets of the terrestrial biosphere. Basic knowledge of programming are a requirement and prior experience with R and/or Fortran are an advantage. You may start as soon as you like. Please contact me directly if you’re interested.&lt;/p&gt;
+&lt;p&gt;This Master project is part of the &lt;a href=&#34;https://www.wsl.ch/de/projekte/micss-physiological-drivers-of-tree-growth.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MiCSS project&lt;/a&gt;, led by &lt;a href=&#34;https://www.wsl.ch/de/mitarbeitende/cabonant.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Antoine Cabon, WSL Birmensdorf&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>PhD in Climate Sciences: Next-generation vegetation modelling (100%)</title>
       <link>https://geco-group.org/joinus_old/phd_lemontree/</link>
       <pubDate>Fri, 05 Apr 2024 08:57:24 +0100</pubDate>

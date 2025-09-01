@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environmental sciences | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/tag/environmental-sciences/</link>
+      <atom:link href="https://geco-group.org/tag/environmental-sciences/index.xml" rel="self" type="application/rss+xml" />
+    <description>Environmental sciences</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>Environmental sciences</title>
+      <link>https://geco-group.org/tag/environmental-sciences/</link>
+    </image>
+    
+    <item>
+      <title>Plant nutrient acquisition under elevated CO2 and implications for the land carbon sink</title>
+      <link>https://geco-group.org/publication/cambron-25-natcc/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/cambron-25-natcc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -23,19 +23,43 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/authors/</loc>
-    <lastmod>2025-08-14T08:36:01+01:00</lastmod>
+    <lastmod>2025-09-01T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/benjamin-stocker/</loc>
-    <lastmod>2025-08-14T08:36:01+01:00</lastmod>
+    <lastmod>2025-09-01T08:36:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/carbon-cycle/</loc>
+    <lastmod>2025-09-01T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/</loc>
-    <lastmod>2025-08-14T08:36:01+01:00</lastmod>
+    <lastmod>2025-09-01T08:36:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/greening-trend/</loc>
+    <lastmod>2025-09-01T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/joinus/</loc>
-    <lastmod>2025-08-14T08:36:01+01:00</lastmod>
+    <lastmod>2025-09-01T08:36:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/joinus/arctic_greening/</loc>
+    <lastmod>2025-09-01T08:36:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/nutrient-cycle/</loc>
+    <lastmod>2025-09-01T08:36:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/remote-sensing/</loc>
+    <lastmod>2025-09-01T08:36:01+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tags/</loc>
+    <lastmod>2025-09-01T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/lst/</loc>
@@ -50,27 +74,95 @@
     <lastmod>2025-08-14T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/tag/remote-sensing/</loc>
-    <lastmod>2025-08-14T08:36:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tags/</loc>
-    <lastmod>2025-08-14T08:36:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/tag/water-stress/</loc>
     <lastmod>2025-08-14T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/publication-type/2/</loc>
-    <lastmod>2025-08-04T08:45:30+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/aijun-xing/</loc>
-    <lastmod>2025-08-04T08:45:30+02:00</lastmod>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/benjamin-d.-stocker/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/biogeochemistry/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/bruce-a.-hungate/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/c-n/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/categories/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/cesar-terrer/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/climate-change-ecology/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/co2-fertilisation/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/eco2/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/environmental-sciences/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/category/highlight/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/iain-colin-prentice/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/joshua-b.-fisher/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/land-c-sink/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/n-fixation/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/publication/cambron-25-natcc/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/publication_types/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/publication/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/trevor-keenan/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/trevor-w.-cambron/</loc>
+    <lastmod>2025-08-22T11:12:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/aijun-xing/</loc>
     <lastmod>2025-08-04T08:45:30+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -151,14 +243,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/plant-ecology/</loc>
-    <lastmod>2025-08-04T08:45:30+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/publication_types/</loc>
-    <lastmod>2025-08-04T08:45:30+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/publication/</loc>
     <lastmod>2025-08-04T08:45:30+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -298,10 +382,6 @@
     <lastmod>2025-05-09T14:11:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/categories/</loc>
-    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/tag/climate-change/</loc>
     <lastmod>2025-05-09T14:11:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -331,10 +411,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/global-warming/</loc>
-    <lastmod>2025-05-09T14:11:47+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/category/highlight/</loc>
     <lastmod>2025-05-09T14:11:47+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -450,10 +526,6 @@
     <lastmod>2025-01-16T15:23:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/author/iain-colin-prentice/</loc>
-    <lastmod>2025-01-16T15:23:57+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/author/imma-oliveras-menor/</loc>
     <lastmod>2025-01-16T15:23:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -546,7 +618,7 @@
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/joinus/sinksource/</loc>
+    <loc>https://geco-group.org/joinus_old/sinksource/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -768,10 +840,6 @@
   </url><url>
     <loc>https://geco-group.org/author/biagio-zaffora/</loc>
     <lastmod>2025-01-31T10:57:39+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/carbon-cycle/</loc>
-    <lastmod>2025-01-16T15:23:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/charlotte-grossiord/</loc>
@@ -1094,15 +1162,7 @@
     <lastmod>2023-11-30T07:35:02+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/tag/biogeochemistry/</loc>
-    <lastmod>2023-11-30T07:35:02+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/author/c.-terrer/</loc>
-    <lastmod>2023-11-30T07:35:02+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/climate-change-ecology/</loc>
     <lastmod>2023-11-30T07:35:02+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1176,10 +1236,6 @@
   </url><url>
     <loc>https://geco-group.org/tag/tidy-data/</loc>
     <lastmod>2023-10-27T15:22:44+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/c-n/</loc>
-    <lastmod>2023-10-18T17:50:24+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/ecosystem-data/</loc>
@@ -1576,10 +1632,6 @@
   </url><url>
     <loc>https://geco-group.org/author/carlos-i.-espinosa/</loc>
     <lastmod>2023-01-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/cesar-terrer/</loc>
-    <lastmod>2023-01-13T11:26:13+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/cristina-aponte/</loc>
@@ -3106,10 +3158,6 @@
     <lastmod>2021-09-25T10:12:40+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/author/bruce-a.-hungate/</loc>
-    <lastmod>2021-09-25T10:12:46+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://geco-group.org/author/caspar-j.-van-lissa/</loc>
     <lastmod>2021-09-25T10:12:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3195,10 +3243,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/john-gamon/</loc>
-    <lastmod>2021-09-25T10:12:46+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/joshua-b.-fisher/</loc>
     <lastmod>2021-09-25T10:12:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
