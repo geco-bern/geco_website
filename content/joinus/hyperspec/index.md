@@ -4,7 +4,7 @@
 title: "Master thesis - Hyperspectral imaging of vegetation"
 event:
 event_url:
-location: Institute of Geography and Climate and Environmental Physics, University of Bern
+location: Institute of Geography, University of Bern
 address:
   street:
   city:
@@ -81,3 +81,5 @@ projects: []
 - The student writes the thesis in English.
 
 **Supervision:** Dr. Yousra El-Mejjaouy and Prof. Benjamin Stocker
+
+**Important:** Earliest starting date is 1 Feb. 2026

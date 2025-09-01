@@ -4,7 +4,7 @@
 title: "Master thesis - Detecting water stress via land surface temperatures"
 event:
 event_url:
-location: Institute of Geography and Climate and Environmental Physics, University of Bern
+location: Institute of Geography, University of Bern
 address:
   street:
   city:
