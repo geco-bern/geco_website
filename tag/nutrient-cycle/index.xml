@@ -17,19 +17,21 @@
       <link>https://geco-group.org/joinus/arctic_greening/</link>
       <pubDate>Mon, 01 Sep 2025 08:36:01 +0100</pubDate>
       <guid>https://geco-group.org/joinus/arctic_greening/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; Long-term satellite-based records indicate substantial greening of the land surface in high latitudes over the past four decades, where atmospheric temperatures are increasing at 4-fold the global average. These trends of enhanced vegetation growth reflect lengthening of the growing season, higher peak growth, as well the northward expansion of the tundra and boreal forest biomes. This observation of strong ecosystem-level change constitutes an excellent test for Dynamic Global Vegetation Models, in order to evaluate their performance of important Arctic vegetation change. Are observed trends in growth and leaf area coverage accurately modelled by current state-of-the-art models? This is a particularly insightful model test (benchmark) as vegetation expansion could be strongly governed (and potentially limited) by the availability of nutrients in poorly developed soils. A reliable simulation of nutrient cyling may thus be a prerequisite for accurate simulations of vegetation expansion. This link is to be explored here, along with potentially other factors which affect high-latitude vegetation (CO2 fertilization, temperature-effects, increasing large-scale fires).
-&lt;strong&gt;Aim:&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Long-term satellite-based records indicate substantial greening of the land surface in high latitudes over the past four decades, where atmospheric temperatures are increasing at 4-fold the global average. These trends of enhanced vegetation growth reflect lengthening of the growing season, higher peak growth, as well the northward expansion of the tundra and boreal forest biomes. This observation of strong ecosystem-level change constitutes an excellent test for Dynamic Global Vegetation Models, in order to evaluate their performance of important Arctic vegetation change. Are observed trends in growth and leaf area coverage accurately modelled by current state-of-the-art models? This is a particularly insightful model test (benchmark) as vegetation expansion could be strongly governed (and potentially limited) by the availability of nutrients in poorly developed soils. A reliable simulation of nutrient cyling may thus be a prerequisite for accurate simulations of vegetation expansion. This link is to be explored here, along with potentially other factors which affect high-latitude vegetation (CO&lt;sub&gt;2&lt;/sub&gt; fertilization, temperature-effects, increasing large-scale fires).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Evaluating Dynamic Global Vegetation Model outputs for their accuracy in simulating leaf area index trends in high northern latitudes, using global remote sensing products as the reference.&lt;/li&gt;
-&lt;li&gt;Investigating whether model errors are related to the representation of carbon and nutrient cycles in models.&lt;/li&gt;
+&lt;li&gt;Investigating whether and how model errors are related to the representation of carbon and nutrient cycles in models.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; This project will analyse publicly available outputs of Dynamic Global Vegetation Model and establish an evaluation workflow for comparison with observations of the leaf area index, with a focus on high northern latitudes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This project will analyse publicly available outputs of Dynamic Global Vegetation Model and establish an evaluation workflow for comparison with observations of the leaf area index, with a focus on high northern latitudes.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Experience working with R or other data science tools is a prerequisite.&lt;/li&gt;
 &lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Prof. Benjamin Stocker, Dr. Fabrice Lacroix&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Dr. Fabrice Lacroix, Prof. Benjamin Stocker&lt;/p&gt;
 </description>
     </item>
     
