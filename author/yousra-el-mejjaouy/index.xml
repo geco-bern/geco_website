@@ -5,42 +5,12 @@
     <link>https://geco-group.org/author/yousra-el-mejjaouy/</link>
       <atom:link href="https://geco-group.org/author/yousra-el-mejjaouy/index.xml" rel="self" type="application/rss+xml" />
     <description>Yousra El-Mejjaouy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2025 11:57:12 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <url>https://geco-group.org/author/yousra-el-mejjaouy/avatar_huf3e03d7447fa39b77daa9bf5aa6385b4_1407914_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yousra El-Mejjaouy</title>
       <link>https://geco-group.org/author/yousra-el-mejjaouy/</link>
     </image>
-    
-    <item>
-      <title>Sensing drought stress</title>
-      <link>https://geco-group.org/project/drone_msi/</link>
-      <pubDate>Mon, 03 Feb 2025 11:57:12 +0200</pubDate>
-      <guid>https://geco-group.org/project/drone_msi/</guid>
-      <description>&lt;p&gt;The extreme summer droughts across Central Europe (i.e., 2003, 2015, and 2018), driven by anthropogenic climate change, emphasized the urgency of understanding and predicting ecosystem responses to extreme droughts.&lt;/p&gt;
-&lt;p&gt;Water limitation during severe drought limits photosynthesis and respiration by closing stomata, induces xylem cavitation, and reduces plant carbon balance, which leads to seasonal decreases in productivity and long-term increases in tree vulnerability to major disturbances and mortality. These physiological responses to drought events not only depend on their timing, i.e. recurrence and duration, but also on their geography (landscape-scale heterogeneity). For example, large gradients in soil depth, slope, and exposition in mountainous landscapes can therefore cause differential vegetation responses to drought across scales of 10^1^-10^4^ m m. Combining both vegetation (spectral and thermal) indices, and a highly variable geography, offers a non-destructive and rapid method for investigating plant physiological processes under a wide range of drought stress.&lt;/p&gt;
-&lt;p&gt;To investigate landscape-scale heterogeneity of drought impacts, the study is carried out in two sites in Valais, Switzerland, with different elevations, soil and plant rooting depths, slopes, and various species exhibiting varying responses to drought stress. Both sites are part of a larger tree monitoring network and provide co-located plant and soil-point measurements of water stress. This study maps temporal variations and landscape-scale heterogeneity in vegetation water stress using UAV-based multispectral remote sensing.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Master thesis - Hyperspectral imaging of vegetation</title>
-      <link>https://geco-group.org/joinus/hyperspec/</link>
-      <pubDate>Thu, 16 Jan 2025 08:36:01 +0100</pubDate>
-      <guid>https://geco-group.org/joinus/hyperspec/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; Drone-based yperspectral imaging of vegetation has the potential to identify plant water stress across the landscape. It is hypothesised that at this scale, effects by limited moisture availability in the rooting zone are not evenly distributed and potentially relate to topographic gradients and vegetation-groundwater connectivity.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Aim:&lt;/strong&gt; The aim of this thesis is to perform a pilot campaign for a one-time assessment of the spectral property of the surface reflectance in a forest near Bern, relating patterns to species identity and their position in the landscape.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; Drone-based hyperspectral images and LiDAR data processing and analysis.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Basic understanding of remote sensing.&lt;/li&gt;
-&lt;li&gt;Experience working with R or other data science tools is a prerequisite.&lt;/li&gt;
-&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Dr. Yousra El-Mejjaouy and Prof. Benjamin Stocker&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Important:&lt;/strong&gt; Earliest starting date is 1 Feb. 2026&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
