@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>HYD-RESPONSES: daily hydro-meteorological catchment-level time series to analyse HYDrological drought dynamics in RESPONSE to (cumulative) water deficits in Swiss catchments</title>
+      <link>https://geco-group.org/publication/vonmatt-25-essd/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/vonmatt-25-essd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosing linearity along the carbon cascade in terrestrial biosphere models</title>
+      <link>https://geco-group.org/publication/zhangzheng-25-biorxiv/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/zhangzheng-25-biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Plant nutrient acquisition under elevated CO2 and implications for the land carbon sink</title>
       <link>https://geco-group.org/publication/cambron-25-natcc/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
@@ -37,10 +53,42 @@
     </item>
     
     <item>
+      <title>Global quantification of the eco-hydrological co-benefits of soil carbon sequestration</title>
+      <link>https://geco-group.org/publication/vanderkelen-25-egu/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/vanderkelen-25-egu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Large biases in the frequency of water limitation across Earth system models</title>
       <link>https://geco-group.org/publication/giardina-25-commee/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://geco-group.org/publication/giardina-25-commee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic nitrogen resorption improves predictions of nitrogen cycling responses to global change in a next generation ecosystem model</title>
+      <link>https://geco-group.org/publication/sophia-25-preprint/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/sophia-25-preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unrecognised water limitation is a main source of uncertainty for models of terrestrial photosynthesis</title>
+      <link>https://geco-group.org/publication/biegel-25-egu/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/biegel-25-egu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rsofun v5.0: A model-data integration framework for simulating ecosystem processes</title>
+      <link>https://geco-group.org/publication/aranparedes-24-biorxiv/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/aranparedes-24-biorxiv/</guid>
       <description></description>
     </item>
     
@@ -77,10 +125,42 @@
     </item>
     
     <item>
+      <title>FluxDataKit v3.4: A comprehensive data set of ecosystem fluxes for land surface modelling </title>
+      <link>https://geco-group.org/publication/fluxdatakit/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/fluxdatakit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geco-bern/lt_cn_review: v2.1 Analysis code for Stocker et al., 2024 (New Phytologist) Empirical evidence and theoretical understanding of ecosystem carbon and nitrogen cycle interactions </title>
+      <link>https://geco-group.org/publication/cnreview-analysis-code/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/cnreview-analysis-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geco-bern/map2tidy: v2.1</title>
+      <link>https://geco-group.org/publication/map-2-tidy/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/map-2-tidy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Environmental versus phylogenetic controls on leaf nitrogen and phosphorous concentrations in vascular plants</title>
       <link>https://geco-group.org/publication/tian-24-natcomm/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://geco-group.org/publication/tian-24-natcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Land in the Earth System (v1.0)</title>
+      <link>https://geco-group.org/publication/les/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/les/</guid>
       <description></description>
     </item>
     
@@ -97,6 +177,22 @@
       <link>https://geco-group.org/publication/stockerprentice-24/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://geco-group.org/publication/stockerprentice-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geco-bern/leafnp_data: v1.0: Initial release</title>
+      <link>https://geco-group.org/publication/leafnp-data/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/leafnp-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geco-bern/leafnp: v1.0: Initial release</title>
+      <link>https://geco-group.org/publication/leafnp-code/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/leafnp-code/</guid>
       <description></description>
     </item>
     
@@ -141,6 +237,22 @@
     </item>
     
     <item>
+      <title>Yunke Peng et al. Journal of Ecology 2023</title>
+      <link>https://geco-group.org/publication/peng-24-zenodo/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/peng-24-zenodo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MESI: a database of terrestrial global change experiments </title>
+      <link>https://geco-group.org/publication/mesi/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/mesi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A constraint on historic growth in global photosynthesis due to rising CO2</title>
       <link>https://geco-group.org/publication/keenan-23-natcc/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
@@ -165,6 +277,14 @@
     </item>
     
     <item>
+      <title>geco-bern/GFDY: v2.0</title>
+      <link>https://geco-group.org/publication/gfdy-code/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/gfdy-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Competition for light can drive adverse species-composition shifts in the Amazon Forest under elevated CO2</title>
       <link>https://geco-group.org/publication/joshi-23-biorxiv/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
@@ -177,6 +297,22 @@
       <link>https://geco-group.org/publication/zohner-23-sci/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://geco-group.org/publication/zohner-23-sci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fgiardin/fET: Accepted for publication</title>
+      <link>https://geco-group.org/publication/fet-code/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/fet-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applied Geodata Science</title>
+      <link>https://geco-group.org/publication/agds/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/agds/</guid>
       <description></description>
     </item>
     
@@ -261,6 +397,14 @@
     </item>
     
     <item>
+      <title>geco-bern/mct: v4.0</title>
+      <link>https://geco-group.org/publication/mct-code/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/mct-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Towards a unified theory of plant photosynthesis and hydraulics</title>
       <link>https://geco-group.org/publication/joshi-22-natplants/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
@@ -273,6 +417,14 @@
       <link>https://geco-group.org/publication/cruzalonso-23-re/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://geco-group.org/publication/cruzalonso-23-re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fET timeseries</title>
+      <link>https://geco-group.org/publication/fet-data/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/fet-data/</guid>
       <description></description>
     </item>
     
@@ -321,6 +473,14 @@
       <link>https://geco-group.org/publication/kondo-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://geco-group.org/publication/kondo-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computationales/phenoEOS: v4.0 (v4.0) </title>
+      <link>https://geco-group.org/publication/phenoeos/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/phenoeos/</guid>
       <description></description>
     </item>
     

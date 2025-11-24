@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evan Perkowski | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/evan-perkowski/</link>
+      <atom:link href="https://geco-group.org/author/evan-perkowski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evan Perkowski</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>Evan Perkowski</title>
+      <link>https://geco-group.org/author/evan-perkowski/</link>
+    </image>
+    
+    <item>
+      <title>geco-bern/lt_cn_review: v2.1 Analysis code for Stocker et al., 2024 (New Phytologist) Empirical evidence and theoretical understanding of ecosystem carbon and nitrogen cycle interactions </title>
+      <link>https://geco-group.org/publication/cnreview-analysis-code/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/cnreview-analysis-code/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

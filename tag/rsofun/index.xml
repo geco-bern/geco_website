@@ -5,12 +5,20 @@
     <link>https://geco-group.org/tag/rsofun/</link>
       <atom:link href="https://geco-group.org/tag/rsofun/index.xml" rel="self" type="application/rss+xml" />
     <description>rsofun</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>rsofun</title>
       <link>https://geco-group.org/tag/rsofun/</link>
     </image>
+    
+    <item>
+      <title>rsofun v5.0: A model-data integration framework for simulating ecosystem processes</title>
+      <link>https://geco-group.org/publication/aranparedes-24-biorxiv/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/aranparedes-24-biorxiv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CN-model: A dynamic model for the coupled carbon and nitrogen cycles in terrestrial ecosystems</title>

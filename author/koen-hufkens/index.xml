@@ -5,12 +5,36 @@
     <link>https://geco-group.org/author/koen-hufkens/</link>
       <atom:link href="https://geco-group.org/author/koen-hufkens/index.xml" rel="self" type="application/rss+xml" />
     <description>Koen Hufkens</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/author/koen-hufkens/avatar_huf35ada2787cfa57665e57b84210ffc9c_31472_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Koen Hufkens</title>
       <link>https://geco-group.org/author/koen-hufkens/</link>
     </image>
+    
+    <item>
+      <title>rsofun v5.0: A model-data integration framework for simulating ecosystem processes</title>
+      <link>https://geco-group.org/publication/aranparedes-24-biorxiv/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/aranparedes-24-biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FluxDataKit v3.4: A comprehensive data set of ecosystem fluxes for land surface modelling </title>
+      <link>https://geco-group.org/publication/fluxdatakit/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/fluxdatakit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geco-bern/map2tidy: v2.1</title>
+      <link>https://geco-group.org/publication/map-2-tidy/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/map-2-tidy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Enhanced prediction of vegetation responses to extreme drought using deep learning and Earth observation data</title>
@@ -25,6 +49,22 @@
       <link>https://geco-group.org/publication/paredes-23-biorxiv/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://geco-group.org/publication/paredes-23-biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geco-bern/GFDY: v2.0</title>
+      <link>https://geco-group.org/publication/gfdy-code/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/gfdy-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applied Geodata Science</title>
+      <link>https://geco-group.org/publication/agds/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/agds/</guid>
       <description></description>
     </item>
     
@@ -49,6 +89,14 @@
       <link>https://geco-group.org/publication/marques-22-biorxiv/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://geco-group.org/publication/marques-22-biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computationales/phenoEOS: v4.0 (v4.0) </title>
+      <link>https://geco-group.org/publication/phenoeos/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/phenoeos/</guid>
       <description></description>
     </item>
     

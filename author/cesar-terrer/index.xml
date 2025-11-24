@@ -5,7 +5,7 @@
     <link>https://geco-group.org/author/cesar-terrer/</link>
       <atom:link href="https://geco-group.org/author/cesar-terrer/index.xml" rel="self" type="application/rss+xml" />
     <description>César Terrer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>César Terrer</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Diagnosing linearity along the carbon cascade in terrestrial biosphere models</title>
+      <link>https://geco-group.org/publication/zhangzheng-25-biorxiv/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/zhangzheng-25-biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Plant nutrient acquisition under elevated CO2 and implications for the land carbon sink</title>
       <link>https://geco-group.org/publication/cambron-25-natcc/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://geco-group.org/publication/cambron-25-natcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MESI: a database of terrestrial global change experiments </title>
+      <link>https://geco-group.org/publication/mesi/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/mesi/</guid>
       <description></description>
     </item>
     

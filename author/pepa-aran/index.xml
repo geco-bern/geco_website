@@ -5,12 +5,20 @@
     <link>https://geco-group.org/author/pepa-aran/</link>
       <atom:link href="https://geco-group.org/author/pepa-aran/index.xml" rel="self" type="application/rss+xml" />
     <description>Pepa Arán</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/author/pepa-aran/avatar_huca6b59e67545ac31ccfe1a70a9ef6c46_104968_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Pepa Arán</title>
       <link>https://geco-group.org/author/pepa-aran/</link>
     </image>
+    
+    <item>
+      <title>Applied Geodata Science</title>
+      <link>https://geco-group.org/publication/agds/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/agds/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How the Better Science Initiative is part of the GECO Group</title>

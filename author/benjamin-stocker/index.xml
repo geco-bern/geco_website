@@ -5,12 +5,20 @@
     <link>https://geco-group.org/author/benjamin-stocker/</link>
       <atom:link href="https://geco-group.org/author/benjamin-stocker/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Stocker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 08:36:01 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/author/benjamin-stocker/avatar_hu00be0d16bbdfdc76eb2f450f0bc741ef_1200445_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Benjamin Stocker</title>
       <link>https://geco-group.org/author/benjamin-stocker/</link>
     </image>
+    
+    <item>
+      <title>HYD-RESPONSES: daily hydro-meteorological catchment-level time series to analyse HYDrological drought dynamics in RESPONSE to (cumulative) water deficits in Swiss catchments</title>
+      <link>https://geco-group.org/publication/vonmatt-25-essd/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/vonmatt-25-essd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Master thesis - Arctic greening in models and observations</title>
@@ -51,6 +59,14 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Prof. Benjamin Stocker&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Dynamic nitrogen resorption improves predictions of nitrogen cycling responses to global change in a next generation ecosystem model</title>
+      <link>https://geco-group.org/publication/sophia-25-preprint/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/sophia-25-preprint/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -413,6 +429,14 @@ All applications received before 14th January 2025 will be reviewed, and further
     </item>
     
     <item>
+      <title>FluxDataKit v3.4: A comprehensive data set of ecosystem fluxes for land surface modelling </title>
+      <link>https://geco-group.org/publication/fluxdatakit/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/fluxdatakit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Master thesis - LGM-Holocene vegetation dynamics</title>
       <link>https://geco-group.org/joinus/lgmveg/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
@@ -474,6 +498,30 @@ All applications received before 14th January 2025 will be reviewed, and further
 &lt;p&gt;This thesis is a great starting point for mechanistic ecosystem modelling and working with large datasets of the terrestrial biosphere. Basic knowledge of programming are a requirement and prior experience with R and/or Fortran are an advantage. You may start as soon as you like. Please contact me directly if you’re interested.&lt;/p&gt;
 &lt;p&gt;This Master project is part of the &lt;a href=&#34;https://www.wsl.ch/de/projekte/micss-physiological-drivers-of-tree-growth.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MiCSS project&lt;/a&gt;, led by &lt;a href=&#34;https://www.wsl.ch/de/mitarbeitende/cabonant.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Antoine Cabon, WSL Birmensdorf&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>geco-bern/lt_cn_review: v2.1 Analysis code for Stocker et al., 2024 (New Phytologist) Empirical evidence and theoretical understanding of ecosystem carbon and nitrogen cycle interactions </title>
+      <link>https://geco-group.org/publication/cnreview-analysis-code/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/cnreview-analysis-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geco-bern/map2tidy: v2.1</title>
+      <link>https://geco-group.org/publication/map-2-tidy/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/map-2-tidy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Land in the Earth System (v1.0)</title>
+      <link>https://geco-group.org/publication/les/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/les/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -802,6 +850,14 @@ All applications received before 14th January 2025 will be reviewed, and further
     </item>
     
     <item>
+      <title>geco-bern/GFDY: v2.0</title>
+      <link>https://geco-group.org/publication/gfdy-code/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/gfdy-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Postdoc in drone-based vegetation water stress monitoring</title>
       <link>https://geco-group.org/joinus_old/postdoc_uav/</link>
       <pubDate>Mon, 01 May 2023 08:46:40 +0100</pubDate>
@@ -817,6 +873,14 @@ All applications received before 14th January 2025 will be reviewed, and further
 &lt;p&gt;We look forward to receiving your online application including the following documents: Motivation letter (max. 2 pages, with a statement of research interests and demonstrated experience with software development projects), a CV, copies of academic qualifications and the names and e-mail addresses of three referees. Please note that we exclusively accept applications submitted through our online application portal. Applications via email or postal services will not be considered. We continue recruitment until a suitable candidate is found. The start of this position is at your earliest convenience. The position is offered for one year with possibility for continuation.&lt;/p&gt;
 &lt;p&gt;Questions regarding the position should be directed to Dr. Koen Hufkens (&lt;a href=&#34;mailto:koen.hufkens@giub.unibe.ch&#34;&gt;koen.hufkens@giub.unibe.ch&lt;/a&gt;) (no applications). You can apply for this position by following &lt;a href=&#34;https://ohws.prospective.ch/public/v1/redirect/ebd3c469-7556-435a-9857-c9a4e8f717eb/ats/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;THIS LINK&lt;/a&gt; to the online submission platform.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Applied Geodata Science</title>
+      <link>https://geco-group.org/publication/agds/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/agds/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1053,10 +1117,34 @@ We have already warmed the planet. Some loss of glaciers and snow is already und
     </item>
     
     <item>
+      <title>geco-bern/mct: v4.0</title>
+      <link>https://geco-group.org/publication/mct-code/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/mct-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fET timeseries</title>
+      <link>https://geco-group.org/publication/fet-data/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/fet-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Are Land-Use Change Emissions in Southeast Asia Decreasing or Increasing?</title>
       <link>https://geco-group.org/publication/kondo-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://geco-group.org/publication/kondo-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computationales/phenoEOS: v4.0 (v4.0) </title>
+      <link>https://geco-group.org/publication/phenoeos/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/phenoeos/</guid>
       <description></description>
     </item>
     

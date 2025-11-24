@@ -5,12 +5,28 @@
     <link>https://geco-group.org/author/fabian-bernhard/</link>
       <atom:link href="https://geco-group.org/author/fabian-bernhard/index.xml" rel="self" type="application/rss+xml" />
     <description>Fabian Bernhard</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/author/fabian-bernhard/avatar_hufb4fd158b01a32e7ad181794c3d420b1_555029_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Fabian Bernhard</title>
       <link>https://geco-group.org/author/fabian-bernhard/</link>
     </image>
+    
+    <item>
+      <title>rsofun v5.0: A model-data integration framework for simulating ecosystem processes</title>
+      <link>https://geco-group.org/publication/aranparedes-24-biorxiv/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/aranparedes-24-biorxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geco-bern/map2tidy: v2.1</title>
+      <link>https://geco-group.org/publication/map-2-tidy/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/map-2-tidy/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -5,12 +5,20 @@
     <link>https://geco-group.org/author/julia-nabel/</link>
       <atom:link href="https://geco-group.org/author/julia-nabel/index.xml" rel="self" type="application/rss+xml" />
     <description>Julia Nabel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>Julia Nabel</title>
       <link>https://geco-group.org/author/julia-nabel/</link>
     </image>
+    
+    <item>
+      <title>Diagnosing linearity along the carbon cascade in terrestrial biosphere models</title>
+      <link>https://geco-group.org/publication/zhangzheng-25-biorxiv/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/zhangzheng-25-biorxiv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Precipitation and carbon-water coupling jointly control the interannual variability of global land gross primary production</title>
