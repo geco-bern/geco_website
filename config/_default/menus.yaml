@@ -61,6 +61,10 @@ main:
     url: https://geco-bern.github.io/dyptop_tutorial/
     parent: tutorials
     weight: 47
+  - name: Spatial upscaling
+    url: https://geco-bern.github.io/spatial_upscaling/
+    parent: tutorials
+    weight: 48
   - name: Blog
     url: post
     weight: 50
