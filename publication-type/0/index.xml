@@ -5,12 +5,20 @@
     <link>https://geco-group.org/publication-type/0/</link>
       <atom:link href="https://geco-group.org/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>0</title>
       <link>https://geco-group.org/publication-type/0/</link>
     </image>
+    
+    <item>
+      <title>Are modern droughts unprecedented?</title>
+      <link>https://geco-group.org/publication/helpap-25-essoar/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/helpap-25-essoar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diagnosing linearity along the carbon cascade in terrestrial biosphere models</title>
