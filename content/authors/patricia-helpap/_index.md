@@ -22,7 +22,7 @@ email: "mailto:patricia.helpap@students.unibe.ch"
 superuser: true
 highlight_name: true
 user_groups:
-- Master Students
+- Alumni
 ---
 
 

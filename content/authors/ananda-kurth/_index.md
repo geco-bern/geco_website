@@ -1,6 +1,6 @@
 ---
 title: Ananda Kurth
-role: PhD
+role: PhD Student
 avatar_filename: avatar.jpg
 bio: []
 interests:
@@ -28,6 +28,5 @@ user_groups:
 - PhD Students
 ---
 
-I will start my PhD in February 2025.
 
 
