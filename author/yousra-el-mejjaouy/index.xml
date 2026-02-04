@@ -5,12 +5,22 @@
     <link>https://geco-group.org/author/yousra-el-mejjaouy/</link>
       <atom:link href="https://geco-group.org/author/yousra-el-mejjaouy/index.xml" rel="self" type="application/rss+xml" />
     <description>Yousra El-Mejjaouy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2025 11:57:12 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2025 11:57:45 +0200</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>Yousra El-Mejjaouy</title>
       <link>https://geco-group.org/author/yousra-el-mejjaouy/</link>
     </image>
+    
+    <item>
+      <title>Sensing drought stress</title>
+      <link>https://geco-group.org/project/flue/</link>
+      <pubDate>Thu, 06 Feb 2025 11:57:45 +0200</pubDate>
+      <guid>https://geco-group.org/project/flue/</guid>
+      <description>&lt;p&gt;Satellite remote sensing data of surface reflectance is widely used to measure vegetation structure and green foliage area and quantify indices such as the NDVI (normalized difference vegetation index). However, effects of abiotic stress (e.g. droughts) and physiological responses are not directly measured or insufficiently captured by such indices and other available surface reflectance-based satellite product. Thus, structural and greenness changes-based diagnosis could lead to an underestimation of the vegetation response to drought.&lt;/p&gt;
+&lt;p&gt;In this project, we develop new methods for making more fully use of remote sensing data for monitoring drought stress and plant physiological responses across Central Europe. For this, we&amp;rsquo;re applying machine learning on satellite spectral information, using the target (fLUE) in supervised machine learning algorithms as an estimate of the physiological (only) response to water stress, developed by &lt;a href=&#34;https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15123&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stocker et al., 2018 &lt;em&gt;New Phytologist&lt;/em&gt;&lt;/a&gt;. The effectiveness of this metric in detecting early physiological drought impacts is  evaluated against the widely used vegetation greenness indices (NDVI and EVI) across Central Europe.&amp;quot;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sensing drought stress</title>

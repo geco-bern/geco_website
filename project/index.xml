@@ -388,6 +388,16 @@ our approach attempts better parametrizations of growth, mortality and carbon al
     </item>
     
     <item>
+      <title>Sensing drought stress</title>
+      <link>https://geco-group.org/project/flue/</link>
+      <pubDate>Thu, 06 Feb 2025 11:57:45 +0200</pubDate>
+      <guid>https://geco-group.org/project/flue/</guid>
+      <description>&lt;p&gt;Satellite remote sensing data of surface reflectance is widely used to measure vegetation structure and green foliage area and quantify indices such as the NDVI (normalized difference vegetation index). However, effects of abiotic stress (e.g. droughts) and physiological responses are not directly measured or insufficiently captured by such indices and other available surface reflectance-based satellite product. Thus, structural and greenness changes-based diagnosis could lead to an underestimation of the vegetation response to drought.&lt;/p&gt;
+&lt;p&gt;In this project, we develop new methods for making more fully use of remote sensing data for monitoring drought stress and plant physiological responses across Central Europe. For this, we&amp;rsquo;re applying machine learning on satellite spectral information, using the target (fLUE) in supervised machine learning algorithms as an estimate of the physiological (only) response to water stress, developed by &lt;a href=&#34;https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15123&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stocker et al., 2018 &lt;em&gt;New Phytologist&lt;/em&gt;&lt;/a&gt;. The effectiveness of this metric in detecting early physiological drought impacts is  evaluated against the widely used vegetation greenness indices (NDVI and EVI) across Central Europe.&amp;quot;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Droughts in the last millennium</title>
       <link>https://geco-group.org/project/lastmillennium_drought/</link>
       <pubDate>Thu, 06 Feb 2025 11:57:12 +0200</pubDate>
@@ -550,17 +560,6 @@ our approach attempts better parametrizations of growth, mortality and carbon al
 &lt;/p&gt;
 &lt;p&gt;This project focuses on developing robust anomaly detection methods for high-resolution (20 m) Sentinel-2 EO time series data to map and quantify browning impacts on Swiss forests. We have developed two complementary approaches for detecting NDVI anomalies: a neural network-based method and a quantile random forest model. Both methods estimate a normal NDVI range by accounting for seasonal, spatial, and environmental variability, allowing us to flag pixels with significant deviations. One of the approaches has been deployed in a web application to provide a user-friendly interface for visualising detected anomalies across Switzerland.&lt;/p&gt;
 &lt;p&gt;Next steps include clustering detected anomalies into events and identifying their environmental drivers. We will continue to update our web application with advances in anomaly detection and monitoring. Our aim is to inform forecasting and early-warning systems as well as forest management strategies.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sensing drought stress</title>
-      <link>https://geco-group.org/project/martina/</link>
-      <pubDate>Sat, 25 Sep 2021 11:57:45 +0200</pubDate>
-      <guid>https://geco-group.org/project/martina/</guid>
-      <description>&lt;p&gt;This project is led by Martina Buck, a MSc student in my group for Compuational Ecosystem Science.&lt;/p&gt;
-&lt;p&gt;Satellite remote sensing data of surface reflectance is widely used to measure vegetation structure and green foliage area and quantify indices such as the NDVI (normalized difference vegetation index). However, effects of abiotic stress (e.g. droughts) and physiological responses are not directly measured or insufficiently captured by such indices and other available surface reflectance-based satellite products. We know, however, that additional information is contained in certain spectral bands and provides insights into the physiological part of plant responses (beyond structural responses).&lt;/p&gt;
-&lt;p&gt;In this project, we develop new methods for making more fully use of remote sensing data for monitoring drought stress and plant physiological responses across. For this, we&amp;rsquo;re applying machine learning on the full spectral information of surface reflectance and ancillary obtained from remote sensing and climate reanalysis. The target for algorithms of supervised machine learning are new estimates for the physiological (-only) response to water stress, developed by &lt;a href=&#34;https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15123&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stocker et al., 2018 &lt;em&gt;New Phytologist&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
