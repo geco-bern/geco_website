@@ -664,6 +664,21 @@
     </item>
     
     <item>
+      <title>Understanding Forest Dynamics</title>
+      <link>https://geco-group.org/project/biomee_forest_inventories/</link>
+      <pubDate>Mon, 10 Feb 2025 12:00:00 +0200</pubDate>
+      <guid>https://geco-group.org/project/biomee_forest_inventories/</guid>
+      <description>&lt;p&gt;Forest stands show strong structural heterogeneity in the size distributions of individual trees.
+This is driven by growth and mortality and results in allocation of carbon to different biomass pools.
+Diverse turnover times of these pools thus affect the net carbon balance of forest ecosystems.
+Resolving this heterogeneity of vegetation structure in models of the biosphere is crucial to correctly predict the effect of climate change induced alterations of photosynthetic activity on the ecosystem carbon balance.&lt;/p&gt;
+&lt;p&gt;We calibrate the size-structured, mechanistic biosphere model BiomeE with data from forest inventories and flux towers from the PROFOUND project using a Bayesian calibration framework.
+Combining these complementary data streams, containing detailed structural information from the forest inventories with observations of carbon and water fluxes from flux towers,
+our approach attempts better parametrizations of growth, mortality and carbon allocation at the stand scale, eventually leading to an improved understanding of sensitivities in the forest carbon cycle.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Bachelor thesis - Interannual variability of terrestrial photosynthesis</title>
       <link>https://geco-group.org/joinus_old/gpp_iav/</link>
       <pubDate>Mon, 10 Feb 2025 08:38:39 +0100</pubDate>
