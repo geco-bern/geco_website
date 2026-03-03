@@ -5,12 +5,30 @@
     <link>https://geco-group.org/joinus_old/</link>
       <atom:link href="https://geco-group.org/joinus_old/index.xml" rel="self" type="application/rss+xml" />
     <description>Joinus_olds</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Feb 2025 08:38:39 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Aug 2025 08:36:01 +0100</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>Joinus_olds</title>
       <link>https://geco-group.org/joinus_old/</link>
     </image>
+    
+    <item>
+      <title>Master thesis - Detecting water stress via land surface temperatures</title>
+      <link>https://geco-group.org/joinus_old/flst/</link>
+      <pubDate>Thu, 14 Aug 2025 08:36:01 +0100</pubDate>
+      <guid>https://geco-group.org/joinus_old/flst/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; Land surface temperatures (LST) can be sensed from space. They reflect climatic conditions at the land surface (air temperature, radiation), and surface properties. The clue is that they also reflect to what extent water vapour fluxes cool surfaces and that plants have a strong influence on them. Hence, the activity of plants and the degree to which they are water limited have an imprit on remotely sensed LST. The challenge is to disentangle this signal from (big) satellite data. If a solution is found, it will yield a novel approach for interpreting high resolution LST data for informing our understanding of vegetation water stress across space.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim:&lt;/strong&gt; Developing a quantitative method for measuring the degree of vegetation water limitation effects on LST, thereby deriving a spatial picture of water limitation across the landscape during droughts.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; This project will develop a machine learning-based method that estimates a potential (&amp;ldquo;moist&amp;rdquo;) LST, using &lt;a href=&#34;https://ecostress.jpl.nasa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECOSTRESS&lt;/a&gt; LST data, paired with climate variables and a set of time-invariant layers that characterise land surface properties. Comparison of &amp;ldquo;moist&amp;rdquo; vs. actual LST should yield quantitative insight into the degree of water limitation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introductory course on statistical or machine learning-based modelling.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools is a prerequisite.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Prof. Benjamin Stocker&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bachelor thesis - Interannual variability of terrestrial photosynthesis</title>
@@ -101,6 +119,29 @@ All applications received before 14th January 2025 will be reviewed, and further
 &lt;p&gt;&lt;strong&gt;We offer&lt;/strong&gt; the candidate to be part of a small group with a strong collaborative philosophy and to benefit from a leading academic environment, from an international collaboration within the project and from the excellent quality of life in Switzerland. This PhD will be placed within the Graduate School of Climate Sciences at Oeschger Centre for Climate Change Research (OCCR) and will draw on supervisory expertise and that bridges ecosystem science, hydrology, vegetation modelling, and climate science.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;For further information&lt;/strong&gt; about our group please visit Geco-group.org. Questions regarding the position should be directed to Prof. B. Stocker by email: &lt;a href=&#34;mailto:benjamin.stocker@unibe.ch&#34;&gt;benjamin.stocker@unibe.ch&lt;/a&gt; (no applications).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Interested?&lt;/strong&gt;  We look forward to receiving your online application including the following documents: Motivation letter (max. 2 pages, with a statement of research interests), a CV, copies of academic qualifications and the names and e-mail addresses of three referees. Please submit your application before 31 May 2024 to &lt;a href=&#34;mailto:geco.bern@gmail.com&#34;&gt;geco.bern@gmail.com&lt;/a&gt; with the subject &amp;lsquo;geco-002&amp;rsquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bachelor or Master thesis - High resolution quantification of seasonal water deficits</title>
+      <link>https://geco-group.org/joinus_old/hires_cwd/</link>
+      <pubDate>Wed, 21 Feb 2024 08:46:40 +0100</pubDate>
+      <guid>https://geco-group.org/joinus_old/hires_cwd/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Seasonal water deficits, caused by the imbalance of water from the land surface through evapotranspiration and runoff and the gain through precipitation, are an important driver of agricultural productivity and forest growth. Recent research by our group (Stocker et al., 2023) has revealed large spatial heterogeneity of seasonal water deficits across the globe at 5 km resolution - interpreted as a reflection of (otherwise unobservable) rooting zone water storage capacity across the soil and bedrock and of plant access to the groundwater, and as a reflection of water use in cropland areas.&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;Novel data resources from &lt;a href=&#34;https://etdata.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenET&lt;/a&gt; now provide analysis-ready data at field-scale resolution. This provides an opportunity to extend the analysis of Stocker et al. (2023) to the hillslope-scale. You will develop a workflow to access cloud-hosted Earth Observation data and perform analyses for deriving cumulative water deficits. This will generate crucial insights for a better understanding of the role of terrain in shaping plant water availability and for informing land managers about the sustainability of water resource use.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Most important: High motivation to work on questions related to land-atmosphere exchange and the carbon cycle - everything else can be learned!&lt;/li&gt;
+&lt;li&gt;Confidence to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Benjamin Stocker&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
