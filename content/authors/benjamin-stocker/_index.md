@@ -5,7 +5,7 @@ authors:
 user_groups:
 - Principal Investigator
 title: Benjamin Stocker
-role: Group leader, Prof.
+role: Associate Professor
 avatar_filename: stocker-benjamin_q.jpg
 bio: Heliocentrist human being.
 interests:
@@ -36,9 +36,12 @@ social:
   - icon: youtube
     icon_pack: fab
     link: https://www.youtube.com/@geco-group
+  # - icon: university
+  #   icon_pack: fa
+  #   link: https://www.geography.unibe.ch/about_us/staff/prof_dr_stocker_benjamin/index_eng.html
 organizations:
   - name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
-    # url: https://geco-bern.ethz.ch/
+  - url: https://www.geography.unibe.ch/about_us/staff/prof_dr_stocker_benjamin/index_eng.html
 # education:
 #   courses:
 #     - course: PhD in Climate Science
@@ -61,6 +64,7 @@ Our work yields insights into climate change impacts on land ecosystems and prov
 We are motivated to gain a better understanding of issues that are becoming increasingly pressing to society and policy and that are key to creating a sustainable future.
 
 {{% cta cta_link="/files/cv.pdf" cta_text="Download my CV" %}}
+{{% cta cta_link=https://www.geography.unibe.ch/about_us/staff/prof_dr_stocker_benjamin/index_eng.html cta_text="Institutional website" %}}
 
 <!-- This is my g website. Head over [here](https://geco-bern.ethz.ch/) to find the website of my group for *Computational Ecosystem Science* at ETH Zürich. -->
 
