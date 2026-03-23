@@ -14,7 +14,7 @@ social:
   link: mailto:sascha.friedli@students.unibe.ch
 title: Sascha Friedli
 user_groups:
-- Bachelor Student
+- Bachelor Students
 ---
 
 I started as a student assistant in february 2026 at the GECO group at GIUB(Benjamin Stocker). 

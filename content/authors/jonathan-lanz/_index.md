@@ -12,6 +12,6 @@ social:
   link: mailto:jonathan.lanz@students.unibe.ch
 title: Jonathan Lanz
 user_groups:
-- BSc Student
+- Bachelor Students
 ---
 

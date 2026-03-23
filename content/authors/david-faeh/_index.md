@@ -12,6 +12,6 @@ social:
   link: mailto:david.faeh@students.unibe.ch
 title: David Faeh
 user_groups:
-- BSc Student
+- Bachelor Students
 ---
 
