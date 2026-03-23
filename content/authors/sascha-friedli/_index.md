@@ -17,7 +17,7 @@ user_groups:
 - Bachelor Student
 ---
 
-I started as a student asistant in february 2026 at the GECO group at GIUB(Benjamin Stocker). 
+I started as a student assistant in february 2026 at the GECO group at GIUB(Benjamin Stocker). 
 
 During my Bachelor Thesis I analyze the impacts of lat spring frost events on the carbon fluxes using the Flux Data Kit provided by GECO Bern.
 
