@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sascha Friedli | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/sascha-friedli/</link>
+      <atom:link href="https://geco-group.org/author/sascha-friedli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sascha Friedli</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://geco-group.org/author/sascha-friedli/avatar_hudabb06edbd6e7c0af6b4589324c96fbc_783055_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sascha Friedli</title>
+      <link>https://geco-group.org/author/sascha-friedli/</link>
+    </image>
+    
+  </channel>
+</rss>
