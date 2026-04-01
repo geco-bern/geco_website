@@ -1,6 +1,6 @@
 ---
 title: Ting Tan
-role: Master Student
+role: Scientific Collaborator
 avatar_filename: avatar.jpg
 bio: []
 interests:
@@ -23,4 +23,4 @@ user_groups:
 - Researchers
 ---
 
-I am currently enrolled as a MSc at the Institution of Geography, University of Bern. My research focuses on the investigation of how topographic and soil factors influence vegetative components, such as forest cover and vegetation height. To achieve this, I use  remote sensing techniques and advanced tools, including the Microsoft Planetary Computer, to enhance vegetation modeling capabilities.
+I am currently employed as a scientific collaborator at the Institution of Geography, University of Bern. My research focuses on the investigation of how topographic and soil factors influence vegetative components, such as forest cover and vegetation height. To achieve this, I use  remote sensing techniques and advanced tools, including the Microsoft Planetary Computer, to enhance vegetation modeling capabilities.
