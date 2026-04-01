@@ -20,7 +20,7 @@ email: "mailto:ting.tan@students.unibe.ch"
 superuser: true
 highlight_name: true
 user_groups:
-- Master Students
+- Researchers
 ---
 
 I am currently enrolled as a MSc at the Institution of Geography, University of Bern. My research focuses on the investigation of how topographic and soil factors influence vegetative components, such as forest cover and vegetation height. To achieve this, I use  remote sensing techniques and advanced tools, including the Microsoft Planetary Computer, to enhance vegetation modeling capabilities.
