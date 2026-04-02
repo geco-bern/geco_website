@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rubens Flueckiger | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/rubens-flueckiger/</link>
+      <atom:link href="https://geco-group.org/author/rubens-flueckiger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rubens Flueckiger</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://geco-group.org/author/rubens-flueckiger/avatar_hu79e0a5b737d2404564c79a06f4b3f1ee_91812_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Rubens Flueckiger</title>
+      <link>https://geco-group.org/author/rubens-flueckiger/</link>
+    </image>
+    
+  </channel>
+</rss>
