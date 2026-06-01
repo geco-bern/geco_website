@@ -1,5 +1,11 @@
 ---
+title: Fabian Bernhard
+role: Scientific Programmer
+user_groups:
+- Researchers
 email: "fabian.bernhard@unibe.ch"
+avatar_filename: avatar.jpg
+bio: []
 interests:
 - Soil moisture and vegetation dynamics
 - Terrestrial cycles of water, energy, carbon, and nutrients
@@ -10,10 +16,6 @@ interests:
 - Scientific computing
 - Open-source science and software
 - Julia programming language
-organizations:
-- name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
-  url: ""
-role: Scientific Programmer
 social:
 - icon: envelope
   icon_pack: fas
@@ -27,9 +29,11 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/fabern
-title: Fabian Bernhard
-user_groups:
-- Researchers
+organizations:
+- name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
+  url: ""
+superuser: true
+highlight_name: true
 ---
 
 Land ecosystems shape our living space. 
