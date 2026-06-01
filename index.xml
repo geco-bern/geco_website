@@ -5,12 +5,111 @@
     <link>https://geco-group.org/</link>
       <atom:link href="https://geco-group.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Geocomputation and Earth Observation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 13:50:03 +0200</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>Geocomputation and Earth Observation</title>
       <link>https://geco-group.org/</link>
     </image>
+    
+    <item>
+      <title>SCALE-UP (SNF Lead Agency)</title>
+      <link>https://geco-group.org/project/upscale/</link>
+      <pubDate>Mon, 01 Jun 2026 13:50:03 +0200</pubDate>
+      <guid>https://geco-group.org/project/upscale/</guid>
+      <description>&lt;h2 id=&#34;basics&#34;&gt;Basics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Funding agency: US NSF and Swiss NSF (Lead Agency)&lt;/li&gt;
+&lt;li&gt;Start (Swiss partners): 1 October 2026&lt;/li&gt;
+&lt;li&gt;Duration: 4 years&lt;/li&gt;
+&lt;li&gt;Volume (Bern): 2 PhD, 1 Postdoc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pis&#34;&gt;PIs&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Charlotte Grossiord&lt;/strong&gt; (EPFL Lausanne)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nate McDowell&lt;/strong&gt; (PNNL, USA)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Matt Dannenberg&lt;/strong&gt; (University of Iowa, USA)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Benjamin Stocker&lt;/strong&gt; (Bern)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Marcus Schaub (WSL Birmensdorf, Switzerland)&lt;/li&gt;
+&lt;li&gt;Henry Adams (Washington State University, USA)&lt;/li&gt;
+&lt;li&gt;Kim Novick (Indiana University, USA)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;O1: Link traits to VPD responses.&lt;/strong&gt; How leaf and whole-plant traits explain species differences in gas exchange, growth, and mortality under VPD.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;O2: Test soil moisture interactions.&lt;/strong&gt; How soil drought changes VPD effects.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;O3: Quantify acclimation.&lt;/strong&gt; Whether acclimation reduces VPD sensitivity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;O4: Scale to ecosystems.&lt;/strong&gt; Net effects on GPP, growth, mortality, and community composition (past and future).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-overview-of-work-packages-in-project-up-scale&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;UP-SCALE project overview&#34; srcset=&#34;
+               /media/upscale_overview_hu8f82bfda668697b1736d6541ce9cf071_66611_f2e5d850b632f6d667bb6a3890f46d4e.webp 400w,
+               /media/upscale_overview_hu8f82bfda668697b1736d6541ce9cf071_66611_c30cf0522b098425790afacf100aa768.webp 760w,
+               /media/upscale_overview_hu8f82bfda668697b1736d6541ce9cf071_66611_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/upscale_overview_hu8f82bfda668697b1736d6541ce9cf071_66611_f2e5d850b632f6d667bb6a3890f46d4e.webp&#34;
+               width=&#34;316&#34;
+               height=&#34;193&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Overview of work packages in project UP-SCALE.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;work-plan&#34;&gt;Work plan&lt;/h2&gt;
+&lt;h3 id=&#34;wp1&#34;&gt;WP1&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Scope&lt;/strong&gt;: Leaf exchange as influenced by plant hydraulic traits.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hypothesis&lt;/strong&gt;: Less sensitive response to elevated VPD and low soil moisture for species with traits adapted to dry conditions (e.g., less vulnerable xylem and lower leaf area).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Approach&lt;/strong&gt;: Seedling and ecosystem VPD manipulation (VPDrought, Pfynwald) experiments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;wp2&#34;&gt;WP2&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Scope&lt;/strong&gt;: Tree growth and mortality as influenced by plant hydraulic traits&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hypothesis&lt;/strong&gt;: Growth and mortality are driven by the interplay of stomatal responses to VPD and soil moisture, plant hydraulics, and a tree’s C balance and allocation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Approach&lt;/strong&gt;: Experiments (as in WP1)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;wp3&#34;&gt;WP3&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Scope&lt;/strong&gt;: Tree growth and mortality trends and variability across the northern extratropics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hypothesis&lt;/strong&gt;: Less sensitive growth response to VPD and soil moisture in drought-adapted species, and in (within-species) populations acclimated to dry conditions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Approach:&lt;/strong&gt; High-frequency dendrometer data, International Tree Ring Data Bank, forest inventory data
+&lt;ul&gt;
+&lt;li&gt;Subdaily data for disentangling VPD-soil moisture effects&lt;/li&gt;
+&lt;li&gt;Forest inventory data for stand-level productivity estimation from tree-ring data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;wp4&#34;&gt;WP4&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Scope&lt;/strong&gt;: Modelling of VPD impacts on historical and future ecosystem-scale growth, mortality, and GPP, isolating effects of soil droughts, acclimation, and community composition shifts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hypothesis&lt;/strong&gt;: A representation of species’ (acclimating) hydraulic traits improves simulation of leaf gas exchange, ecosystem fluxes, growth, and mortality to elevated VPD (and low soil moisture).
+&lt;ul&gt;
+&lt;li&gt;Climate change projection: Acclimation and species composition shifts reduces sensitivity to drought (high VPD and low soil moisture), but imply reduced C uptake during non-drought conditions. This dampens C cycle variability, but at lower C cycling rates.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Approach&lt;/strong&gt;: Integrating a hydraulics-explicit representation of optimal photosynthesis acclimation (P-hydro) into a forest demography model (BiomeEP). Model development for optimal allocation. Model calibration and evaluation with data from all scales (plant traits, ecosystem and seedling experiments, ecosystem fluxes, sap flow, leaf water potentials, dendrometer, tree-ring widths, forest inventories).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Dynamic Nitrogen Resorption Improves Predictions of Nitrogen Cycling Responses to Global Change in a Next Generation Ecosystem Model</title>
