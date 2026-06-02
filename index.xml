@@ -31,7 +31,7 @@
 &lt;li&gt;&lt;strong&gt;Matt Dannenberg&lt;/strong&gt; (University of Iowa, USA)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Benjamin Stocker&lt;/strong&gt; (Bern)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Marcus Schaub (WSL Birmensdorf, Switzerland)&lt;/li&gt;
 &lt;li&gt;Henry Adams (Washington State University, USA)&lt;/li&gt;
@@ -106,7 +106,7 @@
 &lt;li&gt;Climate change projection: Acclimation and species composition shifts reduces sensitivity to drought (high VPD and low soil moisture), but imply reduced C uptake during non-drought conditions. This dampens C cycle variability, but at lower C cycling rates.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Approach&lt;/strong&gt;: Integrating a hydraulics-explicit representation of optimal photosynthesis acclimation (P-hydro) into a forest demography model (BiomeEP). Model development for optimal allocation. Model calibration and evaluation with data from all scales (plant traits, ecosystem and seedling experiments, ecosystem fluxes, sap flow, leaf water potentials, dendrometer, tree-ring widths, forest inventories).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Approach&lt;/strong&gt;: Integrating a hydraulics-explicit representation of optimal photosynthesis acclimation (P-hydro) into a forest demography model (BiomeEP). Model development for optimal allocation. Model calibration and evaluation with data from all scales (plant traits, ecosystem and seedling experiments, ecosystem fluxes, sap flow, leaf water potentials, dendrometer, tree-ring widths, forest inventories). Past-to-future simulations separating effects of long-term trends in VPD, CO2, community shifts, and acclimation.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
