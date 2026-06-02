@@ -54,7 +54,7 @@ slides: ""
 - **Matt Dannenberg** (University of Iowa, USA)
 - **Benjamin Stocker** (Bern)
 
-### Collaborators
+**Collaborators**
 
 - Marcus Schaub (WSL Birmensdorf, Switzerland)
 - Henry Adams (Washington State University, USA) 
@@ -96,4 +96,4 @@ slides: ""
 - **Scope**: Modelling of VPD impacts on historical and future ecosystem-scale growth, mortality, and GPP, isolating effects of soil droughts, acclimation, and community composition shifts.
 - **Hypothesis**: A representation of species’ (acclimating) hydraulic traits improves simulation of leaf gas exchange, ecosystem fluxes, growth, and mortality to elevated VPD (and low soil moisture).
     - Climate change projection: Acclimation and species composition shifts reduces sensitivity to drought (high VPD and low soil moisture), but imply reduced C uptake during non-drought conditions. This dampens C cycle variability, but at lower C cycling rates.
-- **Approach**: Integrating a hydraulics-explicit representation of optimal photosynthesis acclimation (P-hydro) into a forest demography model (BiomeEP). Model development for optimal allocation. Model calibration and evaluation with data from all scales (plant traits, ecosystem and seedling experiments, ecosystem fluxes, sap flow, leaf water potentials, dendrometer, tree-ring widths, forest inventories).
+- **Approach**: Integrating a hydraulics-explicit representation of optimal photosynthesis acclimation (P-hydro) into a forest demography model (BiomeEP). Model development for optimal allocation. Model calibration and evaluation with data from all scales (plant traits, ecosystem and seedling experiments, ecosystem fluxes, sap flow, leaf water potentials, dendrometer, tree-ring widths, forest inventories). Past-to-future simulations separating effects of long-term trends in VPD, CO2, community shifts, and acclimation.
