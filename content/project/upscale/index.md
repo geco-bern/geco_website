@@ -40,6 +40,12 @@ url_video: ""
 slides: ""
 ---
 
+**Understanding VPD impacts on forests across scales to advance the next generation of Earth-system models.**
+
+## Overview
+
+Vapor pressure deficit (VPD) is rising globally, but its impacts on foliar gas exchange, tree growth, mortality, and forest carbon and water fluxes are poorly known. Fundamental questions remain regarding how VPD affects different species and how these effects are influenced by concurrent soil drought (i.e., low precipitation and soil moisture) and plant acclimation across time scales, from minutes to decades, and spatial scales, from individual leaves to whole ecosystems. These uncertainties undermine confidence in model projections of future vegetation dynamics and carbon cycle changes, making it difficult to accurately predict climate impacts on ecosystems. As a result, our ability to develop and implement climate-smart management practices that could mitigate these impacts is significantly hindered, leaving forests vulnerable to the accelerating effects of rising VPD. Using a cross-scale approach, SCALE-UP will unravel (1) the mechanisms underlying the variation of VPD impacts across species on gas exchange, growth, mortality, and ecosystem-scale carbon and water fluxes, (2) the interaction of these responses with soil drought, (3) the potential for acclimation to rising VPD and its role in mitigating impacts of extreme events, and (4) the development of mechanistic insights and predictive models to understand and project VPD effects on forests at multiple scales.
+
 ## Basics
 
 - Funding agency: US NSF and Swiss NSF (Lead Agency)
