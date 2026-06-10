@@ -950,11 +950,7 @@
     <lastmod>2025-01-16T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://geco-group.org/joinus/</loc>
-    <lastmod>2025-01-16T08:36:01+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/joinus/hyperspec/</loc>
+    <loc>https://geco-group.org/joinus_old/hyperspec/</loc>
     <lastmod>2025-01-16T08:36:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1159,6 +1155,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/growth-modelling/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/joinus/</loc>
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
