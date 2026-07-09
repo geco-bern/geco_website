@@ -23,15 +23,31 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/authors/</loc>
-    <lastmod>2026-06-01T13:50:03+02:00</lastmod>
+    <lastmod>2026-07-09T22:54:13+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/benjamin-stocker/</loc>
-    <lastmod>2026-06-01T13:50:03+02:00</lastmod>
+    <lastmod>2026-07-09T22:54:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/post/</loc>
+    <lastmod>2026-07-09T22:54:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/drought/</loc>
+    <lastmod>2026-07-09T22:54:13+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/</loc>
-    <lastmod>2026-06-01T13:50:03+02:00</lastmod>
+    <lastmod>2026-07-09T22:54:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tags/</loc>
+    <lastmod>2026-07-09T22:54:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/post/trockenheit/</loc>
+    <lastmod>2026-07-09T22:54:13+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/project/</loc>
@@ -95,10 +111,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/dgvms/</loc>
-    <lastmod>2026-02-15T20:56:19+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/drought/</loc>
     <lastmod>2026-02-15T20:56:19+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -240,10 +252,6 @@
   </url><url>
     <loc>https://geco-group.org/author/sonke-zaehle/</loc>
     <lastmod>2026-01-29T20:27:08+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tags/</loc>
-    <lastmod>2026-02-15T20:56:19+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/u.-weber/</loc>
@@ -848,10 +856,6 @@
   </url><url>
     <loc>https://geco-group.org/project/cnmodel/</loc>
     <lastmod>2025-04-23T13:50:03+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/post/</loc>
-    <lastmod>2025-04-23T13:37:08+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/post/report2024/</loc>

@@ -5,12 +5,79 @@
     <link>https://geco-group.org/</link>
       <atom:link href="https://geco-group.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Geocomputation and Earth Observation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 13:50:03 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jul 2026 22:54:13 +0200</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>Geocomputation and Earth Observation</title>
       <link>https://geco-group.org/</link>
     </image>
+    
+    <item>
+      <title>Trockenheit</title>
+      <link>https://geco-group.org/post/trockenheit/</link>
+      <pubDate>Thu, 09 Jul 2026 22:54:13 +0200</pubDate>
+      <guid>https://geco-group.org/post/trockenheit/</guid>
+      <description>&lt;p&gt;Ich bin besorgt über die aktuelle Trockenheit, und vor allem wie in der Schweiz oft mit dem Problem zunehmender Trockenheit als Folge des Klimawandels umgegangen wird. Den Optimismus, der von einem Experten diesem News-Beitrag von SRF (&lt;a href=&#34;https://www.srf.ch/audio/news-plus-das-thema-des-tages-in-15-minuten/ausgetrocknete-wiesen-und-felder-was-koennen-bauern-tun?id=AUDI20260709_NR_0013&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;) versprüht wurde, kann ich nicht teilen. Im Rahmen eines Feldkurses zum Thema Trockenheit mit Geografie-Studis der Uni Bern haben wir erst kürzlich mit verschiedenen Akteuren gesprochen. Auch da kam aus gewissen Voten dieser Optimismus zutage.&lt;/p&gt;
+&lt;p&gt;Folgende Punkte sollten meines Erachtens nicht vergessen gehen, respektive neu gedacht und passender kontextualisiert werden:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;Klimaprojektionen zeigen keine klaren Trends im Niederschlag&lt;/em&gt;. Häufig wird der Jahresniederschlag und dessen Veränderung im Zuge des Klimawandels berücksichtigt. Doch speziell für Landwirtschaft, Grasland und Wald-Ökosysteme ist dies eine ziemlich nichtssagende Grösse. Was zählt, ist die Wasserbilanz aus Niederschlag und Verdunstung, maximal über 2-3 Monate aggregiert - so viel Wasser kann der Boden im Wurzelbereich von Pflanzen speichern. Trends im Sommerniederschlag sehen schon viel anders aus. Hinzu kommt, dass die Verdunstung mit zunehmender Lufttemperatur zunimmt und die Schneeschmelze einen immer kleineren Beitrag an Wasser im Frühling und Frühsommer liefert. Was zählt sind also die kumulativen Wasserdefizite. Und die nehmen sehr stark zu, weil alle Kompenenten (Niederschlag, Verdunstung, Schneeschmelze) Richtung mehr Trockenheit im Sommer zeigen. (Mehr quantitatives dazu wird folgen.)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-niederschlagsveränderung-jahresmittel-für-verschiedene-erwärmungsszenarien-15-20-und-30-grad-celsius-globale-temperaturzunahme-quelle-ch2025-meteoschweiz-web-atlashttpswwwmeteoswissadminchservices-and-publicationsapplicationsextclimate-ch2025-gwlbarshtmlhttps3a2f2fservicemeteoswissch2fproductbrowser2fproductdisplay2fclimate-ch2025-gwlbars3flangencg1scenarioindicatorprcg1timeofyearjjacg1referenceperiod1991-2020cg1languageencg1regionchcg1productnameclimate-ch2025-gwlbars-precipcg1producttypeplot&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;climate-ch2025-gwlbars-precip_pr_CH_1991-2020_yearly_plot_en.png&#34; alt=&#34;Niederschlagsveränderung (Jahresmittel) für verschiedene Erwärmungsszenarien (1.5, 2.0, und 3.0 Grad Celsius Globale Temperaturzunahme). Quelle: [CH2025 Meteoschweiz Web-Atlas](https://www.meteoswiss.admin.ch/services-and-publications/applications/ext/climate-ch2025-gwlbars.html#https%3A%2F%2Fservice.meteoswiss.ch%2Fproductbrowser%2FproductDisplay%2Fclimate-ch2025-gwlbars%3Flang=en&amp;amp;cg1.scenarioIndicator=pr&amp;amp;cg1.timeOfYear=JJA&amp;amp;cg1.referencePeriod=1991-2020&amp;amp;cg1.language=en&amp;amp;cg1.region=CH&amp;amp;cg1.productName=climate-ch2025-gwlbars-precip&amp;amp;cg1.productType=plot)&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Niederschlagsveränderung (Jahresmittel) für verschiedene Erwärmungsszenarien (1.5, 2.0, und 3.0 Grad Celsius Globale Temperaturzunahme). Quelle: &lt;a href=&#34;https://www.meteoswiss.admin.ch/services-and-publications/applications/ext/climate-ch2025-gwlbars.html#https%3A%2F%2Fservice.meteoswiss.ch%2Fproductbrowser%2FproductDisplay%2Fclimate-ch2025-gwlbars%3Flang=en&amp;amp;cg1.scenarioIndicator=pr&amp;amp;cg1.timeOfYear=JJA&amp;amp;cg1.referencePeriod=1991-2020&amp;amp;cg1.language=en&amp;amp;cg1.region=CH&amp;amp;cg1.productName=climate-ch2025-gwlbars-precip&amp;amp;cg1.productType=plot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CH2025 Meteoschweiz Web-Atlas&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-niederschlagsveränderung-sommer-juni-august-für-verschiedene-erwärmungsszenarien-15-20-und-30-grad-celsius-globale-temperaturzunahme-quelle-ch2025-meteoschweiz-web-atlashttpswwwmeteoswissadminchservices-and-publicationsapplicationsextclimate-ch2025-gwlbarshtmlhttps3a2f2fservicemeteoswissch2fproductbrowser2fproductdisplay2fclimate-ch2025-gwlbars3flangencg1scenarioindicatorprcg1timeofyearjjacg1referenceperiod1991-2020cg1languageencg1regionchcg1productnameclimate-ch2025-gwlbars-precipcg1producttypeplot&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;climate-ch2025-gwlbars-precip_pr_CH_1991-2020_JJA_plot_en.png&#34; alt=&#34;Niederschlagsveränderung (Sommer: Juni-August) für verschiedene Erwärmungsszenarien (1.5, 2.0, und 3.0 Grad Celsius Globale Temperaturzunahme). Quelle: [CH2025 Meteoschweiz Web-Atlas](https://www.meteoswiss.admin.ch/services-and-publications/applications/ext/climate-ch2025-gwlbars.html#https%3A%2F%2Fservice.meteoswiss.ch%2Fproductbrowser%2FproductDisplay%2Fclimate-ch2025-gwlbars%3Flang=en&amp;amp;cg1.scenarioIndicator=pr&amp;amp;cg1.timeOfYear=JJA&amp;amp;cg1.referencePeriod=1991-2020&amp;amp;cg1.language=en&amp;amp;cg1.region=CH&amp;amp;cg1.productName=climate-ch2025-gwlbars-precip&amp;amp;cg1.productType=plot)&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Niederschlagsveränderung (Sommer: Juni-August) für verschiedene Erwärmungsszenarien (1.5, 2.0, und 3.0 Grad Celsius Globale Temperaturzunahme). Quelle: &lt;a href=&#34;https://www.meteoswiss.admin.ch/services-and-publications/applications/ext/climate-ch2025-gwlbars.html#https%3A%2F%2Fservice.meteoswiss.ch%2Fproductbrowser%2FproductDisplay%2Fclimate-ch2025-gwlbars%3Flang=en&amp;amp;cg1.scenarioIndicator=pr&amp;amp;cg1.timeOfYear=JJA&amp;amp;cg1.referencePeriod=1991-2020&amp;amp;cg1.language=en&amp;amp;cg1.region=CH&amp;amp;cg1.productName=climate-ch2025-gwlbars-precip&amp;amp;cg1.productType=plot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CH2025 Meteoschweiz Web-Atlas&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;em&gt;Alles eine Frage von Wasserspeicher&lt;/em&gt;. Abnehmender Sommerniederschlag kann durch zunehmenden Winterniederschlag ausgeglichen werden. Es braucht dazu lediglich Speicher — ist eine gängige Denkweise. Die Frage ist nur: wo sind diese Speicher? Und wie wird das Wasser von da in die Fläche gebracht — da wo die Kulturen und Wälder Wasser benötigen? Die Infrastruktur dazu existiert nicht und ist weitgehend illusorisches Wunschdenken (Stichwort: Speicherseen in den Alpen…)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Die Schweiz ist ein Wasserschloss&lt;/em&gt;. Rhein, Aare, Rhone, etc. entspringen in den schweizer Alpen und die Landschaft ist gesegnet von Seen. Es steht also fast unerschöpflich Wasser zur Verfügung — so das gängige Denken. Dies hat zwei Haken.
+Erstens, mit dem Versiegen der Abflüsse aus Gletscherschmelze (ganz zu schweigen von Schneeschmelze) wandelt sich das alpine Wasserschloss in ein Mediterranes Regime, wobei im Sommer die Abflüsse kritisch tief werden. Es wird sich Wasserknappheit und eine Konkurrenz um eine begrenzte Ressource einstellen, um Mindestabflussmengen aufrecht zu erhalten: Schutz der Wasserökosysteme und Verhinderung von Überhitzung von Gewässern (z.B. die Forelle kann in Wasser &amp;gt;24°C nicht überleben), Energieproduktion (inkl. Kühlung Atomkraftwerke), Schifffahrt, Wasserentnahme für Bewässerung. Es wird ein Punkt kommen, an dem sich auch unsere Nachbarn interessieren, wieviel Wasser wir den Rhein, Rhone, etc. hinablassen.
+Zweitens, die Seen können kaum als saisonale Wasserspeicher genutzt werden. Wie von Klaus Lanz (International Water Affairs) in diesem &lt;a href=&#34;https://www.tagesanzeiger.ch/trockene-schweiz-das-grosse-interview-zum-wasserhaushalt-643460859407&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lehrreichen Interview&lt;/a&gt; beschrieben, sind grössere Pegelschwankungen (nötig wenn Seen als saisonale Wasserspeicher genutzt werden sollten) uferbautechnisch nicht machbar. Kurzum: die Grenzen des Wasserüberschusses sind näher als viele denken (zumindest bis heute gedacht haben).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Trockenere Regionen haben sich schon lange daran gewöhnt&lt;/em&gt;. Da stehen mir die Haare zu Berge. Man darf sich vor Augen führen, weshalb in Spanien keine Kühe grasen (ausser in den feuchten Regionen entlang der Atlantikküste)? Genau. Weil es zu trocken ist. Schweizer Klima in der Zukunft? Mehr wie Spanien. Mit andern Worten: Die Landwirtschaft und unsere gesamte Kulturlandschaft sind eng mit dem Hydroklima verwandt. Anpassung in der Landwirtschaft heisst, vieles fundamental neu zu denken. Gemüseanbau im Seeland? Woher kommt das Wasser? Aus den Pestizid und PFAS-verschmutzten Grundwasserspeichern jedenfalls nicht. Milchwirtschauft in den Voralpen und Jura? Ok bis im Juni. Danach gibt’s kein grünes Gras mehr. Wasser für Kühe (100 l/Tag) auf der Alp, wo die Bäche versiegen, weil die Schneeschmelze nichts mehr hergibt? Per Helikopter jedenfalls nicht jedes Jahr. Anpassung ist schneller gesagt als getan und ich bezweifle, dass die Umgewöhnung so schmerzfrei sein wird, wie das derzeit oft kolpotiert wird.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Anpassung heisst sich für eine neue Welt mit Sommertrockenheit parat machen, heisst die Normalität von heute (Schweiz = Wasserschloss) zu verabschieden. Der heurige Sommer ist nur ein kleiner Vorgeschmack. Die sich verändernden Realitäten stellen die Schweiz vor Herausforderungen, die noch nicht einmal klar skizziert sind, geschweige denn mit Zahlen beschrieben sind, und auf dem Radar von Leuten, die heute und morgen wichtige Entscheide fällen, erscheinen. Aber beginnen wir mit der Wahrnehmung des Problems. Bitte deshalb den (mir naiv erscheinenden) Optimismus erst mal beiseite legen und an die Arbeit!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>SCALE-UP (SNF Lead Agency)</title>
@@ -109,7 +176,7 @@
 &lt;li&gt;Climate change projection: Acclimation and species composition shifts reduces sensitivity to drought (high VPD and low soil moisture), but imply reduced C uptake during non-drought conditions. This dampens C cycle variability, but at lower C cycling rates.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Approach&lt;/strong&gt;: Integrating a hydraulics-explicit representation of optimal photosynthesis acclimation (P-hydro, &lt;a href=&#34;https://doi.org/10.1038/s41477-022-01244-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joshi et al. 2022&lt;/a&gt;) into a forest demography model (&lt;a href=&#34;https://geco-bern.github.io/rsofun/articles/biomee_use.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BiomeEP&lt;/a&gt;). Model development for optimal allocation. Model calibration and evaluation with data from all scales (plant traits, ecosystem and seedling experiments, ecosystem fluxes, sap flow, leaf water potentials, dendrometer, tree-ring widths, forest inventories). Past-to-future simulations separating effects of long-term trends in VPD, CO2, community shifts, and acclimation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Approach&lt;/strong&gt;: Integrating a hydraulics-explicit representation of optimal photosynthesis, transpiration, and their acclimation (P-hydro, &lt;a href=&#34;https://doi.org/10.1038/s41477-022-01244-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joshi et al. 2022&lt;/a&gt;) into a forest demography model (&lt;a href=&#34;https://geco-bern.github.io/rsofun/articles/biomee_use.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BiomeEP&lt;/a&gt;). Model development for optimal allocation. Model calibration and evaluation with data from all scales (plant traits, ecosystem and seedling experiments, ecosystem fluxes, sap flow, leaf water potentials, dendrometer, tree-ring widths, forest inventories). Past-to-future simulations separating effects of long-term trends in VPD, CO2, community shifts, and acclimation.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
