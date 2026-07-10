@@ -40,7 +40,7 @@
 
 &lt;figure  id=&#34;figure-niederschlagsveränderung-jahresmittel-für-verschiedene-erwärmungsszenarien-15-20-und-30-grad-celsius-globale-temperaturzunahme-quelle-ch2025-meteoschweiz-web-atlashttpswwwmeteoswissadminchservices-and-publicationsapplicationsextclimate-ch2025-gwlbarshtmlhttps3a2f2fservicemeteoswissch2fproductbrowser2fproductdisplay2fclimate-ch2025-gwlbars3flangencg1scenarioindicatorprcg1timeofyearjjacg1referenceperiod1991-2020cg1languageencg1regionchcg1productnameclimate-ch2025-gwlbars-precipcg1producttypeplot&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Niederschlagsveränderung (Jahresmittel) für verschiedene Erwärmungsszenarien (1.5, 2.0, und 3.0 Grad Celsius Globale Temperaturzunahme). Quelle: [CH2025 Meteoschweiz Web-Atlas](https://www.meteoswiss.admin.ch/services-and-publications/applications/ext/climate-ch2025-gwlbars.html#https%3A%2F%2Fservice.meteoswiss.ch%2Fproductbrowser%2FproductDisplay%2Fclimate-ch2025-gwlbars%3Flang=en&amp;amp;cg1.scenarioIndicator=pr&amp;amp;cg1.timeOfYear=JJA&amp;amp;cg1.referencePeriod=1991-2020&amp;amp;cg1.language=en&amp;amp;cg1.region=CH&amp;amp;cg1.productName=climate-ch2025-gwlbars-precip&amp;amp;cg1.productType=plot)&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;annual change in precipitation&#34; srcset=&#34;
                /media/_hu0661a1ad407b1e513e7efc0f1e9e5eaf_12101_a615cba25461f2d24f53a9534bbe81c1.webp 400w,
                /media/_hu0661a1ad407b1e513e7efc0f1e9e5eaf_12101_7c647a9fedbd09792bc4f9f7af37581c.webp 760w,
                /media/_hu0661a1ad407b1e513e7efc0f1e9e5eaf_12101_237eec69fd6f0d4e470367f19fcef669.webp 1200w&#34;
@@ -70,7 +70,7 @@
 
 &lt;figure  id=&#34;figure-niederschlagsveränderung-sommer-juni-august-für-verschiedene-erwärmungsszenarien-15-20-und-30-grad-celsius-globale-temperaturzunahme-quelle-ch2025-meteoschweiz-web-atlashttpswwwmeteoswissadminchservices-and-publicationsapplicationsextclimate-ch2025-gwlbarshtmlhttps3a2f2fservicemeteoswissch2fproductbrowser2fproductdisplay2fclimate-ch2025-gwlbars3flangencg1scenarioindicatorprcg1timeofyearjjacg1referenceperiod1991-2020cg1languageencg1regionchcg1productnameclimate-ch2025-gwlbars-precipcg1producttypeplot&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Niederschlagsveränderung (Sommer: Juni-August) für verschiedene Erwärmungsszenarien (1.5, 2.0, und 3.0 Grad Celsius Globale Temperaturzunahme). Quelle: [CH2025 Meteoschweiz Web-Atlas](https://www.meteoswiss.admin.ch/services-and-publications/applications/ext/climate-ch2025-gwlbars.html#https%3A%2F%2Fservice.meteoswiss.ch%2Fproductbrowser%2FproductDisplay%2Fclimate-ch2025-gwlbars%3Flang=en&amp;amp;cg1.scenarioIndicator=pr&amp;amp;cg1.timeOfYear=JJA&amp;amp;cg1.referencePeriod=1991-2020&amp;amp;cg1.language=en&amp;amp;cg1.region=CH&amp;amp;cg1.productName=climate-ch2025-gwlbars-precip&amp;amp;cg1.productType=plot)&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;summer change in precipitation&#34; srcset=&#34;
                /media/_hu0661a1ad407b1e513e7efc0f1e9e5eaf_12290_868e7f16fb839ff0143dc360e4818da9.webp 400w,
                /media/_hu0661a1ad407b1e513e7efc0f1e9e5eaf_12290_2d59a8d1900e5e3e4df4687e5b460add.webp 760w,
                /media/_hu0661a1ad407b1e513e7efc0f1e9e5eaf_12290_1990f801967ce7bc3a16a9299dcfe267.webp 1200w&#34;
