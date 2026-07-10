@@ -41,7 +41,7 @@ Instructions are given [here](https://wowchemy.com/docs/content/blog-posts/).
 
 To create a blog/news article:
 ```sh
-hugo new  --kind post post/my-article-name
+hugo new --kind post post/my-article-name
 ```
 
 Then edit the newly created file `content/post/my-article-name.md` with your full title and content.
