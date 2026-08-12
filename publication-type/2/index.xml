@@ -5,12 +5,52 @@
     <link>https://geco-group.org/publication-type/2/</link>
       <atom:link href="https://geco-group.org/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>2</title>
       <link>https://geco-group.org/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Are Modern Droughts Unprecedented?</title>
+      <link>https://geco-group.org/publication/helpap-26-aguadv/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/helpap-26-aguadv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global quantification of the eco-hydrological co-benefits of soil carbon sequestration</title>
+      <link>https://geco-group.org/publication/vanderkelen-26-bg/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/vanderkelen-26-bg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HYD-RESPONSES: daily hydro-meteorological catchment-level time series to analyse HYDrological drought dynamics in RESPONSE to (cumulative) water deficits in Swiss catchments</title>
+      <link>https://geco-group.org/publication/vonmatt-26-essd/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/vonmatt-26-essd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TREED (v1.0): a trait- and optimality-based eco-evolutionary vegetation model for the deep past and the present</title>
+      <link>https://geco-group.org/publication/rogger-26-gmd/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/rogger-26-gmd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosing Linearity Along the Carbon Cascade in Terrestrial Biosphere Models and Observations</title>
+      <link>https://geco-group.org/publication/zhangzheng-26-gcb/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/zhangzheng-26-gcb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamic Nitrogen Resorption Improves Predictions of Nitrogen Cycling Responses to Global Change in a Next Generation Ecosystem Model</title>

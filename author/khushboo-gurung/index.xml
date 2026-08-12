@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Khushboo Gurung | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/khushboo-gurung/</link>
+      <atom:link href="https://geco-group.org/author/khushboo-gurung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Khushboo Gurung</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>Khushboo Gurung</title>
+      <link>https://geco-group.org/author/khushboo-gurung/</link>
+    </image>
+    
+    <item>
+      <title>TREED (v1.0): a trait- and optimality-based eco-evolutionary vegetation model for the deep past and the present</title>
+      <link>https://geco-group.org/publication/rogger-26-gmd/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/rogger-26-gmd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

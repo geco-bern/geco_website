@@ -5,12 +5,20 @@
     <link>https://geco-group.org/author/samantha-biegel/</link>
       <atom:link href="https://geco-group.org/author/samantha-biegel/index.xml" rel="self" type="application/rss+xml" />
     <description>Samantha Biegel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geco-group.org/author/samantha-biegel/avatar_hu27de95154175ae19130a10809b726838_24968_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Samantha Biegel</title>
       <link>https://geco-group.org/author/samantha-biegel/</link>
     </image>
+    
+    <item>
+      <title>Country-wide, high-resolution monitoring of forest browning with Sentinel-2</title>
+      <link>https://geco-group.org/publication/biegel-26-arxiv/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/biegel-26-arxiv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unrecognised water limitation is a main source of uncertainty for models of terrestrial photosynthesis</title>

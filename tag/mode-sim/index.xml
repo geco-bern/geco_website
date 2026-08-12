@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ModE-Sim | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/tag/mode-sim/</link>
+      <atom:link href="https://geco-group.org/tag/mode-sim/index.xml" rel="self" type="application/rss+xml" />
+    <description>ModE-Sim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>ModE-Sim</title>
+      <link>https://geco-group.org/tag/mode-sim/</link>
+    </image>
+    
+    <item>
+      <title>Are Modern Droughts Unprecedented?</title>
+      <link>https://geco-group.org/publication/helpap-26-aguadv/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://geco-group.org/publication/helpap-26-aguadv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
