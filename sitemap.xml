@@ -23,7 +23,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/publication-type/2/</loc>
-    <lastmod>2026-08-12T22:38:09+02:00</lastmod>
+    <lastmod>2026-08-12T22:45:43+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/publication/helpap-26-aguadv/</loc>
@@ -31,11 +31,11 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/authors/</loc>
-    <lastmod>2026-08-12T22:38:09+02:00</lastmod>
+    <lastmod>2026-08-12T22:45:43+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/benjamin-d.-stocker/</loc>
-    <lastmod>2026-08-12T22:38:09+02:00</lastmod>
+    <lastmod>2026-08-12T22:45:43+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/christoph-c.-raible/</loc>
@@ -55,7 +55,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/</loc>
-    <lastmod>2026-08-12T22:38:09+02:00</lastmod>
+    <lastmod>2026-08-12T22:45:43+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/jorg-franke/</loc>
@@ -79,11 +79,11 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/publication_types/</loc>
-    <lastmod>2026-08-12T22:38:09+02:00</lastmod>
+    <lastmod>2026-08-12T22:45:43+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/publication/</loc>
-    <lastmod>2026-08-12T22:38:09+02:00</lastmod>
+    <lastmod>2026-08-12T22:45:43+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/ralf-hand/</loc>
@@ -95,7 +95,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tags/</loc>
-    <lastmod>2026-08-12T22:38:09+02:00</lastmod>
+    <lastmod>2026-08-12T22:45:43+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/benjamin-stocker/</loc>
@@ -108,6 +108,46 @@
   </url><url>
     <loc>https://geco-group.org/post/trockenheit/</loc>
     <lastmod>2026-07-09T22:54:13+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/anomaly-detection/</loc>
+    <lastmod>2026-08-12T22:45:43+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/publication/biegel-26-isprs/</loc>
+    <lastmod>2026-08-12T22:45:43+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/david-bruggemann/</loc>
+    <lastmod>2026-08-12T22:45:43+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/forest-monitoring/</loc>
+    <lastmod>2026-08-12T22:45:43+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/francesco-grossi/</loc>
+    <lastmod>2026-08-12T22:45:43+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/konrad-schindler/</loc>
+    <lastmod>2026-08-12T22:45:43+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/michele-volpi/</loc>
+    <lastmod>2026-08-12T22:45:43+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/author/samantha-biegel/</loc>
+    <lastmod>2026-08-12T22:45:43+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/sentinel-2/</loc>
+    <lastmod>2026-08-12T22:45:43+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/vegetation-cycle/</loc>
+    <lastmod>2026-08-12T22:45:43+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/project/</loc>
@@ -196,54 +236,6 @@
   </url><url>
     <loc>https://geco-group.org/author/william-j.-matthaeus/</loc>
     <lastmod>2026-08-12T22:38:09+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/publication-type/0/</loc>
-    <lastmod>2026-08-12T22:38:08+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/anomaly-detection/</loc>
-    <lastmod>2026-08-12T22:38:08+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/computer-science-computer-vision-and-pattern-recognition/</loc>
-    <lastmod>2026-08-12T22:38:08+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/publication/biegel-26-arxiv/</loc>
-    <lastmod>2026-08-12T22:38:08+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/david-bruggemann/</loc>
-    <lastmod>2026-08-12T22:38:08+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/francesco-grossi/</loc>
-    <lastmod>2026-08-12T22:38:08+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/konrad-schindler/</loc>
-    <lastmod>2026-08-12T22:38:08+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/michele-volpi/</loc>
-    <lastmod>2026-08-12T22:38:08+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/ndvi/</loc>
-    <lastmod>2026-08-12T22:38:08+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/author/samantha-biegel/</loc>
-    <lastmod>2026-08-12T22:38:08+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/sentinel-2/</loc>
-    <lastmod>2026-08-12T22:38:08+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://geco-group.org/tag/statistics-applications/</loc>
-    <lastmod>2026-08-12T22:38:08+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/tag/land-surface-model/</loc>
@@ -608,6 +600,10 @@
   </url><url>
     <loc>https://geco-group.org/publication/biegel-25-bg/</loc>
     <lastmod>2025-12-01T08:30:21+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/publication-type/0/</loc>
+    <lastmod>2025-12-01T18:49:13+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/publication/helpap-25-essoar/</loc>
@@ -1399,6 +1395,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://geco-group.org/author/marco-milanta/</loc>
+    <lastmod>2024-02-02T13:21:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://geco-group.org/tag/ndvi/</loc>
     <lastmod>2024-02-02T13:21:09+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
