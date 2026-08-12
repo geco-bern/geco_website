@@ -12,14 +12,13 @@ authors:
 - Konrad Schindler
 - Benjamin D. Stocker
 tags:
-- NDVI
-- Computer Science - Computer Vision and Pattern Recognition
-- Sentinel-2
 - anomaly detection
-- Statistics - Applications
+- forest monitoring
+- Sentinel-2
+- vegetation cycle
 categories: []
-date: '2026-04-01'
-lastmod: 2026-08-12T22:38:08+02:00
+date: '2026-07-01'
+lastmod: 2026-08-12T22:45:43+02:00
 featured: false
 draft: false
 
@@ -37,9 +36,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-08-12T20:38:07.912040Z'
+publishDate: '2026-08-12T20:45:43.543442Z'
 publication_types:
-- '0'
+- '2'
 abstract: Natural and anthropogenic disturbances are impacting the health of forests
   worldwide. Monitoring forest disturbances at scale is important to inform conservation
   efforts. Here, we present a scalable approach for country-wide mapping of forest
@@ -54,9 +53,10 @@ abstract: Natural and anthropogenic disturbances are impacting the health of for
   approach produces coherent spatial anomaly patterns and enables country-wide quantification
   of forest browning. Case studies with independent reference data from known events
   illustrate that the model reliably detects different types of disturbances.
-publication: '*arXiv*'
-doi: 10.48550/arXiv.2604.02074
+publication: '*ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information
+  Sciences*'
+doi: 10.5194/isprs-annals-XI-3-2026-713-2026
 links:
 - name: URL
-  url: http://arxiv.org/abs/2604.02074
+  url: https://isprs-annals.copernicus.org/articles/XI-3-2026/713/2026/
 ---
