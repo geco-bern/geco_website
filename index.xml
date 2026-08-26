@@ -5,12 +5,89 @@
     <link>https://geco-group.org/</link>
       <atom:link href="https://geco-group.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Geocomputation and Earth Observation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Aug 2026 16:47:45 +0200</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>Geocomputation and Earth Observation</title>
       <link>https://geco-group.org/</link>
     </image>
+    
+    <item>
+      <title>Is the European 2026 drought unprecedented in the last millennium?</title>
+      <link>https://geco-group.org/post/pcwd_2026_lastmill/</link>
+      <pubDate>Wed, 26 Aug 2026 16:47:45 +0200</pubDate>
+      <guid>https://geco-group.org/post/pcwd_2026_lastmill/</guid>
+      <description>&lt;p&gt;Patricia Helpap recently published her Master thesis work in &lt;em&gt;AGU Advances&lt;/em&gt; (&lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002536&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Helpap et al., 2026&lt;/a&gt;). She contrasted the droughts of the recent past (2000-2024) versus an extended context, covering the past 600 years and the unforced atmospheric variability. This asked the question of whether recent droughts are unprecedented and beyond the range of variability estimated for the past. She found that (up to 2024), droughts of the 21st century have not yet exceeded this extended reference in many regions across the globe. Individual years showed up in individual model simulations where the drought magnitude exceeded even 21st century droughts. This partly reflects the statistics: the longer you wait and the more realisations of the inherently chaotic climate system you consider, the higher the probability that you&amp;rsquo;ll find an individual year showing an even stronger drought than what was recorded by climate reanalysis of the past decades. One novelty of her study was that she extended this reference massively compared to what is commonly done when considering climate reanalysis going back some 50 years.&lt;/p&gt;
+&lt;p&gt;But that&amp;rsquo;s only part of the story. The other part is that there has indeed been a shift of the distribution of drought magnitudes in most regions globally. Even if it hasn&amp;rsquo;t shown up in the past, the probability for regions to experience extreme droughts has gradually shifted and is now higher than ever before in the last 600 years in most regions globally.&lt;/p&gt;
+&lt;p&gt;So far so (not so) good. But then came the summer of 2026. In Europe, we have experienced a level of dryness many of us (all of us?) cannot remember to have ever experienced before. Trees and grasslands turned brown all around, agriculture is in a crisis, emergency relief was triggered to safe livestock and harvests. With my research group, we have pulled several different data types together to provide a continuous monitoring of the drought situation in the &lt;a href=&#34;https://geco-bern.github.io/bern_drought_monitor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bern Drought Monitor&lt;/a&gt;. This showed what we felt and saw: The magnitude of water deficits in 2026 have moved far beyond what was recorded in the past 45 years. This climate extreme unfolded while Patricia&amp;rsquo;s paper was published. And the question was obvious: would her fresh results hold against an updated analysis that included 2026? (Her analysis included years only up to 2024.)&lt;/p&gt;
+&lt;p&gt;This is why we re-opened the case and ran her analysis again with updated climate reanalysis (ERA5-Land), contrasted against the same multi-centennial reference as she used in her study and with the same averaging across the region &amp;lsquo;Western Central Europe&amp;rsquo; (WCE), which spans from France to Ukraine and the Baltic states. The results show a nuanced picture.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-annual-maximum-pcwd-time-series-and-distributions-left-pcwd-time-series-from-1420-to-2024-for-wce-western-central-europe-ipcc-region-thin-light-blue-lines-denote-individual-simulation-ensemble-members-dark-blue-lines-denote-the-ensemble-mean-black-line-shows-the-25year-rolling-mean-of-the-ensemble-mean-red-line-denotes-era5land-pcwd-for-19752026-horizontal-blue-line-shows-the-maximum-pcwd-value-across-all-simulation-ensemble-members-the-horizontal-red-line-shows-the-2026-value-right-distribution-of-the-pcwd-from-the-simulations-blue-and-climate-reanalysis-red-for-wce&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;summer change in precipitation&#34; srcset=&#34;
+               /media/PCWD_WCE_hu5bbc7f2e55380c8d77f998efa20ef947_743679_5ed6a79b639ced5309e5f642d7477b80.webp 400w,
+               /media/PCWD_WCE_hu5bbc7f2e55380c8d77f998efa20ef947_743679_50616bf3f0d20909cf5201978de37650.webp 760w,
+               /media/PCWD_WCE_hu5bbc7f2e55380c8d77f998efa20ef947_743679_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/PCWD_WCE_hu5bbc7f2e55380c8d77f998efa20ef947_743679_5ed6a79b639ced5309e5f642d7477b80.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;228&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Annual maximum PCWD time series and distributions. (left) PCWD time series from 1420 to 2024 for WCE (Western Central Europe IPCC region). Thin light blue lines denote individual simulation ensemble members. Dark blue lines denote the ensemble mean. Black line shows the 25‐year rolling mean of the ensemble mean. Red line denotes ERA5‐Land PCWD for 1975–2026. Horizontal blue line shows the maximum PCWD value across all simulation ensemble members. The horizontal red line shows the 2026 value. (right) Distribution of the PCWD from the simulations (blue) and climate reanalysis (red) for WCE.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;For the WCE region, 2026 doesn&amp;rsquo;t stand out as a record drought year. The PCWD of 2018 remains the highest ever recorded based on climate reanalysis data (ERA5-Land). Also the twenty ensemble simulations of the past climate, sampling a good portion of viable realisations of the climate variability, given reconstructed boundary conditions (greenhouse gases, insolation, volcanic activity, sea surface temperatures) did not produce clearly larger events in the past 600 years. (In fact, 1598 and 1427 did produce slightly higher PCWD in one of the ensemble members respectively with 171 mm and 170.1 mm, compared to the ERA5-Land-based 2018 estimate of 170.0 mm). Of course, the perhaps most striking feature for the WCE region is the systematic and rapidly increasing trend of PCWD over the past decades as recorded by climate reanalysis (red line). The rapid and continuous shift towards stronger droughts is clear.&lt;/p&gt;
+&lt;p&gt;The reason for this result, which obviously doesn&amp;rsquo;t align with our (Switzerland-centred) perception of this year&amp;rsquo;s drought is beause the eastern part of the large WCE region wasn&amp;rsquo;t extremely dry this year. We therefore did the same analysis also for just Switzerland. Note however, that the analysis was done here at a spatial grid of 1.8 degrees. This covers much of Switzerland in one gridcell and the resulting PCWD includes regions that were more and less dry in 2026, that is the lowlands and the Alps (see also &lt;a href=&#34;https://geco-bern.github.io/bern_drought_monitor/#r%C3%A4umliche-darstellung-des-aktuellen-pcwd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;). Nevertheless, 2026 shows up as the strongest ever recorded drought among the years covered by ERA5-Land. When referenced against the climate simulations, the 2026 PCWD corresponds to the 99.8% percentile. Roughly speaking and in simplified terms, this means that a drought like the one of 2026 can be expected to happen about twice every 1000 years if we were still living in the pre-anthropogenic-climate change world.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-annual-maximum-pcwd-time-series-and-distributions-left-pcwd-time-series-from-1420-to-2024-for-switzerland-values-extracted-from-the-corresopnding-gridcell-thin-light-blue-lines-denote-individual-simulation-ensemble-members-dark-blue-lines-denote-the-ensemble-mean-black-line-shows-the-25year-rolling-mean-of-the-ensemble-mean-red-line-denotes-era5land-pcwd-for-19752026-horizontal-blue-line-shows-the-maximum-pcwd-value-across-all-simulation-ensemble-members-the-horizontal-red-line-shows-the-2026-value-right-distribution-of-the-pcwd-from-the-simulations-blue-and-climate-reanalysis-red-for-switzerland&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;summer change in precipitation&#34; srcset=&#34;
+               /media/PCWD_CHE_hu64ea4342e39d68a7d20f54144003b8db_650806_c99df8ce0f09e8b1310a6bd281e172e9.webp 400w,
+               /media/PCWD_CHE_hu64ea4342e39d68a7d20f54144003b8db_650806_42751a50744e99dd199cb912398b82bd.webp 760w,
+               /media/PCWD_CHE_hu64ea4342e39d68a7d20f54144003b8db_650806_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://geco-group.org/media/PCWD_CHE_hu64ea4342e39d68a7d20f54144003b8db_650806_c99df8ce0f09e8b1310a6bd281e172e9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;228&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Annual maximum PCWD time series and distributions. (left) PCWD time series from 1420 to 2024 for Switzerland (values extracted from the corresopnding gridcell). Thin light blue lines denote individual simulation ensemble members. Dark blue lines denote the ensemble mean. Black line shows the 25‐year rolling mean of the ensemble mean. Red line denotes ERA5‐Land PCWD for 1975–2026. Horizontal blue line shows the maximum PCWD value across all simulation ensemble members. The horizontal red line shows the 2026 value. (right) Distribution of the PCWD from the simulations (blue) and climate reanalysis (red) for Switzerland.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Unfortunately, we don&amp;rsquo;t. The statistics of drought are shifting as Patricia showed in her paper (Helpap et al., 2026) and the probability to be hit again by a drought of 2026-level or worse is increasing from year to year as global warming progresses and greenhouse gas emissions are not reduced to net-zero.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Helpap, P., Brönnimann, S., Hand, R., Franke, J., Raible, C. C., and Stocker, B. D.: Are Modern Droughts Unprecedented?, &lt;em&gt;AGU Advances&lt;/em&gt;, 7, e2026AV002536, &lt;a href=&#34;https://doi.org/10.1029/2026AV002536&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2026AV002536&lt;/a&gt;, 2026.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bachelor thesis - Drought projections for Switzerland</title>
