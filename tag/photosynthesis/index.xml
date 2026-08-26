@@ -5,12 +5,41 @@
     <link>https://geco-group.org/tag/photosynthesis/</link>
       <atom:link href="https://geco-group.org/tag/photosynthesis/index.xml" rel="self" type="application/rss+xml" />
     <description>photosynthesis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
       <title>photosynthesis</title>
       <link>https://geco-group.org/tag/photosynthesis/</link>
     </image>
+    
+    <item>
+      <title>Master thesis - Modelling frost and spring phenology effects on ecosystem CO2 uptake</title>
+      <link>https://geco-group.org/joinus/frost-phenology-gpp/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>https://geco-group.org/joinus/frost-phenology-gpp/</guid>
+      <description>&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+&lt;p&gt;Frost and spring phenology are important drivers of ecosystem CO&lt;sub&gt;2&lt;/sub&gt; uptake and its anomalies from year to year. Climate warming is advancing spring leaf unfolding in many ecosystems, but an earlier start of the growing season can also increase vegetation exposure to damaging late-frost events. Accurately accounting for these interacting effects is therefore essential for understanding and modelling ecosystem responses to climatic extremes.&lt;/p&gt;
+&lt;p&gt;Previous work in our group has established the importance of frost and spring phenology and identified their environmental controls across eddy-covariance measurement sites. This work has also produced an approach for representing these effects in a satellite data-driven photosynthesis model.&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;This thesis will apply the newly developed approach and evaluate the revised photosynthesis model using an extended benchmarking workflow. The analysis will quantify how accounting for frost and spring phenology affects the model&amp;rsquo;s ability to reproduce ecosystem-level gross primary production (GPP) and its interannual variability.&lt;/p&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
+&lt;p&gt;You will work with ecosystem flux measurements, satellite observations, climate data, and a process-based photosynthesis model. The core project will implement and benchmark the existing frost and phenology approach across eddy-covariance sites.&lt;/p&gt;
+&lt;p&gt;Depending on progress and interest, further questions may include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;testing how well the revised model generalises across ecosystem measurement sites globally&lt;/li&gt;
+&lt;li&gt;developing a novel model-calibration workflow using a tailored Bayesian statistical approach&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The project is an ideal entry point for working with ecosystem models and for developing a process-based understanding of ecosystem impacts caused by climatic extremes.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The student is motivated to run and contribute to development of our ecosystem model and to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools and programming are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;p&gt;Prof. Benjamin Stocker&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Global Photosynthesis Acclimates to Rising Temperatures Through Predictable Changes in Photosynthetic Capacities, Enzyme Kinetics, and Stomatal Sensitivity</title>

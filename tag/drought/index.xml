@@ -1,16 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Drought | Geocomputation and Earth Observation</title>
+    <title>drought | Geocomputation and Earth Observation</title>
     <link>https://geco-group.org/tag/drought/</link>
       <atom:link href="https://geco-group.org/tag/drought/index.xml" rel="self" type="application/rss+xml" />
-    <description>Drought</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <description>drought</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
-      <title>Drought</title>
+      <title>drought</title>
       <link>https://geco-group.org/tag/drought/</link>
     </image>
+    
+    <item>
+      <title>Bachelor thesis - Drought projections for Switzerland</title>
+      <link>https://geco-group.org/joinus/drought-projections-switzerland/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>https://geco-group.org/joinus/drought-projections-switzerland/</guid>
+      <description>&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+&lt;p&gt;Useful drought projections have to go beyond analysing trends in precipitation. The timing of precipitation events, trends in temperature and incoming solar radiation, and changes in snow accumulation and snowmelt jointly determine drought impacts. These processes are especially important when considering the effects of drought on forests and grasslands.&lt;/p&gt;
+&lt;p&gt;The latest climate change scenarios for Switzerland (CH2025) provide high-resolution projections of the climate conditions that shape future droughts. This thesis will use these projections to investigate how climate heating changes the frequency and magnitude of drought across Switzerland.&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;The aim of this thesis is to evaluate the CH2025 climate projections for trends in drought, quantified using the &lt;strong&gt;potential cumulative water deficit (PCWD)&lt;/strong&gt;. PCWD is a simple metric that combines the primary climatic factors driving vegetation water stress and productivity declines during drought.&lt;/p&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
+&lt;p&gt;You will work with daily climate simulation outputs from CH2025 at 1 km spatial resolution. You will calculate PCWD and analyse how it changes relative to the modern reference climate. The resulting maps and time series will reveal where, when, and by how much drought conditions are projected to change in Switzerland.&lt;/p&gt;
+&lt;p&gt;Through this work, you will contribute to a better understanding of how climate heating affects drought risk for Swiss ecosystems.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The student is motivated to work with large datasets and puts an emphasis on producing reproducible analyses and reusable code&lt;/li&gt;
+&lt;li&gt;Experience working with climate model outputs, NetCDF data, raster data in R or other data science tools are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;p&gt;Prof. Benjamin Stocker&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master thesis - Global drought projections across IPCC regions</title>
+      <link>https://geco-group.org/joinus/global-drought-projections/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>https://geco-group.org/joinus/global-drought-projections/</guid>
+      <description>&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+&lt;p&gt;Useful drought projections have to go beyond analysing trends in precipitation. The timing of precipitation events, trends in temperature and incoming solar radiation, and changes in snow accumulation and snowmelt jointly determine drought impacts. These processes are especially important when considering the effects of drought on forests, grasslands, and agricultural production.&lt;/p&gt;
+&lt;p&gt;Recent work by &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002536&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Helpap et al. (2026)&lt;/a&gt; placed modern droughts in the context of natural variability over past centuries. Extending this perspective into the future is essential for understanding how drought risks may evolve under different climate scenarios and how these changes vary among world regions.&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;This thesis will quantify projected changes in drought globally, with analyses organised around the IPCC reference regions. It will extend the historical perspective of &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002536&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Helpap et al. (2026)&lt;/a&gt; from the past into the future and compare outcomes under different climate scenarios.&lt;/p&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
+&lt;p&gt;You will apply the potential cumulative water deficit (PCWD) approach used for the Swiss drought-projection thesis at the global scale. The workflow will additionally include bias correction against ERA5-Land, following the method developed by Helpap et al. (2026). You will analyse changes in drought frequency and magnitude and compare them across scenarios and IPCC regions.&lt;/p&gt;
+&lt;p&gt;The project is an ideal entry point for working with ecosystem models and for developing a process-based understanding of ecosystem impacts caused by climatic extremes.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The student is motivated to work with large datasets and puts an emphasis on producing reproducible analyses and reusable code&lt;/li&gt;
+&lt;li&gt;Experience working with climate model outputs, NetCDF data, raster data in R or other data science tools are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;p&gt;Prof. Benjamin Stocker&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master thesis - Modelling future water shortages in Switzerland</title>
+      <link>https://geco-group.org/joinus/future-water-shortages-switzerland/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>https://geco-group.org/joinus/future-water-shortages-switzerland/</guid>
+      <description>&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+&lt;p&gt;Useful drought projections have to go beyond analysing trends in precipitation. The timing of precipitation events, trends in temperature and incoming solar radiation, and changes in snow accumulation and snowmelt jointly determine drought impacts. These processes are especially important when considering the effects of drought on forests, grasslands, and agricultural production.&lt;/p&gt;
+&lt;p&gt;Future water shortages arise when ecosystem water demand exceeds the water supplied by precipitation and stored in the landscape. Quantifying this imbalance is essential for anticipating where irrigation or other adaptations may be needed to maintain current productivity levels under climate change.&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;This thesis will quantify future water shortages in Switzerland under the latest CH2025 climate scenarios. You will calculate the difference between water supply and ecosystem water consumption and diagnose the resulting imbalance as an estimate of the additional water required to maintain present-day productivity.&lt;/p&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
+&lt;p&gt;You will set up the &lt;a href=&#34;https://geco-bern.github.io/rsofun/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;P-model&lt;/a&gt; at 1 km spatial resolution for all of Switzerland. The simulations will use high-resolution MeteoSwiss climate data together with remotely sensed vegetation information, including MODIS FPAR and potentially corresponding Copernicus products.&lt;/p&gt;
+&lt;p&gt;Leaf area index will be prescribed using observations from the past 30 years. The model will simulate evapotranspiration (ET) and gross primary production (GPP) under future climate scenarios while retaining water-stress responses representative of the recent climatology. Diagnosing the simulated water balance gaps will reveal potential water shortages and provide an estimate of irrigation demand under future climates.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The student is motivated to run and contribute to development of our ecosystem model and to work with large datasets of the terrestrial biosphere.&lt;/li&gt;
+&lt;li&gt;Experience working with R or other data science tools and programming are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;p&gt;Prof. Benjamin Stocker&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Are Modern Droughts Unprecedented?</title>

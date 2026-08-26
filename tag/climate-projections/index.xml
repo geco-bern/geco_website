@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>climate projections | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/tag/climate-projections/</link>
+      <atom:link href="https://geco-group.org/tag/climate-projections/index.xml" rel="self" type="application/rss+xml" />
+    <description>climate projections</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png</url>
+      <title>climate projections</title>
+      <link>https://geco-group.org/tag/climate-projections/</link>
+    </image>
+    
+    <item>
+      <title>Master thesis - Global drought projections across IPCC regions</title>
+      <link>https://geco-group.org/joinus/global-drought-projections/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>https://geco-group.org/joinus/global-drought-projections/</guid>
+      <description>&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+&lt;p&gt;Useful drought projections have to go beyond analysing trends in precipitation. The timing of precipitation events, trends in temperature and incoming solar radiation, and changes in snow accumulation and snowmelt jointly determine drought impacts. These processes are especially important when considering the effects of drought on forests, grasslands, and agricultural production.&lt;/p&gt;
+&lt;p&gt;Recent work by &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002536&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Helpap et al. (2026)&lt;/a&gt; placed modern droughts in the context of natural variability over past centuries. Extending this perspective into the future is essential for understanding how drought risks may evolve under different climate scenarios and how these changes vary among world regions.&lt;/p&gt;
+&lt;h2 id=&#34;aim&#34;&gt;Aim&lt;/h2&gt;
+&lt;p&gt;This thesis will quantify projected changes in drought globally, with analyses organised around the IPCC reference regions. It will extend the historical perspective of &lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002536&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Helpap et al. (2026)&lt;/a&gt; from the past into the future and compare outcomes under different climate scenarios.&lt;/p&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
+&lt;p&gt;You will apply the potential cumulative water deficit (PCWD) approach used for the Swiss drought-projection thesis at the global scale. The workflow will additionally include bias correction against ERA5-Land, following the method developed by Helpap et al. (2026). You will analyse changes in drought frequency and magnitude and compare them across scenarios and IPCC regions.&lt;/p&gt;
+&lt;p&gt;The project is an ideal entry point for working with ecosystem models and for developing a process-based understanding of ecosystem impacts caused by climatic extremes.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The student is motivated to work with large datasets and puts an emphasis on producing reproducible analyses and reusable code&lt;/li&gt;
+&lt;li&gt;Experience working with climate model outputs, NetCDF data, raster data in R or other data science tools are an advantage.&lt;/li&gt;
+&lt;li&gt;The student writes the thesis in English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;supervision&#34;&gt;Supervision&lt;/h2&gt;
+&lt;p&gt;Prof. Benjamin Stocker&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
