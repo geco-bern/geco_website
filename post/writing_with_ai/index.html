@@ -1,0 +1,1511 @@
+<!DOCTYPE html>
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: September 1, 2026 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.7.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.16f785cdb553c8c4431db6775122af35.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css" integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.10a02bce133f791638970cdcb8f249f5.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Koen Hufkens" />
+
+
+
+
+
+  
+
+<meta name="description" content="As a researcher, group leader, and teacher, I work a lot with text. AI is changing the way I read, revise, and evaluate text. In some ways it’s becoming easier as texts by my students often come in a polished form that makes it easier to parse its information than when being distracted by language imperfections." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://geco-group.org/post/writing_with_ai/" />
+<link rel="canonical" href="https://geco-group.org/post/writing_with_ai/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#519F77" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+
+  <meta property="twitter:site" content="@@SteniBocker" />
+  <meta property="twitter:creator" content="@@SteniBocker" />
+<meta property="twitter:image" content="https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png" />
+<meta property="og:site_name" content="Geocomputation and Earth Observation" />
+<meta property="og:url" content="https://geco-group.org/post/writing_with_ai/" />
+<meta property="og:title" content="Writing with AI | Geocomputation and Earth Observation" />
+<meta property="og:description" content="As a researcher, group leader, and teacher, I work a lot with text. AI is changing the way I read, revise, and evaluate text. In some ways it’s becoming easier as texts by my students often come in a polished form that makes it easier to parse its information than when being distracted by language imperfections." /><meta property="og:image" content="https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2026-09-01T10:00:09&#43;02:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2026-09-01T10:00:09&#43;02:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://geco-group.org/post/writing_with_ai/"
+  },
+  "headline": "Writing with AI",
+  
+  "datePublished": "2026-09-01T10:00:09+02:00",
+  "dateModified": "2026-09-01T10:00:09+02:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Benjamin Stocker"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Geocomputation and Earth Observation",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://geco-group.org/media/logo_hue21406914225b119becd577af1fb7f4d_583632_192x192_fit_lanczos_3.png"
+    }
+  },
+  "description": "As a researcher, group leader, and teacher, I work a lot with text. AI is changing the way I read, revise, and evaluate text. In some ways it’s becoming easier as texts by my students often come in a polished form that makes it easier to parse its information than when being distracted by language imperfections."
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Writing with AI | Geocomputation and Earth Observation</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="a1a1da447dd6a395091f3c435e3ca30b" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.fe8634e7d00f14d07fb33caf14cc8e55.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/"><img src="/media/logo_hue21406914225b119becd577af1fb7f4d_583632_0x70_resize_lanczos_3.png" alt="Geocomputation and Earth Observation"
+            
+            ></a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/"><img src="/media/logo_hue21406914225b119becd577af1fb7f4d_583632_0x70_resize_lanczos_3.png" alt="Geocomputation and Earth Observation"
+          
+          ></a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/project"><span>Research & Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://github.com/geco-bern" target="_blank" rel="noopener"><span>Data & code</span></a>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Courses</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="https://geco-bern.github.io/agds1_course/"><span>Applied Geodata Science 1</span></a>
+              
+                <a class="dropdown-item" href="https://geco-bern.github.io/agds2_course/"><span>Applied Geodata Science 2</span></a>
+              
+                <a class="dropdown-item" href="https://geco-bern.github.io/les/part1.html"><span>Land in the Earth System 1</span></a>
+              
+                <a class="dropdown-item" href="https://geco-bern.github.io/les2_course/"><span>Land in the Earth System 2</span></a>
+              
+                <a class="dropdown-item" href="https://geco-bern.github.io/agds_proseminar/"><span>Proseminar in Geocomputation and Earth Observation</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Tutorials</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="https://geco-bern.github.io/agds_book/"><span>Applied Geodata Science</span></a>
+              
+                <a class="dropdown-item" href="https://geco-bern.github.io/les/"><span>Land in the Earth System</span></a>
+              
+                <a class="dropdown-item" href="https://geco-bern.github.io/handfull_of_pixels/"><span>A Handful of Pixels - Phenology modelling and land cover classification</span></a>
+              
+                <a class="dropdown-item" href="https://geco-bern.github.io/tutorial_digital_soil_mapping/"><span>Digital Soil Mapping</span></a>
+              
+                <a class="dropdown-item" href="https://padasch.github.io/leaf_energy_balance_tutorial/"><span>Leaf Energy Balance</span></a>
+              
+                <a class="dropdown-item" href="https://geco-bern.github.io/ml4ec_workshop/"><span>Machine learning for Eddy Covariance data</span></a>
+              
+                <a class="dropdown-item" href="https://geco-bern.github.io/dyptop_tutorial/"><span>Sub-grid scale modelling of global peatlands</span></a>
+              
+                <a class="dropdown-item" href="https://geco-bern.github.io/spatial_upscaling/"><span>Spatial upscaling</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/post"><span>Blog</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/people"><span>People</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/joinus"><span>Join us</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Writing with AI</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      <a href="/author/benjamin-stocker/">Benjamin Stocker</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Sep 1, 2026
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    5 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>As a researcher, group leader, and teacher, I work a lot with text. AI is changing the way I read, revise, and evaluate text. In some ways it’s becoming easier as texts by my students often come in a polished form that makes it easier to parse its information than when being distracted by language imperfections. In other ways, there has also been a rapid transformation in the way I appreciate this nice polished “surface”. The core of the text and its content, not its form, remains its essence. And it has become ever more important that this core lives up to expectations. Everybody can now generate text that appears publication-ready at first sight. Ever more clearly, the distinguishing point has become whether the science behind the text is solid and accurately represented by the text. Here lies the problem.</p>
+<p>AI-style text is often generic, comes in hyperbole, and refers to specifics in an unreliable manner. In science, writing is a form of translating data and insights from analyses into words. In doing so, the text must stay true to what has been done and what can be said and is supported by the analysis. Perhaps most clearly in the Methods description of a scientific article, the text is just a form of describing exactly what your analysis scripts did, so that the scripts could be reliably reverse-engineered from your text. AI often generates text that violates the link between the specifics of your analysis and data and how it is presented in text. Instead, we want text that is concise, modest, true to the analysis and data, and is devoid of the typical markers of what comes out of an AI. When I get repeatedly reminded that I am reading the output of an AI, I turn away and view the text more critically than when it is a genuine product of the author personally.</p>
+<p>Remember, as the author of a text, you are solely responsible for its content and bloomy words are not a replacement for content. As a teacher and supervisor in the age of AI, I learn to distill the essence and the specifics from the wrapping in polished text. I am becoming less fooled by good writing, hiding poor science. Therefore, much more attention will have to be paid to what matters most: the science on which the text reports. If I have to work hard in stripping down bloomy text from a feeble basis and am left with little that stands, mental load is wasted. Sometimes, the <em>style</em> of text an indicator for how large the gap between the shiny text and the science behind is. Therefore, be very careful with the adoption of AI-styled text! If you expose yourself as being replaced by an AI in excessive adoption of its style of writing, you take yourself out of the game and let yourself (your intellect, your style, your personality) be replaced by an AI. Don’t do that.</p>
+<p>Another point is that AI &ldquo;levels the playground” such that non-native English speakers can overcome a systemic disadvantage in the entirely English-dominated academic publishing world. That’s fair. But it remains important that we all keep control over the interpretation and framing of our science. We cannot delegate this to AI. The challenge will be to find the fine line between using AI as a tool to translate complex science into concise text versus letting AI to the full job of translating numeric insights into the form that is parsed by human brains - language. There is not a clear line. But if the framing and interpretation of the data is not your own and if language has diverged into a form that is clearly no longer your own personal way of writing, then it has gone too far.</p>
+<p>The following is an incomplete collection of things to avoid and things to emphasise. If you have suggestions and comments, please direct-message me.</p>
+<h3 id="things-that-you-should-do">Things that you should do</h3>
+<ul>
+<li>Write down all content in bullet points or in full text. Such text may be clumsy, but it must be accurate. Then you may let AI help you transform clumsy text into clear text. While you let AI help you translate numeric insights into comprehensible text, make sure it remains perfectly accurate to what you want it to express. The more complete your text instructions are, the more effectively you avoid AI taking it too far.</li>
+<li>Be as specific as possible. AI often generates text that sounds nice, but is not really referring to your specific analysis or data. Therefore, pay particular attention that the accurate description of specific types of analyses and data.</li>
+<li>Be as precise as possible in what conclusions you draw from your analysis and stay close to what your analysis actually yields. Highlight/explain/justify when generalisations and interpretation of wider validity are made. AI often takes interpretations to a level of generality that is not supported by your analysis. This must be counteracted (often actively) to avoid violation of what is actually a basic principle and old wisdom of scientific writing (AI doesn’t particularly go with old wisdoms): Avoid over-reaching conclusions, that is conclusions that are not supported by the analysis.</li>
+<li>Consistent use of specific terms throughout the manuscript. AI is often used to (re-) write individual paragraphs. Consistent use of terms is often lost by that practice.</li>
+<li>Cross-reference to figures and tables whenever suitable. AI often neglects cross-references.</li>
+</ul>
+<h3 id="things-that-you-should-not-do">Things that you should not do</h3>
+<ul>
+<li>Avoid text in bullet points.</li>
+<li>Avoid excessive use of the semi-colon and the ‘—’. Instead use full stop ‘.’, commas, and brackets.</li>
+<li>Avoid persistent bold-facing of the first 1-3 words in each paragraph.</li>
+<li>Avoid judgemental language. Report the strength of an effect, or the significance, etc. with numbers and avoid any statement that this is ‘strong’, or ‘surprising’, or ‘interesting’, or ‘remarkable’. That’s an old wisdom in scientific writing, but AI doesn’t really know about old wisdoms, it seems.</li>
+<li>Avoid hyperbole. Use concise, precise, simple, and modest language. Make your text more boring than AI thinks it should be.</li>
+</ul>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgeco-group.org%2Fpost%2Fwriting_with_ai%2F&amp;text=Writing&#43;with&#43;AI" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fgeco-group.org%2Fpost%2Fwriting_with_ai%2F&amp;t=Writing&#43;with&#43;AI" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=Writing%20with%20AI&amp;body=https%3A%2F%2Fgeco-group.org%2Fpost%2Fwriting_with_ai%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fgeco-group.org%2Fpost%2Fwriting_with_ai%2F&amp;title=Writing&#43;with&#43;AI" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Writing&#43;with&#43;AI%20https%3A%2F%2Fgeco-group.org%2Fpost%2Fwriting_with_ai%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fgeco-group.org%2Fpost%2Fwriting_with_ai%2F&amp;title=Writing&#43;with&#43;AI" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/benjamin-stocker/"><img class="avatar mr-3 avatar-circle" src="/author/benjamin-stocker/avatar_hud86a2d87ba51f3c01f7b79d227519376_1195689_270x270_fill_q75_lanczos_center.jpg" alt="Benjamin Stocker"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/benjamin-stocker/">Benjamin Stocker</a></h5>
+      <h6 class="card-subtitle">Associate Professor</h6>
+      <p class="card-text">Heliocentrist human being.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/geco-bern" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0003-2697-9096" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Benjamin_Stocker" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.es/citations?user=TX7egiYAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/SteniBocker" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.youtube.com/@geco-group" target="_blank" rel="noopener">
+        <i class="fab fa-youtube"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2026 Geocomputation and Earth Observation. Photos credit Benjamin Stocker. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.d26509351aa0ff874abbee824e982e9b.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.e8ee06ba8371980ffde659871dd593b0.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
