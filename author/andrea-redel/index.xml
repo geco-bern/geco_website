@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Redel | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/andrea-redel/</link>
+      <atom:link href="https://geco-group.org/author/andrea-redel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrea Redel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://geco-group.org/author/andrea-redel/avatar_hue6038b48d602300a4428842b4d1caeaa_101780_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Andrea Redel</title>
+      <link>https://geco-group.org/author/andrea-redel/</link>
+    </image>
+    
+  </channel>
+</rss>
