@@ -40,8 +40,8 @@ The project is an ideal entry point for working with ecosystem models and for de
 
 ## Requirements
 
-- The student is motivated to run and contribute to development of our ecosystem model and to work with large datasets of the terrestrial biosphere.
-- Experience working with R or other data science tools and programming are an advantage.
+- The student is motivated to run and modify our ecosystem model and to calibrate it to real-world datasets of the terrestrial biosphere.
+- Experience working with R or other programming language are an advantage.
 - The student writes the thesis in English.
 
 ## Supervision
