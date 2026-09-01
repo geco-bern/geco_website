@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Writing with AI"
+title: "Scientific writing with AI"
 subtitle: ""
 summary: ""
 authors: [Benjamin Stocker]
@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-As a researcher, group leader, and teacher, I work a lot with text. AI is changing the way I read, revise, and evaluate text. In some ways it’s becoming easier as texts by my students often come in a polished form that makes it easier to parse its information than when being distracted by language imperfections. In other ways, there has also been a rapid transformation in the way I appreciate this nice polished “surface”. The core of the text and its content, not its form, remains its essence. And it has become ever more important that this core lives up to expectations. Everybody can now generate text that appears publication-ready at first sight. Ever more clearly, the distinguishing point has become whether the science behind the text is solid and accurately represented by the text. Here lies the problem.
+As a researcher, group leader, teacher, reviewer, and editor, I work a lot with text. AI is changing the way I read, revise, and evaluate text. In some ways it’s becoming easier as texts by my students often come in a polished form that makes it easier to parse its information than when being distracted by language imperfections. In other ways, there has also been a rapid transformation in the way I appreciate this nice polished “surface”. The core of the text and its content, not its form, remains its essence. And it has become ever more important that this core lives up to expectations. Everybody can now generate text that appears publication-ready at first sight. Ever more clearly, the distinguishing point has become whether the science behind the text is solid and accurately represented by the text. Here lies the problem.
 
 AI-style text is often generic, comes in hyperbole, and refers to specifics in an unreliable manner. In science, writing is a form of translating data and insights from analyses into words. In doing so, the text must stay true to what has been done and what can be said and is supported by the analysis. Perhaps most clearly in the Methods description of a scientific article, the text is just a form of describing exactly what your analysis scripts did, so that the scripts could be reliably reverse-engineered from your text. AI often generates text that violates the link between the specifics of your analysis and data and how it is presented in text. Instead, we want text that is concise, modest, true to the analysis and data, and is devoid of the typical markers of what comes out of an AI. When I get repeatedly reminded that I am reading the output of an AI, I turn away and view the text more critically than when it is a genuine product of the author personally.
 
