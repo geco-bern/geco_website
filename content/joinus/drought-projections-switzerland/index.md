@@ -1,5 +1,5 @@
 ---
-title: "Bachelor thesis - Drought projections for Switzerland"
+title: "Bachelor or Master thesis - Drought projections for Switzerland"
 location: Institute of Geography, University of Bern
 publishDate: 2026-08-26T00:00:00+02:00
 authors: [Benjamin Stocker]
