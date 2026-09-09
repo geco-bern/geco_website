@@ -12,6 +12,6 @@ social:
   link: mailto:valentin.lanz@students.unibe.ch
 title: Valentin Lanz
 user_groups:
-- Bachelor Students
+- Alumni
 ---
 

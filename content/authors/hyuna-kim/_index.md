@@ -8,7 +8,7 @@ interests:
 organizations:
 - name: Geocomputation and Earth Observation, Institute of Geography, University of Bern
   url: ""
-role: Post-Doc, co-hosted Climate Physics
+role: Post-Doc, co-hosted Climate and Environmental Physics
 social:
 - icon: envelope
   icon_pack: fas
