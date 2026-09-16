@@ -1,5 +1,5 @@
 ---
-title: "Master thesis - Modelling frost and spring phenology effects on ecosystem CO2 uptake"
+title: "Master thesis - Modelling frost and spring phenology effects on ecosystem CO~2~ uptake"
 location: Institute of Geography, University of Bern
 publishDate: 2026-08-26T00:00:00+02:00
 authors: [Benjamin Stocker]
