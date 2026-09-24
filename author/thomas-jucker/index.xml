@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Jucker | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/thomas-jucker/</link>
+      <atom:link href="https://geco-group.org/author/thomas-jucker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Jucker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://geco-group.org/author/thomas-jucker/avatar_huf425cc8dd9eca8e47186b342660bea96_121663_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Thomas Jucker</title>
+      <link>https://geco-group.org/author/thomas-jucker/</link>
+    </image>
+    
+  </channel>
+</rss>
