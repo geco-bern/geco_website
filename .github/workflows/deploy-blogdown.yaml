@@ -19,7 +19,7 @@ jobs:
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
 
       - uses: r-lib/actions/setup-pandoc@v2
 
@@ -34,8 +34,7 @@ jobs:
         shell: Rscript {0}
 
       - name: Install hugo
-        # run: blogdown::install_hugo("0.125.4")
-        run: blogdown::install_hugo("0.104.3")
+        run: blogdown::install_hugo()
         shell: Rscript {0}
 
       - name: Build site
@@ -44,7 +43,7 @@ jobs:
 
       - name: Deploy to GitHub pages 🚀
         if: github.event_name != 'pull_request'
-        uses: JamesIves/github-pages-deploy-action@v4.4.1
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: public
