@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tra Pham | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/tra-pham/</link>
+      <atom:link href="https://geco-group.org/author/tra-pham/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tra Pham</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://geco-group.org/author/tra-pham/avatar_hu02aa61ae1d9de35cbe238d2676170cb9_110448_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Tra Pham</title>
+      <link>https://geco-group.org/author/tra-pham/</link>
+    </image>
+    
+  </channel>
+</rss>

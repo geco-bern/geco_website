@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sina Baumberger | Geocomputation and Earth Observation</title>
+    <link>https://geco-group.org/author/sina-baumberger/</link>
+      <atom:link href="https://geco-group.org/author/sina-baumberger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sina Baumberger</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://geco-group.org/author/sina-baumberger/avatar_hu94b221ffc720c520fee0a62ab4a0f52c_8914_270x270_fill_lanczos_center_3.png</url>
+      <title>Sina Baumberger</title>
+      <link>https://geco-group.org/author/sina-baumberger/</link>
+    </image>
+    
+  </channel>
+</rss>
